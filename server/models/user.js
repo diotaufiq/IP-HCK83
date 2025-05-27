@@ -18,6 +18,9 @@ module.exports = (sequelize, DataTypes) => {
       validate: {
         notEmpty: {
           msg: 'Username is required'
+        },
+        notNull: {
+          msg: 'Username is required'
         }
       }
     },
@@ -27,6 +30,9 @@ module.exports = (sequelize, DataTypes) => {
       unique: true,
       validate: {
         notEmpty: {
+          msg: 'Email is required'
+        },
+        notNull: {
           msg: 'Email is required'
         },
         isEmail: {
@@ -40,8 +46,16 @@ module.exports = (sequelize, DataTypes) => {
       validate: {
         notEmpty: {
           msg: 'Password is required'
+        },
+        notNull: {
+          msg: 'Password is required'
         }
       }
+    },
+    role:{
+      type:DataTypes.STRING,
+      defaultValue:'Customer',
+      allowNull:false,
     }
   }, {
     sequelize,

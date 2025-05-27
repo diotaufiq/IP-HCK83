@@ -18,6 +18,8 @@ module.exports = (sequelize, DataTypes) => {
       validate: {
         notEmpty: {
           msg: 'UserId is required'
+        },notNull: {
+          msg: 'UserId is required'
         }
       },
       references: {
@@ -31,6 +33,9 @@ module.exports = (sequelize, DataTypes) => {
       validate: {
         notEmpty: {
           msg: 'Brand is required'
+        },
+        notNull: {
+          msg: 'Brand is required'
         }
       }
     },
@@ -40,6 +45,20 @@ module.exports = (sequelize, DataTypes) => {
       validate: {
         notEmpty: {
           msg: 'Type is required'
+        }, notNull: {
+          msg: 'Type is required'
+        }
+      }
+    }, 
+    condition: {
+      type: DataTypes.STRING,
+      allowNull: false,
+      validate: {
+        notEmpty: {
+          msg: 'Condition is required'
+        },
+        notNull: {
+          msg: 'Condition is required'
         }
       }
     },
@@ -48,6 +67,9 @@ module.exports = (sequelize, DataTypes) => {
       allowNull: false,
       validate: {
         notEmpty: {
+          msg: 'Fuel is required'
+        },
+        notNull: {
           msg: 'Fuel is required'
         }
       }
@@ -58,14 +80,20 @@ module.exports = (sequelize, DataTypes) => {
       validate: {
         notEmpty: {
           msg: 'Features is required'
+        },
+        notNull: {
+          msg: 'Features is required'
         }
       }
     },
     price: {
-      type: DataTypes.INTEGER,
+      type: DataTypes.BIGINT,
       allowNull: false,
       validate: {
         notEmpty: {
+          msg: 'Price is required'
+        },
+        notNull: {
           msg: 'Price is required'
         }
       }
@@ -78,7 +106,10 @@ module.exports = (sequelize, DataTypes) => {
       allowNull: false,
       validate: {
         notEmpty: {
-          msg: 'CategoryId is required'
+          msg: 'Category is required'
+        },
+        notNull: {
+          msg: 'Category is required'
         }
       },
       references: {

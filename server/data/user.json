@@ -1,5 +1,6 @@
 [{
     "username":"Super Admin",
     "email":"superadmin@mail.com",
-    "password": "123456"
+    "password": "123456",
+    "role":"superadmin"
 }]

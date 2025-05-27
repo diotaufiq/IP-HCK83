@@ -16,6 +16,8 @@ module.exports = (sequelize, DataTypes) => {
       validate: {
         notEmpty: {
           msg: 'Category name is required'
+        }, notNull: {
+          msg: 'Category name is required'
         }
       }
     }

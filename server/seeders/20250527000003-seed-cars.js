@@ -6,6 +6,9 @@ module.exports = {
   async up (queryInterface, Sequelize) {
     // Assuming your data.json contains the car data where 'features' is an array of strings
     const carData = JSON.parse(fs.readFileSync(path.join(__dirname, '../data/data.json'), 'utf8'));
+    // console.log('Attempting to read file from:', dataFilePath); // <--- Tambahkan ini
+    // console.log('Current __dirname:', __dirname); // <--- Tambahkan ini juga
+
     const cars = carData.map(car => {
       // Ensure car.features is an array of strings as per your last data generation
       // If it's already an array of strings, we need to stringify it for JSONB
