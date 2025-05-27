@@ -1,0 +1,8 @@
+[
+    { "name": "SUV" },
+    { "name": "MPV" },
+    { "name": "Hatchback" },
+    { "name": "Sedan" },
+    { "name": "City Car" },
+    { "name": "Double Cabin" }
+  ]

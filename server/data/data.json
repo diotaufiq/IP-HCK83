@@ -1,0 +1,802 @@
+[
+  {
+    "UserId": 1,
+    "brand": "Toyota",
+    "Type": "Avanza 1.5 G CVT TSS",
+    "fuel": "Bensin",
+    "features": [
+      "Toyota Safety Sense (TSS)",
+      "LED Headlamp",
+      "Keyless Entry",
+      "Digital AC",
+      "7 Airbags"
+    ],
+    "price": 295800000,
+    "imageUrl": "",
+    "CategoryId": 2
+  },
+  {
+    "UserId": 1,
+    "brand": "Toyota",
+    "Type": "Veloz Q CVT TSS",
+    "fuel": "Bensin",
+    "features": [
+      "Toyota Safety Sense (TSS)",
+      "Panoramic View Monitor",
+      "Wireless Charger",
+      "Electric Parking Brake",
+      "Ambient Light"
+    ],
+    "price": 335300000,
+    "imageUrl": "",
+    "CategoryId": 2
+  },
+  {
+    "UserId": 1,
+    "brand": "Toyota",
+    "Type": "Raize 1.0T GR Sport CVT TSS",
+    "fuel": "Bensin",
+    "features": [
+      "Toyota Safety Sense (TSS)",
+      "Turbo Engine",
+      "Paddle Shift",
+      "Adaptive Cruise Control",
+      "Lane Departure Assist"
+    ],
+    "price": 305100000,
+    "imageUrl": "",
+    "CategoryId": 1
+  },
+  {
+    "UserId": 1,
+    "brand": "Toyota",
+    "Type": "Kijang Innova Zenix G HV CVT",
+    "fuel": "Bensin (Hybrid)",
+    "features": [
+      "Hybrid Engine",
+      "Panoramic Sunroof",
+      "Captain Seats (Optional)",
+      "Toyota Safety Sense (TSS)",
+      "Electric Parking Brake"
+    ],
+    "price": 471600000,
+    "imageUrl": "",
+    "CategoryId": 2
+  },
+  {
+    "UserId": 1,
+    "brand": "Toyota",
+    "Type": "Fortuner 2.8 GR Sport 4x4 AT",
+    "fuel": "Diesel",
+    "features": [
+      "Power Back Door with Kick Sensor",
+      "Wireless Charger",
+      "Surround View Monitor",
+      "JBL Audio System",
+      "Toyota Safety Sense (TSS)"
+    ],
+    "price": 726850000,
+    "imageUrl": "",
+    "CategoryId": 1
+  },
+  {
+    "UserId": 1,
+    "brand": "Toyota",
+    "Type": "Yaris GR Sport CVT 3 Airbags",
+    "fuel": "Bensin",
+    "features": [
+      "GR Sport Styling",
+      "Paddle Shift",
+      "Sport Mode",
+      "LED Headlights",
+      "Vehicle Stability Control"
+    ],
+    "price": 326100000,
+    "imageUrl": "",
+    "CategoryId": 3
+  },
+  {
+    "UserId": 1,
+    "brand": "Toyota",
+    "Type": "Agya 1.2 GR Sport CVT",
+    "fuel": "Bensin",
+    "features": [
+      "GR Sport Styling",
+      "Smart Entry",
+      "Push Start Button",
+      "LED Headlamp",
+      "ABS & EBD"
+    ],
+    "price": 191400000,
+    "imageUrl": "",
+    "CategoryId": 5
+  },
+  {
+    "UserId": 1,
+    "brand": "Honda",
+    "Type": "HR-V 1.5L SE CVT",
+    "fuel": "Bensin",
+    "features": [
+      "Honda Sensing",
+      "LED Headlights",
+      "8-inch Touchscreen",
+      "Remote Engine Start",
+      "Paddle Shift"
+    ],
+    "price": 416100000,
+    "imageUrl": "",
+    "CategoryId": 1
+  },
+  {
+    "UserId": 1,
+    "brand": "Honda",
+    "Type": "BR-V Prestige CVT with Honda Sensing",
+    "fuel": "Bensin",
+    "features": [
+      "Honda Sensing",
+      "Leather Seats",
+      "Remote Engine Start",
+      "Walk-Away Auto Lock",
+      "Power Outlet 3rd Row"
+    ],
+    "price": 356000000,
+    "imageUrl": "",
+    "CategoryId": 1
+  },
+  {
+    "UserId": 1,
+    "brand": "Honda",
+    "Type": "CR-V 1.5L Turbo Prestige Sensing",
+    "fuel": "Bensin",
+    "features": [
+      "Honda Sensing",
+      "Panoramic Sunroof",
+      "Power Tailgate",
+      "Wireless Charger",
+      "Head-Up Display"
+    ],
+    "price": 739900000,
+    "imageUrl": "",
+    "CategoryId": 1
+  },
+  {
+    "UserId": 1,
+    "brand": "Honda",
+    "Type": "Brio Satya E CVT",
+    "fuel": "Bensin",
+    "features": [
+      "CVT Transmission",
+      "Digital AC",
+      "ABS & EBD",
+      "Dual Front SRS Airbags",
+      "Power Windows"
+    ],
+    "price": 194100000,
+    "imageUrl": "",
+    "CategoryId": 5
+  },
+  {
+    "UserId": 1,
+    "brand": "Honda",
+    "Type": "City Hatchback RS CVT Honda Sensing",
+    "fuel": "Bensin",
+    "features": [
+      "Honda Sensing",
+      "Ultra Seat",
+      "Remote Engine Start",
+      "Sporty Alloy Wheels",
+      "LED Fog Lights"
+    ],
+    "price": 374600000,
+    "imageUrl": "",
+    "CategoryId": 3
+  },
+  {
+    "UserId": 1,
+    "brand": "Honda",
+    "Type": "WR-V RS CVT with Honda Sensing",
+    "fuel": "Bensin",
+    "features": [
+      "Honda Sensing",
+      "Remote Engine Start",
+      "Smart Key with Push Start Button",
+      "LED Headlights & DRL",
+      "Sporty Exterior"
+    ],
+    "price": 324100000,
+    "imageUrl": "",
+    "CategoryId": 1
+  },
+  {
+    "UserId": 1,
+    "brand": "Honda",
+    "Type": "Civic RS AT",
+    "fuel": "Bensin",
+    "features": [
+      "Honda Sensing",
+      "Turbo Engine",
+      "Leather Seats",
+      "Wireless Charger",
+      "Sporty Design"
+    ],
+    "price": 606400000,
+    "imageUrl": "",
+    "CategoryId": 4
+  },
+  {
+    "UserId": 1,
+    "brand": "Suzuki",
+    "Type": "Ertiga Hybrid GX AT",
+    "fuel": "Bensin (Hybrid)",
+    "features": [
+      "Suzuki Smart Hybrid",
+      "Cruise Control",
+      "Keyless Entry",
+      "Ventilated Cup Holders",
+      "Hill Hold Control"
+    ],
+    "price": 295600000,
+    "imageUrl": "",
+    "CategoryId": 2
+  },
+  {
+    "UserId": 1,
+    "brand": "Suzuki",
+    "Type": "XL7 Alpha AT",
+    "fuel": "Bensin",
+    "features": [
+      "Smart E-Mirror",
+      "Muscular Design",
+      "Keyless Entry",
+      "Ventilated Cup Holders",
+      "Hill Hold Control"
+    ],
+    "price": 305200000,
+    "imageUrl": "",
+    "CategoryId": 1
+  },
+  {
+    "UserId": 1,
+    "brand": "Suzuki",
+    "Type": "Grand Vitara GX AT",
+    "fuel": "Bensin (Mild Hybrid)",
+    "features": [
+      "Panoramic Sunroof",
+      "Head-Up Display",
+      "360 View Camera",
+      "Wireless Charger",
+      "6 Airbags"
+    ],
+    "price": 387400000,
+    "imageUrl": "",
+    "CategoryId": 1
+  },
+  {
+    "UserId": 1,
+    "brand": "Suzuki",
+    "Type": "Baleno AT",
+    "fuel": "Bensin",
+    "features": [
+      "Head-Up Display",
+      "360 View Camera",
+      "Cruise Control",
+      "LED Projector Headlamps",
+      "6 Airbags"
+    ],
+    "price": 281400000,
+    "imageUrl": "",
+    "CategoryId": 3
+  },
+  {
+    "UserId": 1,
+    "brand": "Suzuki",
+    "Type": "Ignis GX AGS",
+    "fuel": "Bensin",
+    "features": [
+      "Auto Gear Shift (AGS)",
+      "LED Projector Headlamps with DRL",
+      "Keyless Entry",
+      "Sporty Interior",
+      "ABS & EBD"
+    ],
+    "price": 224000000,
+    "imageUrl": "",
+    "CategoryId": 1
+  },
+  {
+    "UserId": 1,
+    "brand": "Suzuki",
+    "Type": "S-Presso AGS",
+    "fuel": "Bensin",
+    "features": [
+      "Auto Gear Shift (AGS)",
+      "High Ground Clearance",
+      "Dynamic Center Console",
+      "SmartPlay Studio",
+      "Dual Airbags"
+    ],
+    "price": 179100000,
+    "imageUrl": "",
+    "CategoryId": 5
+  },
+  {
+    "UserId": 1,
+    "brand": "Mitsubishi",
+    "Type": "Xpander Ultimate CVT",
+    "fuel": "Bensin",
+    "features": [
+      "Cruise Control",
+      "Keyless Operation",
+      "LED Headlamp",
+      "Rear View Camera",
+      "Active Stability Control"
+    ],
+    "price": 315900000,
+    "imageUrl": "",
+    "CategoryId": 2
+  },
+  {
+    "UserId": 1,
+    "brand": "Mitsubishi",
+    "Type": "Xpander Cross Premium Package CVT",
+    "fuel": "Bensin",
+    "features": [
+      "Micron Air Filtration",
+      "Digital AC",
+      "Leather Seat",
+      "Cruise Control",
+      "Active Yaw Control (AYC)"
+    ],
+    "price": 342650000,
+    "imageUrl": "",
+    "CategoryId": 1
+  },
+  {
+    "UserId": 1,
+    "brand": "Mitsubishi",
+    "Type": "Pajero Sport Dakar Ultimate 4x4 AT",
+    "fuel": "Diesel",
+    "features": [
+      "Super Select 4WD-II",
+      "Power Tailgate",
+      "Sunroof",
+      "Adaptive Cruise Control",
+      "Forward Collision Mitigation"
+    ],
+    "price": 735600000,
+    "imageUrl": "",
+    "CategoryId": 1
+  },
+  {
+    "UserId": 1,
+    "brand": "Mitsubishi",
+    "Type": "Xforce Ultimate CVT",
+    "fuel": "Bensin",
+    "features": [
+      "Dynamic Sound Yamaha Premium",
+      "Drive Mode Selector",
+      "Wireless Charger",
+      "Ambient Lighting",
+      "Active Yaw Control (AYC)"
+    ],
+    "price": 419100000,
+    "imageUrl": "",
+    "CategoryId": 1
+  },
+  {
+    "UserId": 1,
+    "brand": "Mitsubishi",
+    "Type": "Triton Ultimate AT Double Cab 4WD",
+    "fuel": "Diesel",
+    "features": [
+      "Super Select 4WD II",
+      "Off-road Mode",
+      "Multi Around Monitor",
+      "Forward Collision Mitigation",
+      "LED Headlamps"
+    ],
+    "price": 510000000,
+    "imageUrl": "",
+    "CategoryId": 6
+  },
+  {
+    "UserId": 1,
+    "brand": "Daihatsu",
+    "Type": "Rocky 1.0 R TC CVT ASA",
+    "fuel": "Bensin",
+    "features": [
+      "Daihatsu A.S.A",
+      "Turbo Engine",
+      "LED Headlamp",
+      "Key Free",
+      "6 Airbags"
+    ],
+    "price": 270450000,
+    "imageUrl": "",
+    "CategoryId": 1
+  },
+  {
+    "UserId": 1,
+    "brand": "Daihatsu",
+    "Type": "Terios R AT Custom",
+    "fuel": "Bensin",
+    "features": [
+      "Around View Monitor",
+      "Key Free Entry",
+      "Push Start Button",
+      "Vehicle Stability Control",
+      "Hill Start Assist"
+    ],
+    "price": 303250000,
+    "imageUrl": "",
+    "CategoryId": 1
+  },
+  {
+    "UserId": 1,
+    "brand": "Daihatsu",
+    "Type": "Xenia 1.5 R CVT ASA",
+    "fuel": "Bensin",
+    "features": [
+      "Daihatsu A.S.A",
+      "LED Headlamp",
+      "Key Free",
+      "Digital AC",
+      "Optitron Speedometer"
+    ],
+    "price": 278350000,
+    "imageUrl": "",
+    "CategoryId": 2
+  },
+  {
+    "UserId": 1,
+    "brand": "Daihatsu",
+    "Type": "Sigra 1.2 R AT DLX",
+    "fuel": "Bensin",
+    "features": [
+      "Dual SRS Airbags",
+      "ABS & EBD (AT)",
+      "Rear Parking Sensor",
+      "Electric Power Steering",
+      "Touchscreen Head Unit"
+    ],
+    "price": 180600000,
+    "imageUrl": "",
+    "CategoryId": 2
+  },
+  {
+    "UserId": 1,
+    "brand": "Daihatsu",
+    "Type": "Ayla 1.2 R CVT ADS",
+    "fuel": "Bensin",
+    "features": [
+      "ADS Styling Package",
+      "CVT Transmission",
+      "Push Start Button",
+      "LED Headlamp",
+      "Touchscreen Head Unit"
+    ],
+    "price": 189900000,
+    "imageUrl": "",
+    "CategoryId": 5
+  },
+  {
+    "UserId": 1,
+    "brand": "Hyundai",
+    "Type": "Creta Prime IVT",
+    "fuel": "Bensin",
+    "features": [
+      "Hyundai Smartsense",
+      "Panoramic Sunroof",
+      "Bose Sound System",
+      "Ventilated Seats",
+      "Wireless Charger"
+    ],
+    "price": 416800000,
+    "imageUrl": "",
+    "CategoryId": 1
+  },
+  {
+    "UserId": 1,
+    "brand": "Hyundai",
+    "Type": "Stargazer X Prime IVT",
+    "fuel": "Bensin",
+    "features": [
+      "Hyundai Smartsense",
+      "Captain Seats (Optional)",
+      "Bose Premium Sound",
+      "Wireless Charger",
+      "Ambient Mood Lighting"
+    ],
+    "price": 346400000,
+    "imageUrl": "",
+    "CategoryId": 1
+  },
+  {
+    "UserId": 1,
+    "brand": "Hyundai",
+    "Type": "Palisade Signature AWD",
+    "fuel": "Diesel",
+    "features": [
+      "Dual Sunroof",
+      "Nappa Leather Seats",
+      "Head-Up Display",
+      "Surround View Monitor",
+      "Hyundai Smartsense"
+    ],
+    "price": 1110000000,
+    "imageUrl": "",
+    "CategoryId": 1
+  },
+  {
+    "UserId": 1,
+    "brand": "Hyundai",
+    "Type": "Santa Fe Signature 2.2 Diesel AT",
+    "fuel": "Diesel",
+    "features": [
+      "Panoramic Sunroof",
+      "Head-Up Display",
+      "Remote Smart Parking Assist",
+      "Surround View Monitor",
+      "Hyundai Smartsense"
+    ],
+    "price": 759000000,
+    "imageUrl": "",
+    "CategoryId": 1
+  },
+  {
+    "UserId": 1,
+    "brand": "Hyundai",
+    "Type": "Ioniq 5 Prime Standard Range",
+    "fuel": "Listrik",
+    "features": [
+      "Electric Vehicle",
+      "Vehicle-to-Load (V2L)",
+      "Sliding Console Box",
+      "Smart Regenerative Braking",
+      "Hyundai Smartsense"
+    ],
+    "price": 782000000,
+    "imageUrl": "",
+    "CategoryId": 1
+  },
+  {
+    "UserId": 1,
+    "brand": "Mazda",
+    "Type": "CX-5 Elite",
+    "fuel": "Bensin",
+    "features": [
+      "Bose Sound System",
+      "Sunroof",
+      "Adaptive LED Headlamps",
+      "360 View Monitor",
+      "i-Activsense"
+    ],
+    "price": 668800000,
+    "imageUrl": "",
+    "CategoryId": 1
+  },
+  {
+    "UserId": 1,
+    "brand": "Mazda",
+    "Type": "CX-3 Sport 1.5L",
+    "fuel": "Bensin",
+    "features": [
+      "LED Headlamps with Auto Leveling",
+      "Sunroof",
+      "Active Driving Display",
+      "Mazda Connect",
+      "G-Vectoring Control Plus"
+    ],
+    "price": 400800000,
+    "imageUrl": "",
+    "CategoryId": 1
+  },
+  {
+    "UserId": 1,
+    "brand": "Mazda",
+    "Type": "Mazda2 GT",
+    "fuel": "Bensin",
+    "features": [
+      "LED Headlamps",
+      "Active Driving Display",
+      "Mazda Connect",
+      "Paddle Shift",
+      "Blind Spot Monitoring"
+    ],
+    "price": 367700000,
+    "imageUrl": "",
+    "CategoryId": 3
+  },
+  {
+    "UserId": 1,
+    "brand": "Mazda",
+    "Type": "CX-30 GT",
+    "fuel": "Bensin",
+    "features": [
+      "Sunroof",
+      "Bose Sound System",
+      "Adaptive Front-lighting System",
+      "360 View Monitor",
+      "i-Activsense"
+    ],
+    "price": 572200000,
+    "imageUrl": "",
+    "CategoryId": 1
+  },
+  {
+    "UserId": 1,
+    "brand": "Mazda",
+    "Type": "CX-9 AWD",
+    "fuel": "Bensin",
+    "features": [
+      "Nappa Leather Seats",
+      "Bose Sound System",
+      "Sunroof",
+      "Adaptive LED Headlamps",
+      "i-Activsense"
+    ],
+    "price": 978800000,
+    "imageUrl": "",
+    "CategoryId": 1
+  },
+  {
+    "UserId": 1,
+    "brand": "Kia",
+    "Type": "Seltos GT Line",
+    "fuel": "Bensin",
+    "features": [
+      "Sunroof",
+      "Bose Premium Sound System",
+      "Ventilated Seats",
+      "Head-Up Display",
+      "Drive Mode Select"
+    ],
+    "price": 446500000,
+    "imageUrl": "",
+    "CategoryId": 1
+  },
+  {
+    "UserId": 1,
+    "brand": "Kia",
+    "Type": "Sonet Premiere iVT",
+    "fuel": "Bensin",
+    "features": [
+      "Ventilated Seats",
+      "Bose Premium Sound System",
+      "Sunroof",
+      "Wireless Charger",
+      "Remote Engine Start"
+    ],
+    "price": 346000000,
+    "imageUrl": "",
+    "CategoryId": 1
+  },
+  {
+    "UserId": 1,
+    "brand": "Kia",
+    "Type": "Carnival Premiere 7-Seater",
+    "fuel": "Diesel",
+    "features": [
+      "Dual Sunroof",
+      "Premium Relaxation Seats",
+      "Bose Premium Sound",
+      "Surround View Monitor",
+      "Smart Power Sliding Door"
+    ],
+    "price": 960000000,
+    "imageUrl": "",
+    "CategoryId": 2
+  },
+  {
+    "UserId": 1,
+    "brand": "Kia",
+    "Type": "EV6 GT-Line",
+    "fuel": "Listrik",
+    "features": [
+      "Electric Vehicle",
+      "Wide Sunroof",
+      "Meridian Premium Sound System",
+      "Augmented Reality Head-Up Display",
+      "Remote Smart Parking Assist"
+    ],
+    "price": 1299000000,
+    "imageUrl": "",
+    "CategoryId": 1
+  },
+  {
+    "UserId": 1,
+    "brand": "Wuling",
+    "Type": "Almaz RS Pro",
+    "fuel": "Bensin",
+    "features": [
+      "Wuling Interconnected Smart Ecosystem (WISE)",
+      "Panoramic Sunroof",
+      "Voice Command (WIND)",
+      "Adaptive Cruise Control",
+      "Internet of Vehicle (IoV)"
+    ],
+    "price": 439200000,
+    "imageUrl": "",
+    "CategoryId": 1
+  },
+  {
+    "UserId": 1,
+    "brand": "Wuling",
+    "Type": "Air EV Long Range",
+    "fuel": "Listrik",
+    "features": [
+      "Electric Vehicle",
+      "Easy Home Charging",
+      "Smart Start System",
+      "Futuristic Center Console",
+      "IoV"
+    ],
+    "price": 299500000,
+    "imageUrl": "",
+    "CategoryId": 5
+  },
+  {
+    "UserId": 1,
+    "brand": "Wuling",
+    "Type": "Alvez EX",
+    "fuel": "Bensin",
+    "features": [
+      "Electric Sunroof",
+      "Advanced Driver Assistance System (ADAS)",
+      "Remote Control App",
+      "Dynamic Design",
+      "Spacious Cabin"
+    ],
+    "price": 295000000,
+    "imageUrl": "",
+    "CategoryId": 1
+  },
+  {
+    "UserId": 1,
+    "brand": "Nissan",
+    "Type": "Kicks e-Power VL",
+    "fuel": "Bensin (Series Hybrid)",
+    "features": [
+      "e-POWER Technology",
+      "One-Pedal Operation",
+      "Intelligent Cruise Control",
+      "Around View Monitor",
+      "Forward Collision Warning"
+    ],
+    "price": 519000000,
+    "imageUrl": "",
+    "CategoryId": 1
+  },
+  {
+    "UserId": 1,
+    "brand": "Nissan",
+    "Type": "Livina VL AT",
+    "fuel": "Bensin",
+    "features": [
+      "Leather Seats",
+      "Intelligent Key with Push Button Start",
+      "Around View Monitor",
+      "Vehicle Dynamic Control",
+      "Hill Start Assist"
+    ],
+    "price": 308500000,
+    "imageUrl": "",
+    "CategoryId": 2
+  },
+  {
+    "UserId": 1,
+    "brand": "MG",
+    "Type": "ZS Magnify",
+    "fuel": "Bensin",
+    "features": [
+      "Panoramic Sunroof",
+      "Electric Parking Brake",
+      "360 Camera",
+      "i-SMART Intelligent System",
+      "6 Airbags"
+    ],
+    "price": 355800000,
+    "imageUrl": "",
+    "CategoryId": 1
+  }
+]
