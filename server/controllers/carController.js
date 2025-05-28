@@ -15,7 +15,7 @@ class CarController {
       const cars = await Car.findAll({
         include: [
           { model: Category },
-          { model: User, attributes: ['username', 'email'] }
+          { model: User, as: 'wishlistingUsers', attributes: ['username', 'email'] }
         ]
       });
       
@@ -32,7 +32,7 @@ class CarController {
       const car = await Car.findByPk(id, {
         include: [
           { model: Category },
-          { model: User, attributes: ['username', 'email'] }
+          { model: User, as: 'wishlistingUsers', attributes: ['username', 'email'] }
         ]
       });
       

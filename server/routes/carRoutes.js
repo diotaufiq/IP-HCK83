@@ -10,14 +10,14 @@ const upload = multer({
 
 // Public routes
 router.get('/', CarController.getAllCars);
-router.get('/:id', CarController.getCarById);
+router.get('/:carId', CarController.getCarById);
 
 // Protected routes (admin only)
 router.use(authentication);
 router.use(isAdmin);
 router.post('/', CarController.createCar);
-router.put('/:id', CarController.updateCar);
-router.delete('/:id', CarController.deleteCar)
-router.patch('/:id',upload.single('image'),CarController.UploadImage);
+router.put('/:carId', CarController.updateCar);
+router.delete('/:carId', CarController.deleteCar)
+router.patch('/:carId',upload.single('image'),CarController.UploadImage);
 
 module.exports = router;

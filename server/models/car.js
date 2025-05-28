@@ -5,10 +5,13 @@ const {
 module.exports = (sequelize, DataTypes) => {
   class Car extends Model {
     static associate(models) {
-      // Car belongs to User
-      Car.belongsTo(models.User, { foreignKey: 'UserId' });
-      // Car belongs to Category
       Car.belongsTo(models.Category, { foreignKey: 'CategoryId' });
+      Car.belongsToMany(models.User, {
+        through: models.WishlistItem, 
+        foreignKey: 'CarId',          
+        otherKey: 'UserId',         
+        as: 'wishlistingUsers'        
+      });
     }
   }
   Car.init({
@@ -47,6 +50,16 @@ module.exports = (sequelize, DataTypes) => {
           msg: 'Type is required'
         }, notNull: {
           msg: 'Type is required'
+        }
+      }
+    }, released_year: {
+      type: DataTypes.STRING,
+      allowNull: false,
+      validate: {
+        notEmpty: {
+          msg: 'Released Year is required'
+        }, notNull: {
+          msg: 'Released Year is required'
         }
       }
     }, 

@@ -14,7 +14,8 @@
     ],
     "price": 295800000,
     "imageUrl": "",
-    "CategoryId": 2
+    "CategoryId": 2,
+    "released_year": "2024"
   },
   {
     "UserId": 1,
@@ -31,7 +32,8 @@
     ],
     "price": 335300000,
     "imageUrl": "",
-    "CategoryId": 2
+    "CategoryId": 2,
+    "released_year": "2024"
   },
   {
     "UserId": 1,
@@ -48,7 +50,8 @@
     ],
     "price": 305100000,
     "imageUrl": "",
-    "CategoryId": 1
+    "CategoryId": 1,
+    "released_year": "2024"
   },
   {
     "UserId": 1,
@@ -65,7 +68,8 @@
     ],
     "price": 471600000,
     "imageUrl": "",
-    "CategoryId": 2
+    "CategoryId": 2,
+    "released_year": "2024"
   },
   {
     "UserId": 1,
@@ -82,7 +86,8 @@
     ],
     "price": 726850000,
     "imageUrl": "",
-    "CategoryId": 1
+    "CategoryId": 1,
+    "released_year": "2024"
   },
   {
     "UserId": 1,
@@ -99,7 +104,8 @@
     ],
     "price": 326100000,
     "imageUrl": "",
-    "CategoryId": 3
+    "CategoryId": 3,
+    "released_year": "2024"
   },
   {
     "UserId": 1,
@@ -116,7 +122,8 @@
     ],
     "price": 191400000,
     "imageUrl": "",
-    "CategoryId": 5
+    "CategoryId": 5,
+    "released_year": "2024"
   },
   {
     "UserId": 1,
@@ -133,7 +140,8 @@
     ],
     "price": 416100000,
     "imageUrl": "",
-    "CategoryId": 1
+    "CategoryId": 1,
+    "released_year": "2024"
   },
   {
     "UserId": 1,
@@ -150,7 +158,8 @@
     ],
     "price": 356000000,
     "imageUrl": "",
-    "CategoryId": 1
+    "CategoryId": 1,
+    "released_year": "2024"
   },
   {
     "UserId": 1,
@@ -167,7 +176,8 @@
     ],
     "price": 739900000,
     "imageUrl": "",
-    "CategoryId": 1
+    "CategoryId": 1,
+    "released_year": "2024"
   },
   {
     "UserId": 1,
@@ -184,7 +194,8 @@
     ],
     "price": 194100000,
     "imageUrl": "",
-    "CategoryId": 5
+    "CategoryId": 5,
+    "released_year": "2024"
   },
   {
     "UserId": 1,
@@ -201,7 +212,8 @@
     ],
     "price": 374600000,
     "imageUrl": "",
-    "CategoryId": 3
+    "CategoryId": 3,
+    "released_year": "2024"
   },
   {
     "UserId": 1,
@@ -218,7 +230,8 @@
     ],
     "price": 324100000,
     "imageUrl": "",
-    "CategoryId": 1
+    "CategoryId": 1,
+    "released_year": "2024"
   },
   {
     "UserId": 1,
@@ -235,7 +248,8 @@
     ],
     "price": 606400000,
     "imageUrl": "",
-    "CategoryId": 4
+    "CategoryId": 4,
+    "released_year": "2024"
   },
   {
     "UserId": 1,
@@ -252,7 +266,8 @@
     ],
     "price": 295600000,
     "imageUrl": "",
-    "CategoryId": 2
+    "CategoryId": 2,
+    "released_year": "2024"
   },
   {
     "UserId": 1,
@@ -269,7 +284,8 @@
     ],
     "price": 305200000,
     "imageUrl": "",
-    "CategoryId": 1
+    "CategoryId": 1,
+    "released_year": "2024"
   },
   {
     "UserId": 1,
@@ -286,7 +302,8 @@
     ],
     "price": 387400000,
     "imageUrl": "",
-    "CategoryId": 1
+    "CategoryId": 1,
+    "released_year": "2024"
   },
   {
     "UserId": 1,
@@ -303,7 +320,8 @@
     ],
     "price": 281400000,
     "imageUrl": "",
-    "CategoryId": 3
+    "CategoryId": 3,
+    "released_year": "2024"
   },
   {
     "UserId": 1,
@@ -320,7 +338,8 @@
     ],
     "price": 224000000,
     "imageUrl": "",
-    "CategoryId": 1
+    "CategoryId": 1,
+    "released_year": "2024"
   },
   {
     "UserId": 1,
@@ -337,7 +356,8 @@
     ],
     "price": 179100000,
     "imageUrl": "",
-    "CategoryId": 5
+    "CategoryId": 5,
+    "released_year": "2024"
   },
   {
     "UserId": 1,
@@ -354,7 +374,8 @@
     ],
     "price": 315900000,
     "imageUrl": "",
-    "CategoryId": 2
+    "CategoryId": 2,
+    "released_year": "2024"
   },
   {
     "UserId": 1,
@@ -371,7 +392,8 @@
     ],
     "price": 342650000,
     "imageUrl": "",
-    "CategoryId": 1
+    "CategoryId": 1,
+    "released_year": "2024"
   },
   {
     "UserId": 1,
@@ -388,7 +410,8 @@
     ],
     "price": 735600000,
     "imageUrl": "",
-    "CategoryId": 1
+    "CategoryId": 1,
+    "released_year": "2024"
   },
   {
     "UserId": 1,
@@ -405,7 +428,8 @@
     ],
     "price": 419100000,
     "imageUrl": "",
-    "CategoryId": 1
+    "CategoryId": 1,
+    "released_year": "2024"
   },
   {
     "UserId": 1,
@@ -422,7 +446,8 @@
     ],
     "price": 510000000,
     "imageUrl": "",
-    "CategoryId": 6
+    "CategoryId": 6,
+    "released_year": "2024"
   },
   {
     "UserId": 1,
@@ -439,7 +464,8 @@
     ],
     "price": 270450000,
     "imageUrl": "",
-    "CategoryId": 1
+    "CategoryId": 1,
+    "released_year": "2024"
   },
   {
     "UserId": 1,
@@ -456,7 +482,8 @@
     ],
     "price": 303250000,
     "imageUrl": "",
-    "CategoryId": 1
+    "CategoryId": 1,
+    "released_year": "2024"
   },
   {
     "UserId": 1,
@@ -473,7 +500,8 @@
     ],
     "price": 278350000,
     "imageUrl": "",
-    "CategoryId": 2
+    "CategoryId": 2,
+    "released_year": "2024"
   },
   {
     "UserId": 1,
@@ -490,7 +518,8 @@
     ],
     "price": 180600000,
     "imageUrl": "",
-    "CategoryId": 2
+    "CategoryId": 2,
+    "released_year": "2024"
   },
   {
     "UserId": 1,
@@ -507,7 +536,8 @@
     ],
     "price": 189900000,
     "imageUrl": "",
-    "CategoryId": 5
+    "CategoryId": 5,
+    "released_year": "2024"
   },
   {
     "UserId": 1,
@@ -524,7 +554,8 @@
     ],
     "price": 416800000,
     "imageUrl": "",
-    "CategoryId": 1
+    "CategoryId": 1,
+    "released_year": "2024"
   },
   {
     "UserId": 1,
@@ -541,7 +572,8 @@
     ],
     "price": 346400000,
     "imageUrl": "",
-    "CategoryId": 1
+    "CategoryId": 1,
+    "released_year": "2024"
   },
   {
     "UserId": 1,
@@ -558,7 +590,8 @@
     ],
     "price": 1110000000,
     "imageUrl": "",
-    "CategoryId": 1
+    "CategoryId": 1,
+    "released_year": "2024"
   },
   {
     "UserId": 1,
@@ -575,7 +608,8 @@
     ],
     "price": 759000000,
     "imageUrl": "",
-    "CategoryId": 1
+    "CategoryId": 1,
+    "released_year": "2024"
   },
   {
     "UserId": 1,
@@ -592,7 +626,8 @@
     ],
     "price": 782000000,
     "imageUrl": "",
-    "CategoryId": 1
+    "CategoryId": 1,
+    "released_year": "2024"
   },
   {
     "UserId": 1,
@@ -609,7 +644,8 @@
     ],
     "price": 668800000,
     "imageUrl": "",
-    "CategoryId": 1
+    "CategoryId": 1,
+    "released_year": "2024"
   },
   {
     "UserId": 1,
@@ -626,7 +662,8 @@
     ],
     "price": 400800000,
     "imageUrl": "",
-    "CategoryId": 1
+    "CategoryId": 1,
+    "released_year": "2024"
   },
   {
     "UserId": 1,
@@ -643,7 +680,8 @@
     ],
     "price": 367700000,
     "imageUrl": "",
-    "CategoryId": 3
+    "CategoryId": 3,
+    "released_year": "2024"
   },
   {
     "UserId": 1,
@@ -660,7 +698,8 @@
     ],
     "price": 572200000,
     "imageUrl": "",
-    "CategoryId": 1
+    "CategoryId": 1,
+    "released_year": "2024"
   },
   {
     "UserId": 1,
@@ -677,7 +716,8 @@
     ],
     "price": 978800000,
     "imageUrl": "",
-    "CategoryId": 1
+    "CategoryId": 1,
+    "released_year": "2024"
   },
   {
     "UserId": 1,
@@ -694,7 +734,8 @@
     ],
     "price": 446500000,
     "imageUrl": "",
-    "CategoryId": 1
+    "CategoryId": 1,
+    "released_year": "2024"
   },
   {
     "UserId": 1,
@@ -711,7 +752,8 @@
     ],
     "price": 346000000,
     "imageUrl": "",
-    "CategoryId": 1
+    "CategoryId": 1,
+    "released_year": "2024"
   },
   {
     "UserId": 1,
@@ -728,7 +770,8 @@
     ],
     "price": 960000000,
     "imageUrl": "",
-    "CategoryId": 2
+    "CategoryId": 2,
+    "released_year": "2024"
   },
   {
     "UserId": 1,
@@ -745,7 +788,8 @@
     ],
     "price": 1299000000,
     "imageUrl": "",
-    "CategoryId": 1
+    "CategoryId": 1,
+    "released_year": "2024"
   },
   {
     "UserId": 1,
@@ -762,7 +806,8 @@
     ],
     "price": 439200000,
     "imageUrl": "",
-    "CategoryId": 1
+    "CategoryId": 1,
+    "released_year": "2024"
   },
   {
     "UserId": 1,
@@ -779,7 +824,8 @@
     ],
     "price": 299500000,
     "imageUrl": "",
-    "CategoryId": 5
+    "CategoryId": 5,
+    "released_year": "2023"
   },
   {
     "UserId": 1,
@@ -796,7 +842,8 @@
     ],
     "price": 295000000,
     "imageUrl": "",
-    "CategoryId": 1
+    "CategoryId": 1,
+    "released_year": "2024"
   },
   {
     "UserId": 1,
@@ -813,7 +860,8 @@
     ],
     "price": 519000000,
     "imageUrl": "",
-    "CategoryId": 1
+    "CategoryId": 1,
+    "released_year": "2024"
   },
   {
     "UserId": 1,
@@ -830,7 +878,8 @@
     ],
     "price": 308500000,
     "imageUrl": "",
-    "CategoryId": 2
+    "CategoryId": 2,
+    "released_year": "2024"
   },
   {
     "UserId": 1,
@@ -847,1654 +896,1003 @@
     ],
     "price": 355800000,
     "imageUrl": "",
-    "CategoryId": 1
+    "CategoryId": 1,
+    "released_year": "2024"
   },
-  
-    {
-      "UserId": 1,
-      "brand": "Lexus",
-      "Type": "RX 350h Luxury",
-      "condition":"New",
-      "fuel": "Hybrid",
-      "features": ["Panoramic Sunroof", "Mark Levinson Premium Audio", "Adaptive Variable Suspension", "Head-Up Display", "Lexus Safety System+ 3.0"],
-      "price": 1750000000,
-      "imageUrl": "",
-      "CategoryId": 1
-    },
-    {
-      "UserId": 1,
-      "brand": "Lexus",
-      "Type": "LM 350h Executive 4-Seater",
-      "condition":"New",
-      "fuel": "Hybrid",
-      "features": ["VIP Rear Seats with Massage", "26-inch Rear Entertainment", "Partition with Retractable Glass", "Mark Levinson Audio", "Gin-Sui-Boku Ornamentation"],
-      "price": 3060000000,
-      "imageUrl": "",
-      "CategoryId": 2
-    },
-    {
-      "UserId": 1,
-      "brand": "Lexus",
-      "Type": "ES 300h Ultra Luxury",
-      "condition":"New",
-      "fuel": "Hybrid",
-      "features": ["Semi-Aniline Leather Seats", "12.3-inch Touchscreen Display", "Mark Levinson Audio", "Noise Reduction Wheels", "Lexus Safety System+ 2.5"],
-      "price": 1220000000,
-      "imageUrl": "",
-      "CategoryId": 4
-    },
-    {
-      "UserId": 1,
-      "brand": "Lexus",
-      "Type": "LX 600 VIP",
-      "condition":"New",
-      "fuel": "Bensin",
-      "features": ["VIP Rear Seats with Ottoman", "Rear Seat Entertainment System", "Mark Levinson 25-speaker Audio", "Fingerprint Authentication Start Switch", "Multi-Terrain Select"],
-      "price": 3500000000,
-      "imageUrl": "",
-      "CategoryId": 1
-    },
-    {
-      "UserId": 1,
-      "brand": "Lexus",
-      "Type": "UX 250h F Sport",
-      "condition":"New",
-      "fuel": "Hybrid",
-      "features": ["F Sport Styling", "Adaptive Variable Suspension (F Sport)", "Sport Seats", "Lexus Safety System+ 2.0", "Wireless Apple CarPlay & Android Auto"],
-      "price": 980000000,
-      "imageUrl": "",
-      "CategoryId": 1
-    },
-    {
-      "UserId": 1,
-      "brand": "Mercedes-Benz",
-      "Type": "S 580 e L AMG Line (W223)",
-      "condition":"New",
-      "fuel": "Plug-in Hybrid",
-      "features": ["AIRMATIC Air Suspension", "MBUX High-End Rear Seat Entertainment", "Burmester 4D Surround Sound", "DIGITAL LIGHT Headlamps", "Driving Assistance Package Plus"],
-      "price": 3500000000,
-      "imageUrl": "",
-      "CategoryId": 4
-    },
-    {
-      "UserId": 1,
-      "brand": "Mercedes-Benz",
-      "Type": "GLS 450 4MATIC AMG Line",
-      "condition":"New",
-      "fuel": "Bensin (Mild Hybrid)",
-      "features": ["7-Seater Configuration", "MBUX Infotainment with Dual 12.3-inch Screens", "Panoramic Sliding Sunroof", "Burmester Surround Sound System", "AIRMATIC Package"],
-      "price": 2800000000,
-      "imageUrl": "",
-      "CategoryId": 1
-    },
-    {
-      "UserId": 1,
-      "brand": "Mercedes-Benz",
-      "Type": "C 300 AMG Line (W206)",
-      "condition":"New",
-      "fuel": "Bensin (Mild Hybrid)",
-      "features": ["AMG Line Exterior & Interior", "Digital Instrument Cluster 12.3-inch", "MBUX Multimedia System 11.9-inch", "Panoramic Sliding Sunroof", "KEYLESS-GO"],
-      "price": 1350000000,
-      "imageUrl": "",
-      "CategoryId": 4
-    },
-    {
-      "UserId": 1,
-      "brand": "Mercedes-Benz",
-      "Type": "GLE 450 4MATIC AMG Line Coupe",
-      "condition":"New",
-      "fuel": "Bensin (Mild Hybrid)",
-      "features": ["AMG Line Exterior", "MBUX Augmented Reality Navigation", "Burmester Surround Sound", "MULTIBEAM LED", "AIRMATIC Suspension"],
-      "price": 2500000000,
-      "imageUrl": "",
-      "CategoryId": 1
-    },
-    {
-      "UserId": 1,
-      "brand": "Mercedes-Benz",
-      "Type": "EQS 450+ Electric Art Line",
-      "condition":"New",
-      "fuel": "Listrik",
-      "features": ["MBUX Hyperscreen (Optional)", "AIRMATIC Air Suspension", "Rear-axle steering", "HEPA Air Filtration", "Driving Assistance Package"],
-      "price": 3100000000,
-      "imageUrl": "",
-      "CategoryId": 4
-    },
-    {
-      "UserId": 1,
-      "brand": "Mercedes-Benz",
-      "Type": "G 63 AMG",
-      "condition":"New",
-      "fuel": "Bensin",
-      "features": ["AMG 4.0L V8 Biturbo", "AMG RIDE CONTROL Suspension", "Three Differential Locks", "Burmester Surround Sound", "Exclusive Nappa Leather"],
-      "price": 6500000000,
-      "imageUrl": "",
-      "CategoryId": 1
-    },
-    {
-      "UserId": 1,
-      "brand": "Mercedes-Benz",
-      "Type": "AMG GT 63 S E PERFORMANCE 4-Door Coupe",
-      "condition":"New",
-      "fuel": "Plug-in Hybrid",
-      "features": ["AMG High-Performance Hybrid System", "AMG RIDE CONTROL+ Suspension", "Rear-Axle Steering", "AMG Performance Seats", "Burmester High-End 3D Surround Sound"],
-      "price": 5500000000,
-      "imageUrl": "",
-      "CategoryId": 7 
-    },
-    {
-      "UserId": 1,
-      "brand": "Mercedes-Benz",
-      "Type": "A 200 Progressive Line Hatchback",
-      "condition":"New",
-      "fuel": "Bensin",
-      "features": ["MBUX Multimedia System", "Active Parking Assist", "LED High Performance Headlamps", "Panoramic Sunroof", "Ambient Lighting"],
-      "price": 850000000,
-      "imageUrl": "",
-      "CategoryId": 3
-    },
-    {
-      "UserId": 1,
-      "brand": "BMW",
-      "Type": "740Li Opulence (G12 LCI)",
-      "condition":"New",
-      "fuel": "Bensin",
-      "features": ["BMW Laserlight", "Sky Lounge Panoramic Glass Sunroof", "Bowers & Wilkins Diamond Surround Sound", "Executive Lounge Seating", "BMW Driving Assistant Professional"],
-      "price": 2900000000,
-      "imageUrl": "",
-      "CategoryId": 4
-    },
-    {
-      "UserId": 1,
-      "brand": "BMW",
-      "Type": "X7 xDrive40i Opulence",
-      "condition":"New",
-      "fuel": "Bensin (Mild Hybrid)",
-      "features": ["BMW Kidney 'Iconic Glow'", "Sky Lounge Panoramic Glass Sunroof", "Harman Kardon Surround Sound", "CraftedClarity Glass Application", "BMW Live Cockpit Professional"],
-      "price": 2750000000,
-      "imageUrl": "",
-      "CategoryId": 1
-    },
-    {
-      "UserId": 1,
-      "brand": "BMW",
-      "Type": "M4 Competition Coupe (G82)",
-      "condition":"New",
-      "fuel": "Bensin",
-      "features": ["M TwinPower Turbo Inline 6-cylinder", "M xDrive (Optional)", "M Carbon Bucket Seats", "BMW Laserlight", "Harman Kardon Audio"],
-      "price": 2800000000,
-      "imageUrl": "",
-      "CategoryId": 7
-    },
-    {
-      "UserId": 1,
-      "brand": "BMW",
-      "Type": "iX xDrive50 Sport",
-      "condition":"New",
-      "fuel": "Listrik",
-      "features": ["Dual BMW eDrive Motors", "Sky Lounge Panoramic Glass Sunroof", "Bowers & Wilkins Diamond Surround Sound", "BMW Live Cockpit Professional with Curved Display", "Driving Assistant Professional"],
-      "price": 2600000000,
-      "imageUrl": "",
-      "CategoryId": 1
-    },
-    {
-      "UserId": 1,
-      "brand": "BMW",
-      "Type": "330i M Sport (G20)",
-      "condition":"New",
-      "fuel": "Bensin",
-      "features": ["M Sport Package", "BMW Live Cockpit Professional", "Harman Kardon Surround Sound", "Adaptive M Suspension", "Variable Sport Steering"],
-      "price": 1250000000,
-      "imageUrl": "",
-      "CategoryId": 4
-    },
-    {
-      "UserId": 1,
-      "brand": "BMW",
-      "Type": "X5 xDrive45e M Sport (Plug-in Hybrid)",
-      "condition":"New",
-      "fuel": "Plug-in Hybrid",
-      "features": ["BMW eDrive Technology", "Adaptive 2-axle Air Suspension", "Panoramic Glass Sunroof", "Harman Kardon", "BMW Laserlight"],
-      "price": 2100000000,
-      "imageUrl": "",
-      "CategoryId": 1
-    },
-    {
-      "UserId": 1,
-      "brand": "BMW",
-      "Type": "Z4 M40i Roadster",
-      "condition":"New",
-      "fuel": "Bensin",
-      "features": ["M TwinPower Turbo Engine", "Adaptive M Suspension", "BMW Live Cockpit Professional", "Harman Kardon", "Electrically Operated Soft Top"],
-      "price": 1900000000,
-      "imageUrl": "",
-      "CategoryId": 8
-    },
-    {
-      "UserId": 1,
-      "brand": "BMW",
-      "Type": "XM",
-      "condition":"New",
-      "fuel": "Plug-in Hybrid",
-      "features": ["M HYBRID Drive System (V8 + Electric)", "Adaptive M Suspension Professional", "Iconic Glow Kidney Grille", "Bowers & Wilkins Diamond Surround Sound", "M Lounge Rear Seats"],
-      "price": 5500000000,
-      "imageUrl": "",
-      "CategoryId": 1
-    },
-    {
-      "UserId": 1,
-      "brand": "Jeep",
-      "Type": "Wrangler Rubicon Unlimited (4-Door)",
-      "condition":"New",
-      "fuel": "Bensin",
-      "features": ["Rock-Trac 4x4 System", "Tru-Lok Electronic Locking Differentials", "Electronic Sway Bar Disconnect", "Uconnect with 8.4-inch Display", "Removable Doors and Roof"],
-      "price": 1900000000,
-      "imageUrl": "",
-      "CategoryId": 1
-    },
-    {
-      "UserId": 1,
-      "brand": "Jeep",
-      "Type": "Grand Cherokee L Summit Reserve 4x4",
-      "condition":"New",
-      "fuel": "Bensin",
-      "features": ["Quilted Palermo Leather Seats", "McIntosh MX950 Entertainment System", "Quadra-Lift Air Suspension", "Panoramic Sunroof", "Active Driving Assist"],
-      "price": 2500000000,
-      "imageUrl": "",
-      "CategoryId": 1
-    },
-    {
-      "UserId": 1,
-      "brand": "Jeep",
-      "Type": "Gladiator Rubicon Pickup",
-      "condition":"New",
-      "fuel": "Bensin",
-      "features": ["Rock-Trac 4x4 System", "FOX Shocks", "Lockable Rear Seat Storage", "Uconnect 4C NAV", "Removable Top and Doors"],
-      "price": 2100000000,
-      "imageUrl": "",
-      "CategoryId": 6
-    },
-    {
-      "UserId": 1,
-      "brand": "Audi",
-      "Type": "RS 6 Avant Performance",
-      "condition":"New",
-      "fuel": "Bensin (Mild Hybrid)",
-      "features": ["4.0L TFSI V8 Twin-Turbo", "quattro All-Wheel Drive", "RS Adaptive Air Suspension", "Bang & Olufsen 3D Premium Sound", "Matrix LED Headlights"],
-      "price": 4500000000,
-      "imageUrl": "",
-      "CategoryId": 2 
-    },
-    {
-      "UserId": 1,
-      "brand": "Audi",
-      "Type": "A8 L 60 TFSI e quattro (Plug-in Hybrid)",
-      "condition":"New",
-      "fuel": "Plug-in Hybrid",
-      "features": ["Predictive Active Suspension", "HD Matrix LED Headlights", "Bang & Olufsen Advanced Sound System", "Rear Seat Comfort Package", "Audi Virtual Cockpit Plus"],
-      "price": 3200000000,
-      "imageUrl": "",
-      "CategoryId": 4
-    },
-    {
-      "UserId": 1,
-      "brand": "Audi",
-      "Type": "Q8 55 TFSI quattro S Line",
-      "condition":"New",
-      "fuel": "Bensin (Mild Hybrid)",
-      "features": ["HD Matrix LED Headlights", "Adaptive Air Suspension Sport", "Bang & Olufsen Premium Sound", "Audi Virtual Cockpit", "Panoramic Glass Sunroof"],
-      "price": 2300000000,
-      "imageUrl": "",
-      "CategoryId": 1
-    },
-    {
-      "UserId": 1,
-      "brand": "Audi",
-      "Type": "e-tron GT quattro",
-      "condition":"New",
-      "fuel": "Listrik",
-      "features": ["Dual Electric Motors", "Two-speed Transmission (Rear Axle)", "Adaptive Air Suspension", "Bang & Olufsen Premium Sound", "Matrix LED Headlights with Audi Laser Light"],
-      "price": 3000000000,
-      "imageUrl": "",
-      "CategoryId": 7 
-    },
-    {
-      "UserId": 1,
-      "brand": "Audi",
-      "Type": "R8 Coupe V10 performance quattro",
-      "condition":"New",
-      "fuel": "Bensin",
-      "features": ["5.2L V10 FSI Engine", "quattro All-Wheel Drive", "Audi Magnetic Ride", "Bang & Olufsen Sound System", "Carbon Fiber Exterior Elements"],
-      "price": 7500000000,
-      "imageUrl": "",
-      "CategoryId": 7
-    },
-    {
-      "UserId": 1,
-      "brand": "Volvo",
-      "Type": "XC90 Recharge T8 Ultimate Bright (Plug-in Hybrid)",
-      "condition":"New",
-      "fuel": "Plug-in Hybrid",
-      "features": ["Bowers & Wilkins High Fidelity Audio", "Air Suspension with CCD", "Panoramic Sunroof", "Nappa Leather Upholstery", "Pilot Assist"],
-      "price": 1900000000,
-      "imageUrl": "",
-      "CategoryId": 1
-    },
-    {
-      "UserId": 1,
-      "brand": "Volvo",
-      "Type": "S90 Recharge T8 Ultimate Bright (Plug-in Hybrid)",
-      "condition":"New",
-      "fuel": "Plug-in Hybrid",
-      "features": ["Bowers & Wilkins Audio", "Graphical Head-Up Display", "Nappa Leather Comfort Seats", "Pilot Assist", "360° Camera"],
-      "price": 1600000000,
-      "imageUrl": "",
-      "CategoryId": 4
-    },
-    {
-      "UserId": 1,
-      "brand": "Volvo",
-      "Type": "C40 Recharge Pure Electric Ultimate",
-      "condition":"New",
-      "fuel": "Listrik",
-      "features": ["Dual Electric Motors", "Panoramic Roof", "Harman Kardon Premium Sound", "Pixel LED Headlights", "Built-in Google Services"],
-      "price": 1400000000,
-      "imageUrl": "",
-      "CategoryId": 1 
-    },
-    {
-      "UserId": 1,
-      "brand": "Porsche",
-      "Type": "911 Turbo S Coupe (992)",
-      "condition":"New",
-      "fuel": "Bensin",
-      "features": ["Twin-Turbo Boxer 6 Engine", "Porsche Doppelkupplung (PDK)", "Porsche Active Suspension Management (PASM)", "Burmester High-End Surround Sound", "Sport Chrono Package"],
-      "price": 8000000000,
-      "imageUrl": "",
-      "CategoryId": 7
-    },
-    {
-      "UserId": 1,
-      "brand": "Porsche",
-      "Type": "Cayenne Turbo E-Hybrid Coupe",
-      "condition":"New",
-      "fuel": "Plug-in Hybrid",
-      "features": ["V8 Twin-Turbo with Electric Motor", "Adaptive Air Suspension with PASM", "Porsche Dynamic Chassis Control (PDCC)", "Burmester 3D High-End Surround Sound", "Panoramic Fixed Glass Roof"],
-      "price": 5000000000,
-      "imageUrl": "",
-      "CategoryId": 1
-    },
-    {
-      "UserId": 1,
-      "brand": "Porsche",
-      "Type": "Taycan Turbo S Cross Turismo",
-      "condition":"New",
-      "fuel": "Listrik",
-      "features": ["Dual Electric Motors (Overboost Power)", "Two-Speed Transmission (Rear Axle)", "Adaptive Air Suspension", "Gravel Mode", "Panoramic Roof with Variable Light Control"],
-      "price": 5500000000,
-      "imageUrl": "",
-      "CategoryId": 1 
-    },
-    {
-      "UserId": 1,
-      "brand": "Porsche",
-      "Type": "Macan GTS",
-      "condition":"New",
-      "fuel": "Bensin",
-      "features": ["2.9L V6 Twin-Turbo", "Porsche Active Suspension Management (PASM)", "Sport Air Suspension", "BOSE Surround Sound System", "GTS Sport Seats"],
-      "price": 2700000000,
-      "imageUrl": "",
-      "CategoryId": 1
-    },
-    {
-      "UserId": 1,
-      "brand": "Porsche",
-      "Type": "718 Cayman GT4 RS",
-      "condition":"New",
-      "fuel": "Bensin",
-      "features": ["4.0L Naturally Aspirated Boxer 6", "Porsche Doppelkupplung (PDK)", "RS-specific Suspension Tuning", "Carbon Fiber Reinforced Plastic (CFRP) components", "Clubsport Package (Optional)"],
-      "price": 6000000000,
-      "imageUrl": "",
-      "CategoryId": 7
-    },
-    {
-      "UserId": 1,
-      "brand": "Land Rover",
-      "Type": "Range Rover P530 Autobiography LWB",
-      "condition":"New",
-      "fuel": "Bensin",
-      "features": ["4.4L Twin-Turbo V8", "Executive Class Comfort Plus Rear Seats", "Meridian Signature Sound System", "Pixel LED Headlights with Signature DRL", "Electronic Air Suspension with Dynamic Response"],
-      "price": 6800000000,
-      "imageUrl": "",
-      "CategoryId": 1
-    },
-    {
-      "UserId": 1,
-      "brand": "Land Rover",
-      "Type": "Defender 110 P400 X-Dynamic HSE",
-      "condition":"New",
-      "fuel": "Bensin (Mild Hybrid)",
-      "features": ["Electronic Air Suspension", "Adaptive Dynamics", "Meridian Surround Sound System", "Sliding Panoramic Roof", "3D Surround Camera"],
-      "price": 3000000000,
-      "imageUrl": "",
-      "CategoryId": 1
-    },
-    {
-      "UserId": 1,
-      "brand": "Land Rover",
-      "Type": "Range Rover Sport P510e Autobiography (Plug-in Hybrid)",
-      "condition":"New",
-      "fuel": "Plug-in Hybrid",
-      "features": ["Dynamic Air Suspension", "Pixel LED headlights", "Meridian 3D Surround Sound System", "Sliding Panoramic Roof", "22-way heated and ventilated massage front seats"],
-      "price": 4500000000,
-      "imageUrl": "",
-      "CategoryId": 1
-    },
-    {
-      "UserId": 1,
-      "brand": "Land Rover",
-      "Type": "Range Rover Velar P340 R-Dynamic SE",
-      "condition":"New",
-      "fuel": "Bensin (Mild Hybrid)",
-      "features": ["Pivi Pro Infotainment", "Meridian Sound System", "Sliding Panoramic Roof", "Interactive Driver Display", "Matrix LED headlights"],
-      "price": 2600000000,
-      "imageUrl": "",
-      "CategoryId": 1
-    },
-    {
-      "UserId": 1,
-      "brand": "Mini",
-      "Type": "Cooper S 3-Door Resolute Edition",
-      "condition":"New",
-      "fuel": "Bensin",
-      "features": ["Edition Specific Styling (Rebel Green, Resolute Bronze)", "Nappa Leather Steering Wheel", "8.8-inch Touchscreen Infotainment", "LED Headlights with Union Jack design", "Driving Modes"],
-      "price": 950000000,
-      "imageUrl": "",
-      "CategoryId": 3
-    },
-    {
-      "UserId": 1,
-      "brand": "Mini",
-      "Type": "Countryman John Cooper Works ALL4",
-      "condition":"New",
-      "fuel": "Bensin",
-      "features": ["JCW Aerodynamic Kit", "ALL4 All-Wheel Drive", "Sport Suspension", "Harman Kardon Hi-Fi System", "Panoramic Glass Roof"],
-      "price": 1550000000,
-      "imageUrl": "",
-      "CategoryId": 1
-    },
-    {
-      "UserId": 1,
-      "brand": "Mini",
-      "Type": "Convertible Cooper S Seaside Edition",
-      "condition":"New",
-      "fuel": "Bensin",
-      "features": ["Caribbean Aqua Metallic Paint", "Edition Specific Decals and Badging", "Electrically Operated Soft Top with Union Jack", "Chester Leather Upholstery", "Harman Kardon Audio"],
-      "price": 1100000000,
-      "imageUrl": "",
-      "CategoryId": 8
-    },
-    {
-      "UserId": 1,
-      "brand": "Volkswagen",
-      "Type": "Golf GTI Mk8",
-      "condition":"New",
-      "fuel": "Bensin",
-      "features": ["2.0L TSI Engine", "Dynamic Chassis Control (DCC)", "IQ.LIGHT LED Matrix Headlights", "Harman Kardon Sound System (Optional)", "Digital Cockpit Pro"],
-      "price": 1300000000,
-      "imageUrl": "",
-      "CategoryId": 3
-    },
-    {
-      "UserId": 1,
-      "brand": "Volkswagen",
-      "Type": "Tiguan Allspace R-Line",
-      "condition":"New",
-      "fuel": "Bensin",
-      "features": ["R-Line Exterior Styling", "Panoramic Sunroof", "Digital Cockpit", "Discover Pro Navigation", "IQ.DRIVE Travel Assist"],
-      "price": 980000000,
-      "imageUrl": "",
-      "CategoryId": 1
-    },
-    {
-      "UserId": 1,
-      "brand": "Jaguar",
-      "Type": "F-PACE SVR P550",
-      "condition":"New",
-      "fuel": "Bensin",
-      "features": ["5.0L Supercharged V8", "SVR Tuned Suspension", "Active Exhaust System", "Meridian Surround Sound System", "Performance Seats"],
-      "price": 3800000000,
-      "imageUrl": "",
-      "CategoryId": 1
-    },
-    {
-      "UserId": 1,
-      "brand": "Jaguar",
-      "Type": "I-PACE HSE EV400",
-      "condition":"New",
-      "fuel": "Listrik",
-      "features": ["Dual Electric Motors (AWD)", "Fixed Panoramic Roof", "Meridian 3D Surround Sound System", "Pivi Pro Infotainment", "Matrix LED Headlights"],
-      "price": 2800000000,
-      "imageUrl": "",
-      "CategoryId": 1
-    },
-    {
-      "UserId": 1,
-      "brand": "Jaguar",
-      "Type": "F-Type R75 Coupe P575 AWD",
-      "condition":"New",
-      "fuel": "Bensin",
-      "features": ["5.0L Supercharged V8", "All-Wheel Drive", "Switchable Active Sports Exhaust", "Pixel LED Headlights", "Performance Seats with Windsor Leather"],
-      "price": 4000000000,
-      "imageUrl": "",
-      "CategoryId": 7
-    },
-    {
-      "UserId": 1,
-      "brand": "Maserati",
-      "Type": "Levante Modena S Q4",
-      "condition":"New",
-      "fuel": "Bensin",
-      "features": ["3.8L Twin-Turbo V8 Ferrari-derived engine", "Skyhook Performance Suspension", "Harman Kardon Premium Audio", "Driver Assistance Package", "Sport Seats"],
-      "price": 4200000000,
-      "imageUrl": "",
-      "CategoryId": 1
-    },
-    {
-      "UserId": 1,
-      "brand": "Maserati",
-      "Type": "Ghibli Trofeo",
-      "condition":"New",
-      "fuel": "Bensin",
-      "features": ["3.8L V8 Twin-Turbo Ferrari engine", "Corsa Driving Mode with Launch Control", "Skyhook Suspension System", "Bowers & Wilkins Surround Sound", "Carbon Fiber Accents"],
-      "price": 4800000000,
-      "imageUrl": "",
-      "CategoryId": 4
-    },
-    {
-      "UserId": 1,
-      "brand": "Maserati",
-      "Type": "MC20 Cielo",
-      "condition":"New",
-      "fuel": "Bensin",
-      "features": ["3.0L V6 Nettuno Twin-Turbo Engine", "Retractable Glass Roof", "Carbon Fiber Monocoque", "Sonus Faber High-Premium Audio System", "Digital Rearview Mirror"],
-      "price": 9000000000,
-      "imageUrl": "",
-      "CategoryId": 8 
-    },
-    {
-      "UserId": 1,
-      "brand": "Ferrari",
-      "Type": "296 GTB",
-      "condition":"New",
-      "fuel": "Plug-in Hybrid",
-      "features": ["V6 Twin-Turbo with Electric Motor", "8-speed F1 DCT", "eManettino driving modes", "Assetto Fiorano package (Optional)", "Aerodynamic Design"],
-      "price": 11000000000,
-      "imageUrl": "",
-      "CategoryId": 7
-    },
-    {
-      "UserId": 1,
-      "brand": "Ferrari",
-      "Type": "Roma Spider",
-      "condition":"New",
-      "fuel": "Bensin",
-      "features": ["3.9L Twin-Turbo V8", "Retractable Hard Top", "Side Slip Control 6.0", "Dual Cockpit Design", "Ferrari Infotainment System"],
-      "price": 10000000000,
-      "imageUrl": "",
-      "CategoryId": 8
-    },
-    {
-      "UserId": 1,
-      "brand": "Ferrari",
-      "Type": "Purosangue",
-      "condition":"New",
-      "fuel": "Bensin",
-      "features": ["Naturally Aspirated V12", "Ferrari Active Suspension Technology", "Welcome Doors (Rear-hinged rear doors)", "Burmester 3D High-End Surround Sound System", "Four-wheel drive and four-wheel steering"],
-      "price": 15000000000,
-      "imageUrl": "",
-      "CategoryId": 1 
-    },
-    {
-      "UserId": 1,
-      "brand": "Lamborghini",
-      "Type": "Huracán Tecnica",
-      "condition":"New",
-      "fuel": "Bensin",
-      "features": ["5.2L V10 Naturally Aspirated Engine", "Rear-Wheel Drive", "LDVI (Lamborghini Dinamica Veicolo Integrata) system", "Aero-focused Design", "Carbon Ceramic Brakes"],
-      "price": 9500000000,
-      "imageUrl": "",
-      "CategoryId": 7
-    },
-    {
-      "UserId": 1,
-      "brand": "Lamborghini",
-      "Type": "Urus Performante",
-      "condition":"New",
-      "fuel": "Bensin",
-      "features": ["4.0L V8 Twin-Turbo Engine", "Akrapovič Titanium Sports Exhaust", "Rally Mode", "Extensive Carbon Fiber Use", "Alcantara Interior"],
-      "price": 10500000000,
-      "imageUrl": "",
-      "CategoryId": 1
-    },
-    {
-      "UserId": 1,
-      "brand": "Lamborghini",
-      "Type": "Revuelto (Opera Unica)",
-      "condition":"New",
-      "fuel": "Plug-in Hybrid",
-      "features": ["V12 Hybrid Super Sports Car", "Three Electric Motors", "Carbon Fiber Monofuselage", "Active Aerodynamics", "Custom Ad Personam Exterior and Interior"],
-      "price": 25000000000, 
-      "imageUrl": "",
-      "CategoryId": 7
-    },
-    {
-      "UserId": 1,
-      "brand": "Bentley",
-      "Type": "Continental GT Speed",
-      "condition":"New",
-      "fuel": "Bensin",
-      "features": ["6.0L W12 Twin-Turbo Engine", "Electronic All-Wheel Steering", "Bentley Dynamic Ride", "Naim for Bentley Audio System", "Diamond Knurling Details"],
-      "price": 9800000000,
-      "imageUrl": "",
-      "CategoryId": 7 
-    },
-    {
-      "UserId": 1,
-      "brand": "Bentley",
-      "Type": "Bentayga EWB Azure",
-      "condition":"New",
-      "fuel": "Bensin",
-      "features": ["Extended Wheelbase", "Airline Seat Specification (Rear)", "Bentley Diamond Illumination", "Naim for Bentley Audio", "Touring Specification (ADAS)"],
-      "price": 11000000000,
-      "imageUrl": "",
-      "CategoryId": 1
-    },
-    {
-      "UserId": 1,
-      "brand": "Bentley",
-      "Type": "Flying Spur Mulliner W12",
-      "condition":"New",
-      "fuel": "Bensin",
-      "features": ["6.0L W12 Twin-Turbo", "Mulliner Bespoke Interior", "Double Diamond Front Grille", "Naim for Bentley", "Rotating Display"],
-      "price": 12500000000,
-      "imageUrl": "",
-      "CategoryId": 4
-    },
-    {
-      "UserId": 1,
-      "brand": "Rolls-Royce",
-      "Type": "Phantom Series II Extended",
-      "condition":"New",
-      "fuel": "Bensin",
-      "features": ["6.75L Twin-Turbo V12", "The Gallery (Bespoke Fascia)", "Starlight Headliner", "Champagne Flutes & Refrigerator", "Self-Closing Coach Doors"],
-      "price": 25000000000,
-      "imageUrl": "",
-      "CategoryId": 4
-    },
-    {
-      "UserId": 1,
-      "brand": "Rolls-Royce",
-      "Type": "Cullinan Black Badge",
-      "condition":"New",
-      "fuel": "Bensin",
-      "features": ["6.75L Twin-Turbo V12 (Uprated)", "Black Badge Infinity Lemniscate", "Technical Carbon Fibre Veneer", "Starlight Headliner with Shooting Stars", "Bespoke Audio System"],
-      "price": 18000000000,
-      "imageUrl": "",
-      "CategoryId": 1
-    },
-    {
-      "UserId": 1,
-      "brand": "Rolls-Royce",
-      "Type": "Spectre",
-      "condition":"New",
-      "fuel": "Listrik",
-      "features": ["Dual Electric Motors", "Starlight Doors", "Spirit of Ecstasy redesigned for aerodynamics", "Eleanor AI digital assistant", "Bespoke craftsmanship throughout"],
-      "price": 15000000000,
-      "imageUrl": "",
-      "CategoryId": 7 
-    },
-    {
-      "UserId": 1,
-      "brand": "Aston Martin",
-      "Type": "DB12 Coupe",
-      "condition":"New",
-      "fuel": "Bensin",
-      "features": ["4.0L Twin-Turbo V8 (Mercedes-AMG sourced)", "New Gen Infotainment System", "Bowers & Wilkins Audio System", "Adaptive Damping System", "Hand-stitched Leather Interior"],
-      "price": 8500000000,
-      "imageUrl": "",
-      "CategoryId": 7
-    },
-    {
-      "UserId": 1,
-      "brand": "Aston Martin",
-      "Type": "DBX707",
-      "condition":"New",
-      "fuel": "Bensin",
-      "features": ["4.0L Twin-Turbo V8 (Uprated to 707PS)", "Carbon Ceramic Brakes", "e-diff (Electronic Rear Differential)", "Sport Plus Seats", "New Lower Console Design"],
-      "price": 9500000000,
-      "imageUrl": "",
-      "CategoryId": 1
-    },
-    {
-      "UserId": 1,
-      "brand": "McLaren",
-      "Type": "Artura",
-      "condition":"New",
-      "fuel": "Plug-in Hybrid",
-      "features": ["3.0L Twin-Turbo V6 with E-Motor", "McLaren Carbon Fibre Lightweight Architecture (MCLA)", "Cyber Swarm Infotainment", "Pirelli Cyber Tyre technology", "Proactive Damping Control"],
-      "price": 9000000000,
-      "imageUrl": "",
-      "CategoryId": 7
-    },
-    {
-      "UserId": 1,
-      "brand": "McLaren",
-      "Type": "750S Spider",
-      "condition":"New",
-      "fuel": "Bensin",
-      "features": ["4.0L Twin-Turbo V8", "Retractable Hard Top (RHT)", "Proactive Chassis Control III", "Bowers & Wilkins Audio System", "Lightweight Forged Alloy Wheels"],
-      "price": 11000000000,
-      "imageUrl": "",
-      "CategoryId": 8
-    },
-    {
-      "UserId": 1,
-      "brand": "Tesla",
-      "Type": "Model S Plaid",
-      "condition":"New",
-      "fuel": "Listrik",
-      "features": ["Tri-Motor All-Wheel Drive", "0-100 km/h in ~2.1s", "Yoke Steering Wheel (Optional)", "17-inch Cinematic Display", "Autopilot"],
-      "price": 3000000000,
-      "imageUrl": "",
-      "CategoryId": 4
-    },
-    {
-      "UserId": 1,
-      "brand": "Tesla",
-      "Type": "Model X Plaid",
-      "condition":"New",
-      "fuel": "Listrik",
-      "features": ["Tri-Motor All-Wheel Drive", "Falcon Wing Doors", "Panoramic Windshield", "17-inch Cinematic Display", "Autopilot with Full Self-Driving Capability (Optional)"],
-      "price": 3500000000,
-      "imageUrl": "",
-      "CategoryId": 1
-    },
-    {
-      "UserId": 1,
-      "brand": "Tesla",
-      "Type": "Model 3 Performance",
-      "condition":"New",
-      "fuel": "Listrik",
-      "features": ["Dual Motor All-Wheel Drive", "Performance Brakes", "Carbon Fiber Spoiler", "Track Mode", "15-inch Touchscreen Display"],
-      "price": 1500000000,
-      "imageUrl": "",
-      "CategoryId": 4
-    },
-    {
-      "UserId": 1,
-      "brand": "Rivian",
-      "Type": "R1S Quad-Motor AWD Large Pack",
-      "condition":"New",
-      "fuel": "Listrik",
-      "features": ["Quad-Motor AWD", "Adjustable Air Suspension", "Panoramic All-Glass Roof", "Meridian Sound System", "Driver+ Advanced Driver Assistance"],
-      "price": 2500000000, 
-      "imageUrl": "",
-      "CategoryId": 1
-    },
-    {
-      "UserId": 1,
-      "brand": "Lucid",
-      "Type": "Air Grand Touring",
-      "condition":"New",
-      "fuel": "Listrik",
-      "features": ["Dual-Motor AWD", "Glass Canopy Roof", "Lucid DreamDrive Pro (ADAS)", "Surreal Sound Pro Audio System", "Extended Range Battery"],
-      "price": 3800000000, 
-      "imageUrl": "",
-      "CategoryId": 4
-    },
-    {
-      "UserId": 1,
-      "brand": "Cadillac",
-      "Type": "Escalade ESV Premium Luxury Platinum",
-      "condition":"New",
-      "fuel": "Bensin",
-      "features": ["Curved OLED Display (38-inch total diagonal)", "AKG Studio Reference 36-Speaker Audio", "Super Cruise (Hands-Free Driving)", "Air Ride Adaptive Suspension", "Rear Seat Entertainment System"],
-      "price": 3200000000, 
-      "imageUrl": "",
-      "CategoryId": 1
-    },
-    {
-      "UserId": 1,
-      "brand": "Lincoln",
-      "Type": "Navigator Black Label L",
-      "condition":"New",
-      "fuel": "Bensin",
-      "features": ["Twin-Turbocharged 3.5L V6", "Revel Ultima 3D Audio System", "Perfect Position Seats with Active Motion Massage", "Head-Up Display", "Lincoln Co-Pilot360 2.0 Drive"],
-      "price": 3000000000, 
-      "imageUrl": "",
-      "CategoryId": 1
-    },
-    {
-      "UserId": 1,
-      "brand": "Genesis",
-      "Type": "G90 3.5T AWD Prestige",
-      "condition":"New",
-      "fuel": "Bensin",
-      "features": ["Mood Curator", "Bang & Olufsen 3D Sound System", "Easy Close Power Doors", "Chauffeur Mode Rear Seats", "Highway Driving Assist II"],
-      "price": 2500000000,
-      "imageUrl": "",
-      "CategoryId": 4
-    },
-    {
-      "UserId": 1,
-      "brand": "Genesis",
-      "Type": "GV80 3.5T AWD Prestige",
-      "condition":"New",
-      "fuel": "Bensin",
-      "features": ["Nappa Leather Seating", "Lexicon Premium Audio System", "Electronically Controlled Suspension with Road Preview", "14.5-inch HD Infotainment Screen", "Remote Smart Parking Assist"],
-      "price": 1800000000,
-      "imageUrl": "",
-      "CategoryId": 1
-    },
-    {
-      "UserId": 1,
-      "brand": "Alpina",
-      "Type": "B8 Gran Coupe (Based on BMW 8 Series)",
-      "condition":"New",
-      "fuel": "Bensin",
-      "features": ["4.4L Bi-Turbo V8 (ALPINA Tuned)", "ALPINA Sport Suspension", "Harman Kardon Surround Sound (B&W optional)", "LAVALINA Leather Interior", "ALPINA Classic Wheels"],
-      "price": 4500000000,
-      "imageUrl": "",
-      "CategoryId": 7 
-    },
-    {
-      "UserId": 1,
-      "brand": "Alpina",
-      "Type": "XB7 (Based on BMW X7)",
-      "condition":"New",
-      "fuel": "Bensin",
-      "features": ["4.4L Bi-Turbo V8 (ALPINA Tuned)", "ALPINA Air Suspension", "Brembo Brakes", "LAVALINA Leather Steering Wheel", "Panoramic Sky Lounge LED Roof"],
-      "price": 4800000000,
-      "imageUrl": "",
-      "CategoryId": 1
-    },
-    {
-      "UserId": 1,
-      "brand": "Brabus",
-      "Type": "800 (Based on Mercedes-AMG G 63)",
-      "condition":"New",
-      "fuel": "Bensin",
-      "features": ["800 HP PowerXtra B40S-800 Engine Tuning", "BRABUS Widestar Body Kit", "BRABUS Monoblock Z Platinum Edition Wheels", "BRABUS Fine Leather Interior", "BRABUS Valve-Controlled Exhaust"],
-      "price": 9000000000,
-      "imageUrl": "",
-      "CategoryId": 1
-    },
-    {
-      "UserId": 1,
-      "brand": "Brabus",
-      "Type": "Rocket 900 (Based on Mercedes-AMG GT 63 S)",
-      "condition":"New",
-      "fuel": "Bensin",
-      "features": ["900 HP Rocket 900 V8 Biturbo Engine", "BRABUS Carbon Aerodynamics", "BRABUS Monoblock Z Forged Wheels", "BRABUS Masterpiece Interior", "Top Speed 330 km/h+"],
-      "price": 12000000000,
-      "imageUrl": "",
-      "CategoryId": 7
-    },
-    {
-      "UserId": 1,
-      "brand": "Mercedes-Maybach",
-      "Type": "S 680 4MATIC",
-      "condition":"New",
-      "fuel": "Bensin",
-      "features": ["6.0L V12 Biturbo Engine", "Executive Rear Seats with Chauffeur Package", "MBUX High-End Rear Seat Entertainment", "Burmester High-End 4D Surround Sound", "E-ACTIVE BODY CONTROL"],
-      "price": 8000000000,
-      "imageUrl": "",
-      "CategoryId": 4
-    },
-    {
-      "UserId": 1,
-      "brand": "Mercedes-Maybach",
-      "Type": "GLS 600 4MATIC",
-      "condition":"New",
-      "fuel": "Bensin",
-      "features": ["4.0L V8 Biturbo with EQ Boost", "First-Class Rear Compartment", "Folding Tables in the Rear", "E-ACTIVE BODY CONTROL", "Maybach Exclusive Nappa Leather"],
-      "price": 7500000000,
-      "imageUrl": "",
-      "CategoryId": 1
-    },
-    {
-      "UserId": 1,
-      "brand": "Lexus",
-      "Type": "LC 500 Coupe",
-      "condition":"New",
-      "fuel": "Bensin",
-      "features": ["5.0L V8 Naturally Aspirated Engine", "10-Speed Direct-Shift Automatic", "Adaptive Variable Suspension", "Mark Levinson Reference Surround Sound", "Flush Door Handles"],
-      "price": 4300000000,
-      "imageUrl": "",
-      "CategoryId": 7
-    },
-    {
-      "UserId": 1,
-      "brand": "Lexus",
-      "Type": "LC 500 Convertible",
-      "condition":"New",
-      "fuel": "Bensin",
-      "features": ["5.0L V8 Engine", "4-Layer Soft Top", "Climate Concierge with Upper Body Heating", "Mark Levinson Audio", "Active Noise Control"],
-      "price": 4800000000,
-      "imageUrl": "",
-      "CategoryId": 8
-    },
-    {
-      "UserId": 1,
-      "brand": "Audi",
-      "Type": "A6 Allroad quattro",
-      "condition":"New",
-      "fuel": "Diesel (Mild Hybrid)", 
-      "features": ["Adaptive Air Suspension", "quattro with Ultra Technology", "MMI Navigation Plus with MMI Touch Response", "Bang & Olufsen Sound", "Increased Ground Clearance"],
-      "price": 1900000000,
-      "imageUrl": "",
-      "CategoryId": 2 
-    },
-    {
-      "UserId": 1,
-      "brand": "Mercedes-Benz",
-      "Type": "E 450 4MATIC All-Terrain",
-      "condition":"New",
-      "fuel": "Bensin (Mild Hybrid)",
-      "features": ["AIR BODY CONTROL Air Suspension", "4MATIC All-Wheel Drive", "MBUX Infotainment", "Increased Ground Clearance", "Off-Road Driving Mode"],
-      "price": 1800000000,
-      "imageUrl": "",
-      "CategoryId": 2 
-    },
-    {
-      "UserId": 1,
-      "brand": "BMW",
-      "Type": "M8 Competition Gran Coupe",
-      "condition":"New",
-      "fuel": "Bensin",
-      "features": ["M TwinPower Turbo V8 Engine", "M xDrive", "M Specific Suspension", "Bowers & Wilkins Diamond Surround Sound", "M Carbon Core"],
-      "price": 5800000000,
-      "imageUrl": "",
-      "CategoryId": 7 
-    },
-    {
-      "UserId": 1,
-      "brand": "BMW",
-      "Type": "i4 M50 Gran Coupe",
-      "condition":"New",
-      "fuel": "Listrik",
-      "features": ["Dual BMW M eDrive Motors", "Adaptive M Suspension", "BMW Curved Display", "Harman Kardon Surround Sound", "M Sport Brakes"],
-      "price": 2200000000,
-      "imageUrl": "",
-      "CategoryId": 7 
-    },
-    {
-      "UserId": 1,
-      "brand": "Jeep",
-      "Type": "Grand Wagoneer Series III Obsidian",
-      "condition":"New",
-      "fuel": "Bensin",
-      "features": ["Hurricane Twin-Turbo 510 Engine", "Quadra-Lift Air Suspension", "McIntosh MX1375 Reference Entertainment System", "Interactive Front Passenger Display", "Premium Quilted Palermo Leather Seats"],
-      "price": 3800000000,
-      "imageUrl": "",
-      "CategoryId": 1
-    },
-    {
-      "UserId": 1,
-      "brand": "Porsche",
-      "Type": "Panamera Turbo S E-Hybrid Sport Turismo",
-      "condition":"New",
-      "fuel": "Plug-in Hybrid",
-      "features": ["V8 Twin-Turbo with Electric Motor", "Porsche Active Suspension Management (PASM)", "Porsche Ceramic Composite Brakes (PCCB)", "Burmester 3D High-End Surround Sound", "Sport Turismo Body Style"],
-      "price": 6500000000,
-      "imageUrl": "",
-      "CategoryId": 2 
-    },
-    {
-      "UserId": 1,
-      "brand": "Audi",
-      "Type": "SQ5 Sportback TFSI quattro",
-      "condition":"New",
-      "fuel": "Bensin",
-      "features": ["3.0L V6 TFSI Engine", "S Sport Suspension with Damper Control", "quattro All-Wheel Drive", "Bang & Olufsen 3D Sound", "Matrix Design LED Headlights"],
-      "price": 1950000000,
-      "imageUrl": "",
-      "CategoryId": 1 
-    },
-    {
-      "UserId": 1,
-      "brand": "Range Rover", 
-      "Type": "SV P615 LWB (Bespoke)",
-      "condition":"New",
-      "fuel": "Bensin",
-      "features": ["Twin Turbo V8 (BMW Sourced)", "SV Serenity or SV Intrepid Theme", "Ultimate Bespoke Craftsmanship", "Meridian Signature Sound with Headrest Speakers", "Executive Class Comfort Plus Rear Seats with SV Specifics"],
-      "price": 9000000000,
-      "imageUrl": "",
-      "CategoryId": 1
-    },
-    {
-      "UserId": 1,
-      "brand": "Polestar",
-      "Type": "2 Long Range Dual Motor Performance Pack",
-      "condition":"New",
-      "fuel": "Listrik",
-      "features": ["Dual Electric Motors", "Öhlins Dual Flow Valve Dampers", "Brembo Brakes", "Performance Software Upgrade", "Harman Kardon Premium Sound"],
-      "price": 1500000000, 
-      "imageUrl": "",
-      "CategoryId": 4 
-    },
-    {
-      "UserId": 1,
-      "brand": "Rimac",
-      "Type": "Nevera",
-      "condition":"New",
-      "fuel": "Listrik",
-      "features": ["Quad-Motor Powertrain (1,914 hp)", "All-Wheel Torque Vectoring II", "Carbon Fiber Monocoque", "AI Driving Coach", "Top Speed over 400 km/h"],
-      "price": 35000000000, 
-      "imageUrl": "",
-      "CategoryId": 7 
-    },
-    {
-      "UserId": 1,
-      "brand": "Bugatti",
-      "Type": "Chiron Super Sport",
-      "condition":"New",
-      "fuel": "Bensin",
-      "features": ["8.0L Quad-Turbocharged W16 Engine", "Longtail Aerodynamics", "Top Speed electronically limited to 440 km/h", "Exquisite Bespoke Interior", "Sky View Roof (Optional)"],
-      "price": 60000000000, 
-      "imageUrl": "",
-      "CategoryId": 7 
-    },
-    {
-      "UserId": 1,
-      "brand": "Koenigsegg",
-      "Type": "Jesko Absolut",
-      "condition":"New",
-      "fuel": "Bensin",
-      "features": ["5.0L Twin-Turbo V8 (up to 1600hp on E85)", "Light Speed Transmission (LST)", "Low Drag Aerodynamics for Top Speed", "Triplex Suspension", "Carbon Fiber Wheels"],
-      "price": 50000000000, 
-      "imageUrl": "",
-      "CategoryId": 7 
-    },
-    {
-      "UserId": 1,
-      "brand": "Pagani",
-      "Type": "Huayra Roadster BC",
-      "condition":"New",
-      "fuel": "Bensin",
-      "features": ["Mercedes-AMG V12 Twin-Turbo Engine", "Carbo-Titanium HP62 G2 and Carbo-Triax HP62 monocoque", "Active Aerodynamics", "Exposed Carbon Fiber Bodywork", "Bespoke Interior Artistry"],
-      "price": 65000000000, 
-      "imageUrl": "",
-      "CategoryId": 8 
-    },
-    {
-      "UserId": 1,
-      "brand": "Lexus",
-      "Type": "RZ 450e Luxury",
-      "condition":"New",
-      "fuel": "Listrik",
-      "features": ["DIRECT4 All-Wheel Drive", "Steer-by-Wire with Yoke Steering (Optional)", "Panoramic Roof with Dimming Function", "Mark Levinson Premium Surround Sound", "Lexus Safety System+ 3.0"],
-      "price": 2300000000,
-      "imageUrl": "",
-      "CategoryId": 1
-    },
-    {
-      "UserId": 1,
-      "brand": "Mercedes-Benz",
-      "Type": "EQE 350+ SUV AMG Line",
-      "condition":"New",
-      "fuel": "Listrik",
-      "features": ["MBUX Hyperscreen (Optional)", "AIRMATIC Air Suspension", "Rear-axle steering", "Digital Light", "Burmester 3D Surround Sound"],
-      "price": 2500000000,
-      "imageUrl": "",
-      "CategoryId": 1
-    },
-    {
-      "UserId": 1,
-      "brand": "BMW",
-      "Type": "i7 xDrive60 M Sport",
-      "condition":"New",
-      "fuel": "Listrik",
-      "features": ["BMW Theatre Screen (31.3-inch 8K)", "Sky Lounge Panoramic Glass Sunroof", "Bowers & Wilkins Diamond Surround Sound", "Automatic Doors", "Executive Lounge Seating"],
-      "price": 3300000000,
-      "imageUrl": "",
-      "CategoryId": 4
-    },
-    {
-      "UserId": 1,
-      "brand": "Audi",
-      "Type": "Q4 e-tron Sportback S line",
-      "condition":"New",
-      "fuel": "Listrik",
-      "features": ["Augmented Reality Head-Up Display", "Sonos Premium Sound System", "Matrix LED Headlights", "Sport Suspension", "Progressive Steering"],
-      "price": 1500000000,
-      "imageUrl": "",
-      "CategoryId": 1 
-    },
-    {
-      "UserId": 1,
-      "brand": "Volvo",
-      "Type": "EX90 Twin Motor Ultra",
-      "condition":"New",
-      "fuel": "Listrik",
-      "features": ["Lidar technology for safety", "NVIDIA DRIVE AI Platform", "Bowers & Wilkins High Fidelity Audio", "Panoramic Roof", "Sustainable Interior Materials"],
-      "price": 2200000000,
-      "imageUrl": "",
-      "CategoryId": 1
-    },
-    {
-      "UserId": 1,
-      "brand": "Porsche",
-      "Type": "Cayenne S E-Hybrid",
-      "condition":"New",
-      "fuel": "Plug-in Hybrid",
-      "features": ["Uprated V6 Turbo with Electric Motor", "Adaptive Air Suspension", "Porsche Active Suspension Management (PASM)", "Matrix Design LED Headlights", "Sport Chrono Package"],
-      "price": 3500000000,
-      "imageUrl": "",
-      "CategoryId": 1
-    },
-    {
-      "UserId": 1,
-      "brand": "Land Rover",
-      "Type": "Discovery Metropolitan Edition P360",
-      "condition":"New",
-      "fuel": "Bensin (Mild Hybrid)",
-      "features": ["Bright Atlas detailing", "Sliding Front Sunroof and Fixed Rear Panoramic Roof", "Meridian Surround Sound System", "Powered Third Row Seats", "3D Surround Camera"],
-      "price": 2700000000,
-      "imageUrl": "",
-      "CategoryId": 1
-    },
-    {
-      "UserId": 1,
-      "brand": "Mini",
-      "Type": "Electric Resolute Edition",
-      "condition":"New",
-      "fuel": "Listrik",
-      "features": ["Rebel Green exterior, Resolute Bronze accents", "MINI Electric Interior Surface", "Nappa Leather Steering Wheel", "8.8-inch Central Display", "Driving Assistant Package"],
-      "price": 980000000,
-      "imageUrl": "",
-      "CategoryId": 3
-    },
-    {
-      "UserId": 1,
-      "brand": "Jaguar",
-      "Type": "XF P300 R-Dynamic SE Saloon",
-      "condition":"New",
-      "fuel": "Bensin",
-      "features": ["Pivi Pro with 11.4-inch Touchscreen", "Meridian Sound System", "Interactive Driver Display", "Sliding Panoramic Roof", "Premium LED Headlights"],
-      "price": 1700000000,
-      "imageUrl": "",
-      "CategoryId": 4
-    },
-    {
-      "UserId": 1,
-      "brand": "Maserati",
-      "Type": "GranTurismo Trofeo",
-      "condition":"New",
-      "fuel": "Bensin",
-      "features": ["3.0L V6 Nettuno Twin-Turbo Engine", "Sonus Faber High Premium Audio System", "MIA (Maserati Intelligent Assistant) Infotainment", "Digital Smart Clock", "Carbon Fiber Trim"],
-      "price": 7000000000,
-      "imageUrl": "",
-      "CategoryId": 7
-    },
-    {
-      "UserId": 1,
-      "brand": "Alfa Romeo",
-      "Type": "Giulia Quadrifoglio",
-      "condition":"New",
-      "fuel": "Bensin",
-      "features": ["2.9L V6 Bi-Turbo Ferrari-derived engine", "Carbon Fiber Driveshaft", "Active Aerodynamics (Aero Splitter)", "Alfa DNA Pro Drive Mode Selector", "Harman Kardon Premium Audio"],
-      "price": 2800000000,
-      "imageUrl": "",
-      "CategoryId": 4
-    },
-    {
-      "UserId": 1,
-      "brand": "Alfa Romeo",
-      "Type": "Stelvio Quadrifoglio",
-      "condition":"New",
-      "fuel": "Bensin",
-      "features": ["2.9L V6 Bi-Turbo Engine", "Q4 All-Wheel Drive System", "Alfa Active Suspension", "Carbon Ceramic Brakes (Optional)", "Sparco Racing Seats (Optional)"],
-      "price": 3000000000,
-      "imageUrl": "",
-      "CategoryId": 1
-    },
-    {
-      "UserId": 1,
-      "brand": "Rolls-Royce",
-      "Type": "Ghost Black Badge",
-      "condition":"New",
-      "fuel": "Bensin",
-      "features": ["6.75L Twin-Turbo V12", "Illuminated Fascia with Ghost Nameplate", "Black Badge Infinity Lemniscate", "Bespoke Starlight Headliner", "Effortless Doors"],
-      "price": 16000000000,
-      "imageUrl": "",
-      "CategoryId": 4
-    },
-    {
-      "UserId": 1,
-      "brand": "Bentley",
-      "Type": "Continental GTC Mulliner W12",
-      "condition":"New",
-      "fuel": "Bensin",
-      "features": ["6.0L W12 Engine", "Mulliner Diamond-in-Diamond Quilting", "Naim for Bentley Audio System", "Rotating Display", "Bespoke Mulliner Detailing"],
-      "price": 11500000000,
-      "imageUrl": "",
-      "CategoryId": 8
-    },
-    {
-      "UserId": 1,
-      "brand": "Ferrari",
-      "Type": "SF90 Stradale Assetto Fiorano",
-      "condition":"New",
-      "fuel": "Plug-in Hybrid",
-      "features": ["V8 Turbo with 3 Electric Motors (1000 cv)", "Multimatic Shock Absorbers", "Carbon Fibre Rear Spoiler", "Titanium Exhaust System", "Michelin Pilot Sport Cup 2 Tyres"],
-      "price": 18000000000,
-      "imageUrl": "",
-      "CategoryId": 7
-    },
-    {
-      "UserId": 1,
-      "brand": "Lamborghini",
-      "Type": "Aventador LP 780-4 Ultimae Roadster",
-      "condition":"New",
-      "fuel": "Bensin",
-      "features": ["6.5L V12 Naturally Aspirated Engine", "Permanent All-Wheel Drive", "LDS (Lamborghini Dynamic Steering)", "Carbon Fiber Monocoque", "Removable Hardtop"],
-      "price": 16000000000,
-      "imageUrl": "",
-      "CategoryId": 8
-    },
-    {
-      "UserId": 1,
-      "brand": "McLaren",
-      "Type": "Elva (No Windscreen)",
-      "condition":"New",
-      "fuel": "Bensin",
-      "features": ["4.0L Twin-Turbo V8", "Active Air Management System (AAMS)", "Open-Top Roadster Design", "Carbon Fibre Chassis and Body", "Bespoke Interior Options"],
-      "price": 30000000000,
-      "imageUrl": "",
-      "CategoryId": 8 
-    },
-    {
-      "UserId": 1,
-      "brand": "Aston Martin",
-      "Type": "Valkyrie AMR Pro",
-      "condition":"New",
-      "fuel": "Hybrid",
-      "features": ["Cosworth 6.5L V12 + Rimac E-Motor", "Track-Only Hypercar", "Extreme Aerodynamics (over 2000kg downforce)", "Carbon Fibre Monocoque", "Michelin Racing Slicks"],
-      "price": 70000000000,
-      "imageUrl": "",
-      "CategoryId": 7 
-    },
-    {
-      "UserId": 1,
-      "brand": "Mercedes-AMG", 
-      "Type": "ONE",
-      "condition":"New",
-      "fuel": "Hybrid (F1 Derived)",
-      "features": ["1.6L V6 Hybrid Turbo with 4 Electric Motors", "Over 1000 hp", "Active Aerodynamics", "Carbon Fiber Monocoque", "Push-rod Suspension"],
-      "price": 50000000000,
-      "imageUrl": "",
-      "CategoryId": 7 
-    },
-    {
-      "UserId": 1,
-      "brand": "Toyota",
-      "Type": "Calya 1.2 E MT STD",
-      "condition":"New",
-      "fuel": "Bensin",
-      "features": ["Dual SRS Airbags", "Power Window", "AC Single Blower", "Basic Audio System", "Immobilizer"],
-      "price": 138500000,
-      "imageUrl": "",
-      "CategoryId": 2
-  }
-  ,
   {
-      "UserId": 1,
-      "brand": "Toyota",
-      "Type": "Calya 1.2 E MT",
-      "condition":"New",
-      "fuel": "Bensin",
-      "features": ["Dual SRS Airbags", "Power Window (All Doors)", "AC Double Blower", "Audio 2DIN with CD/USB/AUX", "Rear Parking Sensor"],
-      "price": 145800000,
-      "imageUrl": "",
-      "CategoryId": 2
-  }
-  ,
+    "UserId": 1,
+    "brand": "Lexus",
+    "Type": "RX 350h Luxury",
+    "condition":"New",
+    "fuel": "Hybrid",
+    "features": ["Panoramic Sunroof", "Mark Levinson Premium Audio", "Adaptive Variable Suspension", "Head-Up Display", "Lexus Safety System+ 3.0"],
+    "price": 1750000000,
+    "imageUrl": "",
+    "CategoryId": 1,
+    "released_year": "2024"
+  },
   {
-      "UserId": 1,
-      "brand": "Toyota",
-      "Type": "Calya 1.2 G MT",
-      "condition":"New",
-      "fuel": "Bensin",
-      "features": ["Dual SRS Airbags", "ABS & EBD", "Fog Lamps", "14-inch Alloy Wheels", "Retractable Outer Mirror", "Audio Steering Switch"],
-      "price": 155200000,
-      "imageUrl": "",
-      "CategoryId": 2
-  }
-  ,
+    "UserId": 1,
+    "brand": "Lexus",
+    "Type": "LM 350h Executive 4-Seater",
+    "condition":"New",
+    "fuel": "Hybrid",
+    "features": ["VIP Rear Seats with Massage", "26-inch Rear Entertainment", "Partition with Retractable Glass", "Mark Levinson Audio", "Gin-Sui-Boku Ornamentation"],
+    "price": 3060000000,
+    "imageUrl": "",
+    "CategoryId": 2,
+    "released_year": "2024"
+  },
   {
-      "UserId": 1,
-      "brand": "Toyota",
-      "Type": "Calya 1.2 G AT",
-      "condition":"New",
-      "fuel": "Bensin",
-      "features": ["Dual SRS Airbags", "ABS & EBD", "Fog Lamps", "14-inch Alloy Wheels", "Retractable Outer Mirror", "Automatic Transmission"],
-      "price": 168400000,
-      "imageUrl": "",
-      "CategoryId": 2
-  }
-  ,
+    "UserId": 1,
+    "brand": "Lexus",
+    "Type": "ES 300h Ultra Luxury",
+    "condition":"New",
+    "fuel": "Hybrid",
+    "features": ["Semi-Aniline Leather Seats", "12.3-inch Touchscreen Display", "Mark Levinson Audio", "Noise Reduction Wheels", "Lexus Safety System+ 2.5"],
+    "price": 1220000000,
+    "imageUrl": "",
+    "CategoryId": 4,
+    "released_year": "2024"
+  },
   {
-      "UserId": 1,
-      "brand": "Daihatsu",
-      "Type": "Sigra 1.0 D MT",
-      "condition":"New",
-      "fuel": "Bensin",
-      "features": ["Power Steering", "AC Single Blower", "1DIN Audio (USB, AUX)", "13-inch Steel Wheels", "Body Color Bumper"],
-      "price": 136000000,
-      "imageUrl": "",
-      "CategoryId": 2
-  }
-  ,
+    "UserId": 1,
+    "brand": "Lexus",
+    "Type": "LX 600 VIP",
+    "condition":"New",
+    "fuel": "Bensin",
+    "features": ["VIP Rear Seats with Ottoman", "Rear Seat Entertainment System", "Mark Levinson 25-speaker Audio", "Fingerprint Authentication Start Switch", "Multi-Terrain Select"],
+    "price": 3500000000,
+    "imageUrl": "",
+    "CategoryId": 1,
+    "released_year": "2024"
+  },
   {
-      "UserId": 1,
-      "brand": "Daihatsu",
-      "Type": "Sigra 1.0 M MT",
-      "condition":"New",
-      "fuel": "Bensin",
-      "features": ["Air Circulator (Rear)", "1DIN Audio (USB, AUX, Radio)", "Power Window (Front)", "Wiper (Rear)", "13-inch Steel Wheels with Cap"],
-      "price": 146600000,
-      "imageUrl": "",
-      "CategoryId": 2
-  }
-  ,
+    "UserId": 1,
+    "brand": "Lexus",
+    "Type": "UX 250h F Sport",
+    "condition":"New",
+    "fuel": "Hybrid",
+    "features": ["F Sport Styling", "Adaptive Variable Suspension (F Sport)", "Sport Seats", "Lexus Safety System+ 2.0", "Wireless Apple CarPlay & Android Auto"],
+    "price": 980000000,
+    "imageUrl": "",
+    "CategoryId": 1,
+    "released_year": "2024"
+  },
   {
-      "UserId": 1,
-      "brand": "Daihatsu",
-      "Type": "Sigra 1.2 X MT",
-      "condition":"New",
-      "fuel": "Bensin",
-      "features": ["Dual SRS Airbags", "AC Double Blower", "2DIN Touchscreen Audio", "Rear Parking Sensor", "14-inch Steel Wheels with Cap", "Immobilizer"],
-      "price": 156300000,
-      "imageUrl": "",
-      "CategoryId": 2
-  }
-  ,
+    "UserId": 1,
+    "brand": "Mercedes-Benz",
+    "Type": "S 580 e L AMG Line (W223)",
+    "condition":"New",
+    "fuel": "Plug-in Hybrid",
+    "features": ["AIRMATIC Air Suspension", "MBUX High-End Rear Seat Entertainment", "Burmester 4D Surround Sound", "DIGITAL LIGHT Headlamps", "Driving Assistance Package Plus"],
+    "price": 3500000000,
+    "imageUrl": "",
+    "CategoryId": 4,
+    "released_year": "2024"
+  },
   {
-      "UserId": 1,
-      "brand": "Daihatsu",
-      "Type": "Sigra 1.2 X AT",
-      "condition":"New",
-      "fuel": "Bensin",
-      "features": ["Dual SRS Airbags", "AC Double Blower", "2DIN Touchscreen Audio", "Rear Parking Sensor", "Automatic Transmission", "Immobilizer"],
-      "price": 169600000,
-      "imageUrl": "",
-      "CategoryId": 2
-  }
-  ,
+    "UserId": 1,
+    "brand": "Mercedes-Benz",
+    "Type": "GLS 450 4MATIC AMG Line",
+    "condition":"New",
+    "fuel": "Bensin (Mild Hybrid)",
+    "features": ["7-Seater Configuration", "MBUX Infotainment with Dual 12.3-inch Screens", "Panoramic Sliding Sunroof", "Burmester Surround Sound System", "AIRMATIC Package"],
+    "price": 2800000000,
+    "imageUrl": "",
+    "CategoryId": 1,
+    "released_year": "2024"
+  },
   {
-      "UserId": 1,
-      "brand": "Daihatsu",
-      "Type": "Sigra 1.2 R MT",
-      "condition":"New",
-      "fuel": "Bensin",
-      "features": ["Dual SRS Airbags", "ABS & EBD", "Fog Lamps", "14-inch Polished Alloy Wheels", "Electric Mirror with Turn Signal", "Chrome Window Garnish"],
-      "price": 163000000,
-      "imageUrl": "",
-      "CategoryId": 2
-  }
-  ,
+    "UserId": 1,
+    "brand": "Mercedes-Benz",
+    "Type": "C 300 AMG Line (W206)",
+    "condition":"New",
+    "fuel": "Bensin (Mild Hybrid)",
+    "features": ["AMG Line Exterior & Interior", "Digital Instrument Cluster 12.3-inch", "MBUX Multimedia System 11.9-inch", "Panoramic Sliding Sunroof", "KEYLESS-GO"],
+    "price": 1350000000,
+    "imageUrl": "",
+    "CategoryId": 4,
+    "released_year": "2024"
+  },
   {
-      "UserId": 1,
-      "brand": "Daihatsu",
-      "Type": "Sigra 1.2 R AT",
-      "condition":"New",
-      "fuel": "Bensin",
-      "features": ["Dual SRS Airbags", "ABS & EBD", "Fog Lamps", "14-inch Polished Alloy Wheels", "Electric Mirror with Turn Signal", "Automatic Transmission"],
-      "price": 177800000,
-      "imageUrl": "",
-      "CategoryId": 2
-  }
-  ,
+    "UserId": 1,
+    "brand": "Mercedes-Benz",
+    "Type": "GLE 450 4MATIC AMG Line Coupe",
+    "condition":"New",
+    "fuel": "Bensin (Mild Hybrid)",
+    "features": ["AMG Line Exterior", "MBUX Augmented Reality Navigation", "Burmester Surround Sound", "MULTIBEAM LED", "AIRMATIC Suspension"],
+    "price": 2500000000,
+    "imageUrl": "",
+    "CategoryId": 1,
+    "released_year": "2024"
+  },
   {
-      "UserId": 1,
-      "brand": "Daihatsu",
-      "Type": "Sigra 1.2 X MT DLX",
-      "condition":"New",
-      "fuel": "Bensin",
-      "features": ["Sigra 1.2 X MT features", "Front Grille Chrome Ornament", "DLX Emblem", "Muffler Cutter", "Chrome Back Door Garnish"],
-      "price": 161900000,
-      "imageUrl": "",
-      "CategoryId": 2
-  }
-  ,
+    "UserId": 1,
+    "brand": "Mercedes-Benz",
+    "Type": "EQS 450+ Electric Art Line",
+    "condition":"New",
+    "fuel": "Listrik",
+    "features": ["MBUX Hyperscreen (Optional)", "AIRMATIC Air Suspension", "Rear-axle steering", "HEPA Air Filtration", "Driving Assistance Package"],
+    "price": 3100000000,
+    "imageUrl": "",
+    "CategoryId": 4,
+    "released_year": "2024"
+  },
   {
-      "UserId": 1,
-      "brand": "Daihatsu",
-      "Type": "Sigra 1.2 X AT DLX",
-      "condition":"New",
-      "fuel": "Bensin",
-      "features": ["Sigra 1.2 X AT features", "Front Grille Chrome Ornament", "DLX Emblem", "Muffler Cutter", "Chrome Back Door Garnish"],
-      "price": 175100000,
-      "imageUrl": "",
-      "CategoryId": 2
-  }
-  ,
+    "UserId": 1,
+    "brand": "Mercedes-Benz",
+    "Type": "G 63 AMG",
+    "condition":"New",
+    "fuel": "Bensin",
+    "features": ["AMG 4.0L V8 Biturbo", "AMG RIDE CONTROL Suspension", "Three Differential Locks", "Burmester Surround Sound", "Exclusive Nappa Leather"],
+    "price": 6500000000,
+    "imageUrl": "",
+    "CategoryId": 1,
+    "released_year": "2024"
+  },
   {
-      "UserId": 1,
-      "brand": "Daihatsu",
-      "Type": "Sigra 1.2 R MT DLX",
-      "condition":"New",
-      "fuel": "Bensin",
-      "features": ["Sigra 1.2 R MT features", "Front Bumper Skirt", "Side Skirt", "Rear Bumper Skirt", "DLX Emblem"],
-      "price": 166800000,
-      "imageUrl": "",
-      "CategoryId": 2
-  }
-  ,
+    "UserId": 1,
+    "brand": "Mercedes-Benz",
+    "Type": "AMG GT 63 S E PERFORMANCE 4-Door Coupe",
+    "condition":"New",
+    "fuel": "Plug-in Hybrid",
+    "features": ["AMG High-Performance Hybrid System", "AMG RIDE CONTROL+ Suspension", "Rear-Axle Steering", "AMG Performance Seats", "Burmester High-End 3D Surround Sound"],
+    "price": 5500000000,
+    "imageUrl": "",
+    "CategoryId": 7,
+    "released_year": "2024"
+  },
   {
-      "UserId": 1,
-      "brand": "Toyota",
-      "Type": "Agya 1.2 E MT",
-      "condition":"New",
-      "fuel": "Bensin",
-      "features": ["Dual SRS Airbags", "Power Window", "AC Digital", "Audio 1DIN with Bluetooth", "14-inch Steel Wheels"],
-      "price": 160500000,
-      "imageUrl": "",
-      "CategoryId": 5
-  }
-  ,
+    "UserId": 1,
+    "brand": "Mercedes-Benz",
+    "Type": "A 200 Progressive Line Hatchback",
+    "condition":"New",
+    "fuel": "Bensin",
+    "features": ["MBUX Multimedia System", "Active Parking Assist", "LED High Performance Headlamps", "Panoramic Sunroof", "Ambient Lighting"],
+    "price": 850000000,
+    "imageUrl": "",
+    "CategoryId": 3,
+    "released_year": "2024"
+  },
   {
-      "UserId": 1,
-      "brand": "Toyota",
-      "Type": "Agya 1.2 G MT",
-      "condition":"New",
-      "fuel": "Bensin",
-      "features": ["Dual SRS Airbags", "ABS & EBD", "14-inch Machining Alloy Wheels", "7-inch Touchscreen Head Unit", "Rear Spoiler with HMSL"],
-      "price": 170900000,
-      "imageUrl": "",
-      "CategoryId": 5
-  }
-  ,
+    "UserId": 1,
+    "brand": "BMW",
+    "Type": "740Li Opulence (G12 LCI)",
+    "condition":"New",
+    "fuel": "Bensin",
+    "features": ["BMW Laserlight", "Sky Lounge Panoramic Glass Sunroof", "Bowers & Wilkins Diamond Surround Sound", "Executive Lounge Seating", "BMW Driving Assistant Professional"],
+    "price": 2900000000,
+    "imageUrl": "",
+    "CategoryId": 4,
+    "released_year": "2023" 
+  },
   {
-      "UserId": 1,
-      "brand": "Toyota",
-      "Type": "Agya 1.2 G CVT",
-      "condition":"New",
-      "fuel": "Bensin",
-      "features": ["Dual SRS Airbags", "ABS & EBD", "14-inch Machining Alloy Wheels", "7-inch Touchscreen Head Unit", "CVT Transmission", "Smart Entry System"],
-      "price": 186400000,
-      "imageUrl": "",
-      "CategoryId": 5
-  }
-  ,
+    "UserId": 1,
+    "brand": "BMW",
+    "Type": "X7 xDrive40i Opulence",
+    "condition":"New",
+    "fuel": "Bensin (Mild Hybrid)",
+    "features": ["BMW Kidney 'Iconic Glow'", "Sky Lounge Panoramic Glass Sunroof", "Harman Kardon Surround Sound", "CraftedClarity Glass Application", "BMW Live Cockpit Professional"],
+    "price": 2750000000,
+    "imageUrl": "",
+    "CategoryId": 1,
+    "released_year": "2024"
+  },
   {
-      "UserId": 1,
-      "brand": "Daihatsu",
-      "Type": "Ayla 1.0 M MT",
-      "condition":"New",
-      "fuel": "Bensin",
-      "features": ["Power Steering", "Air Conditioner", "1DIN Audio (USB, AUX)", "13-inch Steel Wheels", "Body Color Door Handles"],
-      "price": 135800000,
-      "imageUrl": "",
-      "CategoryId": 5
-  }
-  ,
+    "UserId": 1,
+    "brand": "BMW",
+    "Type": "M4 Competition Coupe (G82)",
+    "condition":"New",
+    "fuel": "Bensin",
+    "features": ["M TwinPower Turbo Inline 6-cylinder", "M xDrive (Optional)", "M Carbon Bucket Seats", "BMW Laserlight", "Harman Kardon Audio"],
+    "price": 2800000000,
+    "imageUrl": "",
+    "CategoryId": 7,
+    "released_year": "2024"
+  },
   {
-      "UserId": 1,
-      "brand": "Daihatsu",
-      "Type": "Ayla 1.0 X MT",
-      "condition":"New",
-      "fuel": "Bensin",
-      "features": ["Air Conditioner", "Power Window (Front & Rear)", "2DIN Audio with CD/MP3/USB/AUX", "Rear Wiper", "14-inch Steel Wheels with Cap"],
-      "price": 147700000,
-      "imageUrl": "",
-      "CategoryId": 5
-  }
-  ,
+    "UserId": 1,
+    "brand": "BMW",
+    "Type": "iX xDrive50 Sport",
+    "condition":"New",
+    "fuel": "Listrik",
+    "features": ["Dual BMW eDrive Motors", "Sky Lounge Panoramic Glass Sunroof", "Bowers & Wilkins Diamond Surround Sound", "BMW Live Cockpit Professional with Curved Display", "Driving Assistant Professional"],
+    "price": 2600000000,
+    "imageUrl": "",
+    "CategoryId": 1,
+    "released_year": "2024"
+  },
   {
-      "UserId": 1,
-      "brand": "Daihatsu",
-      "Type": "Ayla 1.0 X CVT",
-      "condition":"New",
-      "fuel": "Bensin",
-      "features": ["Air Conditioner", "Power Window (Front & Rear)", "2DIN Audio with CD/MP3/USB/AUX", "Rear Wiper", "CVT Transmission"],
-      "price": 167700000,
-      "imageUrl": "",
-      "CategoryId": 5
-  }
-  ,
+    "UserId": 1,
+    "brand": "BMW",
+    "Type": "330i M Sport (G20)",
+    "condition":"New",
+    "fuel": "Bensin",
+    "features": ["M Sport Package", "BMW Live Cockpit Professional", "Harman Kardon Surround Sound", "Adaptive M Suspension", "Variable Sport Steering"],
+    "price": 1250000000,
+    "imageUrl": "",
+    "CategoryId": 4,
+    "released_year": "2024"
+  },
   {
-      "UserId": 1,
-      "brand": "Daihatsu",
-      "Type": "Ayla 1.2 R MT",
-      "condition":"New",
-      "fuel": "Bensin",
-      "features": ["Dual SRS Airbags", "ABS & EBD", "14-inch Polished Alloy Wheels", "LED Headlamp", "Touchscreen Audio with Mirroring"],
-      "price": 165000000,
-      "imageUrl": "",
-      "CategoryId": 5
-  }
-  ,
+    "UserId": 1,
+    "brand": "BMW",
+    "Type": "X5 xDrive45e M Sport (Plug-in Hybrid)",
+    "condition":"New",
+    "fuel": "Plug-in Hybrid",
+    "features": ["BMW eDrive Technology", "Adaptive 2-axle Air Suspension", "Panoramic Glass Sunroof", "Harman Kardon", "BMW Laserlight"],
+    "price": 2100000000,
+    "imageUrl": "",
+    "CategoryId": 1,
+    "released_year": "2024"
+  },
   {
-      "UserId": 1,
-      "brand": "Daihatsu",
-      "Type": "Ayla 1.0 X MT ADS",
-      "condition":"New",
-      "fuel": "Bensin",
-      "features": ["Ayla 1.0 X MT features", "ADS Front Body Kit", "ADS Side Skirt", "ADS Rear Body Kit", "ADS Emblem"],
-      "price": 153600000,
-      "imageUrl": "",
-      "CategoryId": 5
-  }
-  ,
+    "UserId": 1,
+    "brand": "BMW",
+    "Type": "Z4 M40i Roadster",
+    "condition":"New",
+    "fuel": "Bensin",
+    "features": ["M TwinPower Turbo Engine", "Adaptive M Suspension", "BMW Live Cockpit Professional", "Harman Kardon", "Electrically Operated Soft Top"],
+    "price": 1900000000,
+    "imageUrl": "",
+    "CategoryId": 8,
+    "released_year": "2024"
+  },
   {
-      "UserId": 1,
-      "brand": "Daihatsu",
-      "Type": "Ayla 1.0 X CVT ADS",
-      "condition":"New",
-      "fuel": "Bensin",
-      "features": ["Ayla 1.0 X CVT features", "ADS Front Body Kit", "ADS Side Skirt", "ADS Rear Body Kit", "ADS Emblem"],
-      "price": 173600000,
-      "imageUrl": "",
-      "CategoryId": 5
-  }
-  ,
+    "UserId": 1,
+    "brand": "BMW",
+    "Type": "XM",
+    "condition":"New",
+    "fuel": "Plug-in Hybrid",
+    "features": ["M HYBRID Drive System (V8 + Electric)", "Adaptive M Suspension Professional", "Iconic Glow Kidney Grille", "Bowers & Wilkins Diamond Surround Sound", "M Lounge Rear Seats"],
+    "price": 5500000000,
+    "imageUrl": "",
+    "CategoryId": 1,
+    "released_year": "2024"
+  },
   {
-      "UserId": 1,
-      "brand": "Daihatsu",
-      "Type": "Ayla 1.2 R MT ADS",
-      "condition":"New",
-      "fuel": "Bensin",
-      "features": ["Ayla 1.2 R MT features", "ADS Front Body Kit with DRL", "ADS Side Skirt", "ADS Rear Upper Spoiler with HMSL", "ADS Emblem"],
-      "price": 170900000,
-      "imageUrl": "",
-      "CategoryId": 5
-  }
-  ,
+    "UserId": 1,
+    "brand": "Jeep",
+    "Type": "Wrangler Rubicon Unlimited (4-Door)",
+    "condition":"New",
+    "fuel": "Bensin",
+    "features": ["Rock-Trac 4x4 System", "Tru-Lok Electronic Locking Differentials", "Electronic Sway Bar Disconnect", "Uconnect with 8.4-inch Display", "Removable Doors and Roof"],
+    "price": 1900000000,
+    "imageUrl": "",
+    "CategoryId": 1,
+    "released_year": "2024"
+  },
   {
-      "UserId": 1,
-      "brand": "Daihatsu",
-      "Type": "Ayla 1.2 R CVT",
-      "condition":"New",
-      "fuel": "Bensin",
-      "features": ["Dual SRS Airbags", "ABS & EBD", "14-inch Polished Alloy Wheels", "LED Headlamp", "Touchscreen Audio with Mirroring", "CVT Transmission"],
-      "price": 180800000,
-      "imageUrl": "",
-      "CategoryId": 5
-  }
-  ,
+    "UserId": 1,
+    "brand": "Jeep",
+    "Type": "Grand Cherokee L Summit Reserve 4x4",
+    "condition":"New",
+    "fuel": "Bensin",
+    "features": ["Quilted Palermo Leather Seats", "McIntosh MX950 Entertainment System", "Quadra-Lift Air Suspension", "Panoramic Sunroof", "Active Driving Assist"],
+    "price": 2500000000,
+    "imageUrl": "",
+    "CategoryId": 1,
+    "released_year": "2024"
+  },
   {
-      "UserId": 1,
-      "brand": "Honda",
-      "Type": "Brio Satya S MT",
-      "condition":"New",
-      "fuel": "Bensin",
-      "features": ["Dual Front SRS Airbags", "ABS & EBD", "Power Window", "Digital AC", "14-inch Steel Wheels", "Audio System with USB Port"],
-      "price": 167900000,
-      "imageUrl": "",
-      "CategoryId": 5
-  }
-  ,
+    "UserId": 1,
+    "brand": "Jeep",
+    "Type": "Gladiator Rubicon Pickup",
+    "condition":"New",
+    "fuel": "Bensin",
+    "features": ["Rock-Trac 4x4 System", "FOX Shocks", "Lockable Rear Seat Storage", "Uconnect 4C NAV", "Removable Top and Doors"],
+    "price": 2100000000,
+    "imageUrl": "",
+    "CategoryId": 6,
+    "released_year": "2024"
+  },
   {
-      "UserId": 1,
-      "brand": "Honda",
-      "Type": "Brio Satya E MT",
-      "condition":"New",
-      "fuel": "Bensin",
-      "features": ["Dual Front SRS Airbags", "ABS & EBD", "Audio Steering Switch", "Fog Lights", "14-inch Alloy Wheels", "Electric Mirror"],
-      "price": 182800000,
-      "imageUrl": "",
-      "CategoryId": 5
-  }
-  ,
+    "UserId": 1,
+    "brand": "Audi",
+    "Type": "RS 6 Avant Performance",
+    "condition":"New",
+    "fuel": "Bensin (Mild Hybrid)",
+    "features": ["4.0L TFSI V8 Twin-Turbo", "quattro All-Wheel Drive", "RS Adaptive Air Suspension", "Bang & Olufsen 3D Premium Sound", "Matrix LED Headlights"],
+    "price": 4500000000,
+    "imageUrl": "",
+    "CategoryId": 2,
+    "released_year": "2024"
+  },
   {
-      "UserId": 1,
-      "brand": "Suzuki",
-      "Type": "S-Presso MT",
-      "condition":"New",
-      "fuel": "Bensin",
-      "features": ["Dual Airbags", "ABS with EBD", "Rear Parking Sensors", "SmartPlay Studio Infotainment 7-inch", "High Ground Clearance", "Central Instrument Cluster"],
-      "price": 169100000,
-      "imageUrl": "",
-      "CategoryId": 5
-  }
-  ,
+    "UserId": 1,
+    "brand": "Audi",
+    "Type": "A8 L 60 TFSI e quattro (Plug-in Hybrid)",
+    "condition":"New",
+    "fuel": "Plug-in Hybrid",
+    "features": ["Predictive Active Suspension", "HD Matrix LED Headlights", "Bang & Olufsen Advanced Sound System", "Rear Seat Comfort Package", "Audi Virtual Cockpit Plus"],
+    "price": 3200000000,
+    "imageUrl": "",
+    "CategoryId": 4,
+    "released_year": "2024"
+  },
   {
-      "UserId": 1,
-      "brand": "Toyota",
-      "Type": "Calya 1.2 E AT",
-      "condition":"New",
-      "fuel": "Bensin",
-      "features": ["Dual SRS Airbags", "Power Window (All Doors)", "AC Double Blower", "Audio 2DIN with CD/USB/AUX", "Rear Parking Sensor", "Automatic Transmission"],
-      "price": 158900000,
-      "imageUrl": "",
-      "CategoryId": 2
-  }
-  ,
+    "UserId": 1,
+    "brand": "Audi",
+    "Type": "Q8 55 TFSI quattro S Line",
+    "condition":"New",
+    "fuel": "Bensin (Mild Hybrid)",
+    "features": ["HD Matrix LED Headlights", "Adaptive Air Suspension Sport", "Bang & Olufsen Premium Sound", "Audi Virtual Cockpit", "Panoramic Glass Sunroof"],
+    "price": 2300000000,
+    "imageUrl": "",
+    "CategoryId": 1,
+    "released_year": "2024"
+  },
   {
-      "UserId": 1,
-      "brand": "Wuling",
-      "Type": "Formo S 1.2 5-Seater",
-      "condition":"New",
-      "fuel": "Bensin",
-      "features": ["AC Front Blower", "Power Steering", "Basic Audio (Radio, USB)", "Sliding Door (Left Side)", "Spacious Cabin for 5"],
-      "price": 148500000,
-      "imageUrl": "",
-      "CategoryId": 2
-  }
-  ,
+    "UserId": 1,
+    "brand": "Audi",
+    "Type": "e-tron GT quattro",
+    "condition":"New",
+    "fuel": "Listrik",
+    "features": ["Dual Electric Motors", "Two-speed Transmission (Rear Axle)", "Adaptive Air Suspension", "Bang & Olufsen Premium Sound", "Matrix LED Headlights with Audi Laser Light"],
+    "price": 3000000000,
+    "imageUrl": "",
+    "CategoryId": 7,
+    "released_year": "2024"
+  },
   {
-      "UserId": 1,
-      "brand": "Wuling",
-      "Type": "Formo S 1.2 8-Seater",
-      "condition":"New",
-      "fuel": "Bensin",
-      "features": ["AC Front & Rear Blower", "Power Steering", "Basic Audio (Radio, USB)", "Sliding Door (Left Side)", "8-Seater Configuration"],
-      "price": 153700000,
-      "imageUrl": "",
-      "CategoryId": 2
+    "UserId": 1,
+    "brand": "Audi",
+    "Type": "R8 Coupe V10 performance quattro",
+    "condition":"New",
+    "fuel": "Bensin",
+    "features": ["5.2L V10 FSI Engine", "quattro All-Wheel Drive", "Audi Magnetic Ride", "Bang & Olufsen Sound System", "Carbon Fiber Exterior Elements"],
+    "price": 7500000000,
+    "imageUrl": "",
+    "CategoryId": 7,
+    "released_year": "2024"
+  },
+  {
+    "UserId": 1,
+    "brand": "Volvo",
+    "Type": "XC90 Recharge T8 Ultimate Bright (Plug-in Hybrid)",
+    "condition":"New",
+    "fuel": "Plug-in Hybrid",
+    "features": ["Bowers & Wilkins High Fidelity Audio", "Air Suspension with CCD", "Panoramic Sunroof", "Nappa Leather Upholstery", "Pilot Assist"],
+    "price": 1900000000,
+    "imageUrl": "",
+    "CategoryId": 1,
+    "released_year": "2024"
+  },
+  {
+    "UserId": 1,
+    "brand": "Volvo",
+    "Type": "S90 Recharge T8 Ultimate Bright (Plug-in Hybrid)",
+    "condition":"New",
+    "fuel": "Plug-in Hybrid",
+    "features": ["Bowers & Wilkins Audio", "Graphical Head-Up Display", "Nappa Leather Comfort Seats", "Pilot Assist", "360° Camera"],
+    "price": 1600000000,
+    "imageUrl": "",
+    "CategoryId": 4,
+    "released_year": "2024"
+  },
+  {
+    "UserId": 1,
+    "brand": "Volvo",
+    "Type": "C40 Recharge Pure Electric Ultimate",
+    "condition":"New",
+    "fuel": "Listrik",
+    "features": ["Dual Electric Motors", "Panoramic Roof", "Harman Kardon Premium Sound", "Pixel LED Headlights", "Built-in Google Services"],
+    "price": 1400000000,
+    "imageUrl": "",
+    "CategoryId": 1,
+    "released_year": "2024"
+  },
+  {
+    "UserId": 1,
+    "brand": "Porsche",
+    "Type": "911 Turbo S Coupe (992)",
+    "condition":"New",
+    "fuel": "Bensin",
+    "features": ["Twin-Turbo Boxer 6 Engine", "Porsche Doppelkupplung (PDK)", "Porsche Active Suspension Management (PASM)", "Burmester High-End Surround Sound", "Sport Chrono Package"],
+    "price": 8000000000,
+    "imageUrl": "",
+    "CategoryId": 7,
+    "released_year": "2024"
+  },
+  {
+    "UserId": 1,
+    "brand": "Porsche",
+    "Type": "Cayenne Turbo E-Hybrid Coupe",
+    "condition":"New",
+    "fuel": "Plug-in Hybrid",
+    "features": ["V8 Twin-Turbo with Electric Motor", "Adaptive Air Suspension with PASM", "Porsche Dynamic Chassis Control (PDCC)", "Burmester 3D High-End Surround Sound", "Panoramic Fixed Glass Roof"],
+    "price": 5000000000,
+    "imageUrl": "",
+    "CategoryId": 1,
+    "released_year": "2024"
+  },
+  {
+    "UserId": 1,
+    "brand": "Porsche",
+    "Type": "Taycan Turbo S Cross Turismo",
+    "condition":"New",
+    "fuel": "Listrik",
+    "features": ["Dual Electric Motors (Overboost Power)", "Two-Speed Transmission (Rear Axle)", "Adaptive Air Suspension", "Gravel Mode", "Panoramic Roof with Variable Light Control"],
+    "price": 5500000000,
+    "imageUrl": "",
+    "CategoryId": 1,
+    "released_year": "2024"
+  },
+  {
+    "UserId": 1,
+    "brand": "Porsche",
+    "Type": "Macan GTS",
+    "condition":"New",
+    "fuel": "Bensin",
+    "features": ["2.9L V6 Twin-Turbo", "Porsche Active Suspension Management (PASM)", "Sport Air Suspension", "BOSE Surround Sound System", "GTS Sport Seats"],
+    "price": 2700000000,
+    "imageUrl": "",
+    "CategoryId": 1,
+    "released_year": "2024"
+  },
+  {
+    "UserId": 1,
+    "brand": "Porsche",
+    "Type": "718 Cayman GT4 RS",
+    "condition":"New",
+    "fuel": "Bensin",
+    "features": ["4.0L Naturally Aspirated Boxer 6", "Porsche Doppelkupplung (PDK)", "RS-specific Suspension Tuning", "Carbon Fiber Reinforced Plastic (CFRP) components", "Clubsport Package (Optional)"],
+    "price": 6000000000,
+    "imageUrl": "",
+    "CategoryId": 7,
+    "released_year": "2024"
+  },
+  {
+    "UserId": 1,
+    "brand": "Land Rover",
+    "Type": "Range Rover P530 Autobiography LWB",
+    "condition":"New",
+    "fuel": "Bensin",
+    "features": ["4.4L Twin-Turbo V8", "Executive Class Comfort Plus Rear Seats", "Meridian Signature Sound System", "Pixel LED Headlights with Signature DRL", "Electronic Air Suspension with Dynamic Response"],
+    "price": 6800000000,
+    "imageUrl": "",
+    "CategoryId": 1,
+    "released_year": "2024"
+  },
+  {
+    "UserId": 1,
+    "brand": "Land Rover",
+    "Type": "Defender 110 P400 X-Dynamic HSE",
+    "condition":"New",
+    "fuel": "Bensin (Mild Hybrid)",
+    "features": ["Electronic Air Suspension", "Adaptive Dynamics", "Meridian Surround Sound System", "Sliding Panoramic Roof", "3D Surround Camera"],
+    "price": 3000000000,
+    "imageUrl": "",
+    "CategoryId": 1,
+    "released_year": "2024"
+  },
+  {
+    "UserId": 1,
+    "brand": "Land Rover",
+    "Type": "Range Rover Sport P510e Autobiography (Plug-in Hybrid)",
+    "condition":"New",
+    "fuel": "Plug-in Hybrid",
+    "features": ["Dynamic Air Suspension", "Pixel LED headlights", "Meridian 3D Surround Sound System", "Sliding Panoramic Roof", "22-way heated and ventilated massage front seats"],
+    "price": 4500000000,
+    "imageUrl": "",
+    "CategoryId": 1,
+    "released_year": "2024"
+  },
+  {
+    "UserId": 1,
+    "brand": "Land Rover",
+    "Type": "Range Rover Velar P340 R-Dynamic SE",
+    "condition":"New",
+    "fuel": "Bensin (Mild Hybrid)",
+    "features": ["Pivi Pro Infotainment", "Meridian Sound System", "Sliding Panoramic Roof", "Interactive Driver Display", "Matrix LED headlights"],
+    "price": 2600000000,
+    "imageUrl": "",
+    "CategoryId": 1,
+    "released_year": "2024"
+  },
+  {
+    "UserId": 1,
+    "brand": "Mini",
+    "Type": "Cooper S 3-Door Resolute Edition",
+    "condition":"New",
+    "fuel": "Bensin",
+    "features": ["Edition Specific Styling (Rebel Green, Resolute Bronze)", "Nappa Leather Steering Wheel", "8.8-inch Touchscreen Infotainment", "LED Headlights with Union Jack design", "Driving Modes"],
+    "price": 950000000,
+    "imageUrl": "",
+    "CategoryId": 3,
+    "released_year": "2024"
+  },
+  {
+    "UserId": 1,
+    "brand": "Mini",
+    "Type": "Countryman John Cooper Works ALL4",
+    "condition":"New",
+    "fuel": "Bensin",
+    "features": ["JCW Aerodynamic Kit", "ALL4 All-Wheel Drive", "Sport Suspension", "Harman Kardon Hi-Fi System", "Panoramic Glass Roof"],
+    "price": 1550000000,
+    "imageUrl": "",
+    "CategoryId": 1,
+    "released_year": "2024"
+  },
+  {
+    "UserId": 1,
+    "brand": "Mini",
+    "Type": "Convertible Cooper S Seaside Edition",
+    "condition":"New",
+    "fuel": "Bensin",
+    "features": ["Caribbean Aqua Metallic Paint", "Edition Specific Decals and Badging", "Electrically Operated Soft Top with Union Jack", "Chester Leather Upholstery", "Harman Kardon Audio"],
+    "price": 1100000000,
+    "imageUrl": "",
+    "CategoryId": 8,
+    "released_year": "2024"
+  },
+  {
+    "UserId": 1,
+    "brand": "Volkswagen",
+    "Type": "Golf GTI Mk8",
+    "condition":"New",
+    "fuel": "Bensin",
+    "features": ["2.0L TSI Engine", "Dynamic Chassis Control (DCC)", "IQ.LIGHT LED Matrix Headlights", "Harman Kardon Sound System (Optional)", "Digital Cockpit Pro"],
+    "price": 1300000000,
+    "imageUrl": "",
+    "CategoryId": 3,
+    "released_year": "2024"
+  },
+  {
+    "UserId": 1,
+    "brand": "Volkswagen",
+    "Type": "Tiguan Allspace R-Line",
+    "condition":"New",
+    "fuel": "Bensin",
+    "features": ["R-Line Exterior Styling", "Panoramic Sunroof", "Digital Cockpit", "Discover Pro Navigation", "IQ.DRIVE Travel Assist"],
+    "price": 980000000,
+    "imageUrl": "",
+    "CategoryId": 1,
+    "released_year": "2024"
+  },
+  {
+    "UserId": 1,
+    "brand": "Jaguar",
+    "Type": "F-PACE SVR P550",
+    "condition":"New",
+    "fuel": "Bensin",
+    "features": ["5.0L Supercharged V8", "SVR Tuned Suspension", "Active Exhaust System", "Meridian Surround Sound System", "Performance Seats"],
+    "price": 3800000000,
+    "imageUrl": "",
+    "CategoryId": 1,
+    "released_year": "2024"
+  },
+  {
+    "UserId": 1,
+    "brand": "Jaguar",
+    "Type": "I-PACE HSE EV400",
+    "condition":"New",
+    "fuel": "Listrik",
+    "features": ["Dual Electric Motors (AWD)", "Fixed Panoramic Roof", "Meridian 3D Surround Sound System", "Pivi Pro Infotainment", "Matrix LED Headlights"],
+    "price": 2800000000,
+    "imageUrl": "",
+    "CategoryId": 1,
+    "released_year": "2024"
+  },
+  {
+    "UserId": 1,
+    "brand": "Jaguar",
+    "Type": "F-Type R75 Coupe P575 AWD",
+    "condition":"New",
+    "fuel": "Bensin",
+    "features": ["5.0L Supercharged V8", "All-Wheel Drive", "Switchable Active Sports Exhaust", "Pixel LED Headlights", "Performance Seats with Windsor Leather"],
+    "price": 4000000000,
+    "imageUrl": "",
+    "CategoryId": 7,
+    "released_year": "2024"
+  },
+  {
+    "UserId": 1,
+    "brand": "Maserati",
+    "Type": "Levante Modena S Q4",
+    "condition":"New",
+    "fuel": "Bensin",
+    "features": ["3.8L Twin-Turbo V8 Ferrari-derived engine", "Skyhook Performance Suspension", "Harman Kardon Premium Audio", "Driver Assistance Package", "Sport Seats"],
+    "price": 4200000000,
+    "imageUrl": "",
+    "CategoryId": 1,
+    "released_year": "2024"
+  },
+  {
+    "UserId": 1,
+    "brand": "Maserati",
+    "Type": "Ghibli Trofeo",
+    "condition":"New",
+    "fuel": "Bensin",
+    "features": ["3.8L V8 Twin-Turbo Ferrari engine", "Corsa Driving Mode with Launch Control", "Skyhook Suspension System", "Bowers & Wilkins Surround Sound", "Carbon Fiber Accents"],
+    "price": 4800000000,
+    "imageUrl": "",
+    "CategoryId": 4,
+    "released_year": "2024"
+  },
+  {
+    "UserId": 1,
+    "brand": "Maserati",
+    "Type": "MC20 Cielo",
+    "condition":"New",
+    "fuel": "Bensin",
+    "features": ["3.0L V6 Nettuno Twin-Turbo Engine", "Retractable Glass Roof", "Carbon Fiber Monocoque", "Sonus Faber High-Premium Audio System", "Digital Rearview Mirror"],
+    "price": 9000000000,
+    "imageUrl": "",
+    "CategoryId": 8,
+    "released_year": "2024"
+  },
+  {
+    "UserId": 1,
+    "brand": "Ferrari",
+    "Type": "296 GTB",
+    "condition":"New",
+    "fuel": "Plug-in Hybrid",
+    "features": ["V6 Twin-Turbo with Electric Motor", "8-speed F1 DCT", "eManettino driving modes", "Assetto Fiorano package (Optional)", "Aerodynamic Design"],
+    "price": 11000000000,
+    "imageUrl": "",
+    "CategoryId": 7,
+    "released_year": "2024"
+  },
+  {
+    "UserId": 1,
+    "brand": "Ferrari",
+    "Type": "Roma Spider",
+    "condition":"New",
+    "fuel": "Bensin",
+    "features": ["3.9L Twin-Turbo V8", "Retractable Hard Top", "Side Slip Control 6.0", "Dual Cockpit Design", "Ferrari Infotainment System"],
+    "price": 10000000000,
+    "imageUrl": "",
+    "CategoryId": 8,
+    "released_year": "2024"
+  },
+  {
+    "UserId": 1,
+    "brand": "Ferrari",
+    "Type": "Purosangue",
+    "condition":"New",
+    "fuel": "Bensin",
+    "features": ["Naturally Aspirated V12", "Ferrari Active Suspension Technology", "Welcome Doors (Rear-hinged rear doors)", "Burmester 3D High-End Surround Sound System", "Four-wheel drive and four-wheel steering"],
+    "price": 15000000000,
+    "imageUrl": "",
+    "CategoryId": 1,
+    "released_year": "2024"
+  },
+  {
+    "UserId": 1,
+    "brand": "Lamborghini",
+    "Type": "Huracán Tecnica",
+    "condition":"New",
+    "fuel": "Bensin",
+    "features": ["5.2L V10 Naturally Aspirated Engine", "Rear-Wheel Drive", "LDVI (Lamborghini Dinamica Veicolo Integrata) system", "Aero-focused Design", "Carbon Ceramic Brakes"],
+    "price": 9500000000,
+    "imageUrl": "",
+    "CategoryId": 7,
+    "released_year": "2024"
+  },
+  {
+    "UserId": 1,
+    "brand": "Lamborghini",
+    "Type": "Urus Performante",
+    "condition":"New",
+    "fuel": "Bensin",
+    "features": ["4.0L V8 Twin-Turbo Engine", "Akrapovič Titanium Sports Exhaust", "Rally Mode", "Extensive Carbon Fiber Use", "Alcantara Interior"],
+    "price": 10500000000,
+    "imageUrl": "",
+    "CategoryId": 1,
+    "released_year": "2024"
+  },
+  {
+    "UserId": 1,
+    "brand": "Lamborghini",
+    "Type": "Revuelto (Opera Unica)",
+    "condition":"New",
+    "fuel": "Plug-in Hybrid",
+    "features": ["V12 Hybrid Super Sports Car", "Three Electric Motors", "Carbon Fiber Monofuselage", "Active Aerodynamics", "Custom Ad Personam Exterior and Interior"],
+    "price": 25000000000,
+    "imageUrl": "",
+    "CategoryId": 7,
+    "released_year": "2025"
+  },
+  {
+    "UserId": 1,
+    "brand": "Bentley",
+    "Type": "Continental GT Speed",
+    "condition":"New",
+    "fuel": "Bensin",
+    "features": ["6.0L W12 Twin-Turbo Engine", "Electronic All-Wheel Steering", "Bentley Dynamic Ride", "Naim for Bentley Audio System", "Diamond Knurling Details"],
+    "price": 9800000000,
+    "imageUrl": "",
+    "CategoryId": 7,
+    "released_year": "2024"
+  },
+  {
+    "UserId": 1,
+    "brand": "Bentley",
+    "Type": "Bentayga EWB Azure",
+    "condition":"New",
+    "fuel": "Bensin",
+    "features": ["Extended Wheelbase", "Airline Seat Specification (Rear)", "Bentley Diamond Illumination", "Naim for Bentley Audio", "Touring Specification (ADAS)"],
+    "price": 11000000000,
+    "imageUrl": "",
+    "CategoryId": 1,
+    "released_year": "2024"
+  },
+  {
+    "UserId": 1,
+    "brand": "Bentley",
+    "Type": "Flying Spur Mulliner W12",
+    "condition":"New",
+    "fuel": "Bensin",
+    "features": ["6.0L W12 Twin-Turbo", "Mulliner Bespoke Interior", "Double Diamond Front Grille", "Naim for Bentley", "Rotating Display"],
+    "price": 12500000000,
+    "imageUrl": "",
+    "CategoryId": 4,
+    "released_year": "2024"
+  },
+  {
+    "UserId": 1,
+    "brand": "Rolls-Royce",
+    "Type": "Phantom Series II Extended",
+    "condition":"New",
+    "fuel": "Bensin",
+    "features": ["6.75L Twin-Turbo V12", "The Gallery (Bespoke Fascia)", "Starlight Headliner", "Champagne Flutes & Refrigerator", "Self-Closing Coach Doors"],
+    "price": 25000000000,
+    "imageUrl": "",
+    "CategoryId": 4,
+    "released_year": "2024"
+  },
+  {
+    "UserId": 1,
+    "brand": "Rolls-Royce",
+    "Type": "Cullinan Black Badge",
+    "condition":"New",
+    "fuel": "Bensin",
+    "features": ["6.75L Twin-Turbo V12 (Uprated)", "Black Badge Infinity Lemniscate", "Technical Carbon Fibre Veneer", "Starlight Headliner with Shooting Stars", "Bespoke Audio System"],
+    "price": 18000000000,
+    "imageUrl": "",
+    "CategoryId": 1,
+    "released_year": "2024"
+  },
+  {
+    "UserId": 1,
+    "brand": "Rolls-Royce",
+    "Type": "Spectre",
+    "condition":"New",
+    "fuel": "Listrik",
+    "features": ["Dual Electric Motors", "Starlight Doors", "Spirit of Ecstasy redesigned for aerodynamics", "Eleanor AI digital assistant", "Bespoke craftsmanship throughout"],
+    "price": 15000000000,
+    "imageUrl": "",
+    "CategoryId": 7,
+    "released_year": "2024"
+  },
+  {
+    "UserId": 1,
+    "brand": "Aston Martin",
+    "Type": "DB12 Coupe",
+    "condition":"New",
+    "fuel": "Bensin",
+    "features": ["4.0L Twin-Turbo V8 (Mercedes-AMG sourced)", "New Gen Infotainment System", "Bowers & Wilkins Audio System", "Adaptive Damping System", "Hand-stitched Leather Interior"],
+    "price": 8500000000,
+    "imageUrl": "",
+    "CategoryId": 7,
+    "released_year": "2024"
+  },
+  {
+    "UserId": 1,
+    "brand": "Aston Martin",
+    "Type": "DBX707",
+    "condition":"New",
+    "fuel": "Bensin",
+    "features": ["4.0L Twin-Turbo V8 (Uprated to 707PS)", "Carbon Ceramic Brakes", "e-diff (Electronic Rear Differential)", "Sport Plus Seats", "New Lower Console Design"],
+    "price": 9500000000,
+    "imageUrl": "",
+    "CategoryId": 1,
+    "released_year": "2024"
+  },
+  {
+    "UserId": 1,
+    "brand": "McLaren",
+    "Type": "Artura",
+    "condition":"New",
+    "fuel": "Plug-in Hybrid",
+    "features": ["3.0L Twin-Turbo V6 with E-Motor", "McLaren Carbon Fibre Lightweight Architecture (MCLA)", "Cyber Swarm Infotainment", "Pirelli Cyber Tyre technology", "Proactive Damping Control"],
+    "price": 9000000000,
+    "imageUrl": "",
+    "CategoryId": 7,
+    "released_year": "2024"
+  },
+  {
+    "UserId": 1,
+    "brand": "McLaren",
+    "Type": "750S Spider",
+    "condition":"New",
+    "fuel": "Bensin",
+    "features": ["4.0L Twin-Turbo V8", "Retractable Hard Top (RHT)", "Proactive Chassis Control III", "Bowers & Wilkins Audio System", "Lightweight Forged Alloy Wheels"],
+    "price": 11000000000,
+    "imageUrl": "",
+    "CategoryId": 8,
+    "released_year": "2024"
+  },
+  {
+    "UserId": 1,
+    "brand": "Tesla",
+    "Type": "Model S Plaid",
+    "condition":"New",
+    "fuel": "Listrik",
+    "features": ["Tri-Motor All-Wheel Drive", "0-100 km/h in ~2.1s", "Yoke Steering Wheel (Optional)", "17-inch Cinematic Display", "Autopilot"],
+    "price": 3000000000,
+    "imageUrl": "",
+    "CategoryId": 4,
+    "released_year": "2024"
+  },
+  {
+    "UserId": 1,
+    "brand": "Tesla",
+    "Type": "Model X Plaid",
+    "condition":"New",
+    "fuel": "Listrik",
+    "features": ["Tri-Motor All-Wheel Drive", "Falcon Wing Doors", "Panoramic Windshield", "17-inch Cinematic Display", "Autopilot with Full Self-Driving Capability (Optional)"],
+    "price": 3500000000,
+    "imageUrl": "",
+    "CategoryId": 1,
+    "released_year": "2024"
+  },
+  {
+    "UserId": 1,
+    "brand": "Tesla",
+    "Type": "Model 3 Performance",
+    "condition":"New",
+    "fuel": "Listrik",
+    "features": ["Dual Motor All-Wheel Drive", "Performance Brakes", "Carbon Fiber Spoiler", "Track Mode", "15-inch Touchscreen Display"],
+    "price": 1500000000,
+    "imageUrl": "",
+    "CategoryId": 4,
+    "released_year": "2024"
+  },
+  {
+    "UserId": 1,
+    "brand": "Rivian",
+    "Type": "R1S Quad-Motor AWD Large Pack",
+    "condition":"New",
+    "fuel": "Listrik",
+    "features": ["Quad-Motor AWD", "Adjustable Air Suspension", "Panoramic All-Glass Roof", "Meridian Sound System", "Driver+ Advanced Driver Assistance"],
+    "price": 2500000000,
+    "imageUrl": "",
+    "CategoryId": 1,
+    "released_year": "2024"
+  },
+  {
+    "UserId": 1,
+    "brand": "Lucid",
+    "Type": "Air Grand Touring",
+    "condition":"New",
+    "fuel": "Listrik",
+    "features": ["Dual-Motor AWD", "Glass Canopy Roof", "Lucid DreamDrive Pro (ADAS)", "Surreal Sound Pro Audio System", "Extended Range Battery"],
+    "price": 3800000000,
+    "imageUrl": "",
+    "CategoryId": 4,
+    "released_year": "2024"
+  },
+  {
+    "UserId": 1,
+    "brand": "Cadillac",
+    "Type": "Escalade ESV Premium Luxury Platinum",
+    "condition":"New",
+    "fuel": "Bensin",
+    "features": ["Curved OLED Display (38-inch total diagonal)", "AKG Studio Reference 36-Speaker Audio", "Super Cruise (Hands-Free Driving)", "Air Ride Adaptive Suspension", "Rear Seat Entertainment System"],
+    "price": 3200000000,
+    "imageUrl": "",
+    "CategoryId": 1,
+    "released_year": "2024"
+  },
+  {
+    "UserId": 1,
+    "brand": "Lincoln",
+    "Type": "Navigator Black Label L",
+    "condition":"New",
+    "fuel": "Bensin",
+    "features": ["Twin-Turbocharged 3.5L V6", "Revel Ultima 3D Audio System", "Perfect Position Seats with Active Motion Massage", "Head-Up Display", "Lincoln Co-Pilot360 2.0 Drive"],
+    "price": 3000000000,
+    "imageUrl": "",
+    "CategoryId": 1,
+    "released_year": "2024"
+  },
+  {
+    "UserId": 1,
+    "brand": "Genesis",
+    "Type": "G90 3.5T AWD Prestige",
+    "condition":"New",
+    "fuel": "Bensin",
+    "features": ["Mood Curator", "Bang & Olufsen 3D Sound System", "Easy Close Power Doors", "Chauffeur Mode Rear Seats", "Highway Driving Assist II"],
+    "price": 2500000000,
+    "imageUrl": "",
+    "CategoryId": 4,
+    "released_year": "2024"
+  },
+  {
+    "UserId": 1,
+    "brand": "Genesis",
+    "Type": "GV80 3.5T AWD Prestige",
+    "condition":"New",
+    "fuel": "Bensin",
+    "features": ["Nappa Leather Seating", "Lexicon Premium Audio System", "Electronically Controlled Suspension with Road Preview", "14.5-inch HD Infotainment Screen", "Remote Smart Parking Assist"],
+    "price": 1800000000,
+    "imageUrl": "",
+    "CategoryId": 1,
+    "released_year": "2024"
+  },
+  {
+    "UserId": 1,
+    "brand": "Alpina",
+    "Type": "B8 Gran Coupe (Based on BMW 8 Series)",
+    "condition":"New",
+    "fuel": "Bensin",
+    "features": ["4.4L Bi-Turbo V8 (ALPINA Tuned)", "ALPINA Sport Suspension", "Harman Kardon Surround Sound (B&W optional)", "LAVALINA Leather Interior", "ALPINA Classic Wheels"],
+    "price": 4500000000,
+    "imageUrl": "",
+    "CategoryId": 7,
+    "released_year": "2024"
+  },
+  {
+    "UserId": 1,
+    "brand": "Alpina",
+    "Type": "XB7 (Based on BMW X7)",
+    "condition":"New",
+    "fuel": "Bensin",
+    "features": ["4.4L Bi-Turbo V8 (ALPINA Tuned)", "ALPINA Air Suspension", "Brembo Brakes", "LAVALINA Leather Steering Wheel", "Panoramic Sky Lounge LED Roof"],
+    "price": 4800000000,
+    "imageUrl": "",
+    "CategoryId": 1,
+    "released_year": "2024"
+  },
+  {
+    "UserId": 1,
+    "brand": "Brabus",
+    "Type": "800 (Based on Mercedes-AMG G 63)",
+    "condition":"New",
+    "fuel": "Bensin",
+    "features": ["800 HP PowerXtra B40S-800 Engine Tuning", "BRABUS Widestar Body Kit", "BRABUS Monoblock Z Platinum Edition Wheels", "BRABUS Fine Leather Interior", "BRABUS Valve-Controlled Exhaust"],
+    "price": 9000000000,
+    "imageUrl": "",
+    "CategoryId": 1,
+    "released_year": "2024"
+  },
+  {
+    "UserId": 1,
+    "brand": "Brabus",
+    "Type": "Rocket 900 (Based on Mercedes-AMG GT 63 S)",
+    "condition":"New",
+    "fuel": "Bensin",
+    "features": ["900 HP Rocket 900 V8 Biturbo Engine", "BRABUS Carbon Aerodynamics", "BRABUS Monoblock Z Forged Wheels", "BRABUS Masterpiece Interior", "Top Speed 330 km/h+"],
+    "price": 12000000000,
+    "imageUrl": "",
+    "CategoryId": 7,
+    "released_year": "2024"
+  },
+  {
+    "UserId": 1,
+    "brand": "Mercedes-Maybach",
+    "Type": "S 680 4MATIC",
+    "condition":"New",
+    "fuel": "Bensin",
+    "features": ["6.0L V12 Biturbo Engine", "Executive Rear Seats with Chauffeur Package", "MBUX High-End Rear Seat Entertainment", "Burmester High-End 4D Surround Sound", "E-ACTIVE BODY CONTROL"],
+    "price": 8000000000,
+    "imageUrl": "",
+    "CategoryId": 4,
+    "released_year": "2024"
+  },
+  {
+    "UserId": 1,
+    "brand": "Mercedes-Maybach",
+    "Type": "GLS 600 4MATIC",
+    "condition":"New",
+    "fuel": "Bensin",
+    "features": ["4.0L V8 Biturbo with EQ Boost", "First-Class Rear Compartment", "Folding Tables in the Rear", "E-ACTIVE BODY CONTROL", "Maybach Exclusive Nappa Leather"],
+    "price": 7500000000,
+    "imageUrl": "",
+    "CategoryId": 1,
+    "released_year": "2024"
   }
-  
 ]

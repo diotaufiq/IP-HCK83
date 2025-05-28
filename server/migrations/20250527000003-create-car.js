@@ -35,6 +35,10 @@ module.exports = {
         type: Sequelize.STRING,
         allowNull: false
       },
+      released_year: {
+        type: Sequelize.STRING,
+        allowNull: false
+      },
       features: {
         type: Sequelize.JSONB,
         allowNull: false
