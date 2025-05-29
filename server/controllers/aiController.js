@@ -15,9 +15,18 @@ class AIController {
     try {
       const { budget, preferences } = req.body;
       
+      // Validate budget parameter
+      if (!budget || isNaN(Number(budget)) || Number(budget) <= 0) {
+        return res.status(400).json({
+          error: "Budget harus berupa angka yang valid dan lebih besar dari 0"
+        });
+      }
+      
+      const validBudget = Number(budget);
+      
       // Build query based on budget and preferences
       const query = {
-        price: { [Op.lte]: Number(budget) },
+        price: { [Op.lte]: validBudget },
       };
 
       // Add brand filter if provided
@@ -68,7 +77,7 @@ class AIController {
       from the list below:
       ${dataCars.map((car) => `- ${car.brand} ${car.type} (ID: ${car.id}, Price: Rp ${car.price.toLocaleString("id-ID")})`).join("\n")}
       based on the following criteria:
-      - Budget: Rp ${budget}
+      - Budget: Rp ${validBudget.toLocaleString("id-ID")}
       - Preferences: ${JSON.stringify(preferences)}
       Response with Array of ID`;
       
@@ -103,7 +112,7 @@ class AIController {
       
       // Send the response with recommendations
       res.json({
-        message: `Berdasarkan budget Anda sebesar Rp ${Number(budget).toLocaleString("id-ID")} dan preferensi yang diberikan, berikut adalah ${findCars.length} rekomendasi kendaraan terbaik untuk Anda:`,
+        message: `Berdasarkan budget Anda sebesar Rp ${validBudget.toLocaleString("id-ID")} dan preferensi yang diberikan, berikut adalah ${findCars.length} rekomendasi kendaraan terbaik untuk Anda:`,
         recommendations: findCars.map((car) => ({
           id: car.id,
           brand: car.brand,

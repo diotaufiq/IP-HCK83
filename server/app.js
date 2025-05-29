@@ -11,7 +11,16 @@ const PORT = process.env.PORT || 3000;
 
 // Middlewares
 app.use(cors());
-app.use(express.json());
+
+// Special handling for Stripe webhook route
+app.use((req, res, next) => {
+  if (req.originalUrl === '/payment/webhook') {
+    next(); // Skip body parsing for webhook route
+  } else {
+    express.json()(req, res, next);
+  }
+});
+
 app.use(express.urlencoded({ extended: true }));
 
 // Routes
@@ -25,8 +34,8 @@ app.use((err, req, res, next) => {
   });
 });
 
-app.listen(PORT, () => {
-  console.log(`Server running on port ${PORT}`);
-});
+// app.listen(PORT, () => {
+//   console.log(`Server running on port ${PORT}`);
+// });
 
 module.exports = app;

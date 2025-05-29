@@ -72,6 +72,61 @@ class WishlistController {
       next(err);
     }
   }
+
+  static async getUserWishlist(req, res, next) {
+    try {
+      const UserId = req.user.id; // From authentication middleware
+  
+      // Get all wishlist items for the user with car details
+      const wishlistItems = await WishlistItem.findAll({
+        where: { UserId },
+        attributes: ['id', 'UserId', 'CarId', 'createdAt', 'updatedAt'], // Explicitly include id
+        include: [{
+          model: Car,
+          include: [{ model: Category }]
+        }],
+        order: [['createdAt', 'DESC']] // Latest first
+      });
+  
+      res.status(200).json(wishlistItems);
+    } catch (err) {
+      next(err);
+    }
+  }
+
+  // Add this method to your WishlistController class
+  
+  static async removeFromWishlist(req, res, next) {
+    try {
+      const UserId = req.user.id; // From authentication middleware
+      const { wishlistItemId } = req.params;
+  
+      // Try to find by id first, then by CarId as fallback
+      let wishlistItem = await WishlistItem.findOne({
+        where: { id: wishlistItemId, UserId }
+      });
+      
+      // If not found by id, try by CarId (fallback for missing id issue)
+      if (!wishlistItem) {
+        wishlistItem = await WishlistItem.findOne({
+          where: { CarId: wishlistItemId, UserId }
+        });
+      }
+  
+      if (!wishlistItem) {
+        throw { status: 404, message: 'Wishlist item not found' };
+      }
+  
+      // Delete the wishlist item
+      await wishlistItem.destroy();
+  
+      res.status(200).json({
+        message: 'Item removed from wishlist successfully'
+      });
+    } catch (err) {
+      next(err);
+    }
+  }
 }
 
 module.exports = WishlistController;

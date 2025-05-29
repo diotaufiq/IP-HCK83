@@ -52,7 +52,7 @@ module.exports = (sequelize, DataTypes) => {
           msg: 'Type is required'
         }
       }
-    }, released_year: {
+    },released_year: {
       type: DataTypes.STRING,
       allowNull: false,
       validate: {
