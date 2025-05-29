@@ -42,15 +42,7 @@ const NavbarComponent = () => {
                   <i className="bi bi-pencil-square me-2"></i>
                   Manage Cars
                 </NavDropdown.Item>
-                <NavDropdown.Divider />
-                <NavDropdown.Item as={Link} to="/admin/categories">
-                  <i className="bi bi-tags me-2"></i>
-                  Manage Categories
-                </NavDropdown.Item>
-                <NavDropdown.Item as={Link} to="/admin/users">
-                  <i className="bi bi-people me-2"></i>
-                  Manage Users
-                </NavDropdown.Item>
+
               </NavDropdown>
             )}
           </Nav>

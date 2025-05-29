@@ -48,12 +48,12 @@ class CarController {
   
   static async createCar(req, res, next) {
     try {
-      const { brand, type, fuel, features, price, imageUrl, CategoryId, released_year, condition } = req.body;
+      const { brand, Type, fuel, features, price, imageUrl, CategoryId, released_year, condition } = req.body;
       
       const car = await Car.create({
         UserId: req.user.id,
         brand,
-        type, // Fixed: was using 'Type' instead of 'type'
+        Type, // Changed from 'type' to 'Type'
         fuel,
         features,
         price,
@@ -72,16 +72,16 @@ class CarController {
   static async updateCar(req, res, next) {
     try {
       const { carId } = req.params;
-      const { brand, type, fuel, features, price, imageUrl, CategoryId, released_year, condition } = req.body;
+      const { brand, Type, fuel, features, price, imageUrl, CategoryId, released_year, condition } = req.body;
       
       const car = await Car.findByPk(carId);
       if (!car) {
         throw { status: 404, message: 'Car not found' };
       }
       
-      const updatedCar = await Car.update({
+      await car.update({
         brand,
-        type, // Fixed: was using 'Type' instead of 'type'
+        Type, // Changed from 'type' to 'Type'
         fuel,
         features,
         price,
@@ -89,17 +89,9 @@ class CarController {
         CategoryId,
         released_year,
         condition
-      }, {
-        where: { id: carId },
-        returning: true // Add this to return updated data
       });
       
-      // Return the updated car data to match test expectations
-      const updatedCarData = await Car.findByPk(carId, {
-        include: [{ model: Category }]
-      });
-      
-      res.status(200).json(updatedCarData);
+      res.status(200).json(car);
     } catch (err) {
       next(err);
     }

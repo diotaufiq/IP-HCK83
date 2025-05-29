@@ -155,7 +155,6 @@ const LoginPage = () => {
                         value={formData.email}
                         onChange={handleChange}
                         placeholder="Enter your email"
-                        required
                         className="py-2"
                       />
                     </Form.Group>
@@ -168,7 +167,6 @@ const LoginPage = () => {
                         value={formData.password}
                         onChange={handleChange}
                         placeholder="Enter your password"
-                        required
                         className="py-2"
                       />
                     </Form.Group>

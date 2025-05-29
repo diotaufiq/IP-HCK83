@@ -1,8 +1,10 @@
-import { useState } from 'react';
+import React, { useState } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
 import { Container, Row, Col, Form, Button, Card, Alert, Spinner } from 'react-bootstrap';
 import { Link, useNavigate } from 'react-router-dom';
-import { register } from '../../../src/redux/features/authSlice'; // Adjust the import path as necessary
+import { register } from '../../../src/redux/features/authSlice';
+import 'bootstrap-icons/font/bootstrap-icons.css';
+import Swal from 'sweetalert2';
 
 const RegisterPage = () => {
   const [formData, setFormData] = useState({
@@ -26,36 +28,52 @@ const RegisterPage = () => {
   const handleSubmit = async (e) => {
     e.preventDefault();
     
+    // Only check confirm password on frontend, let backend handle other validations
     if (formData.password !== formData.confirmPassword) {
-      alert('Passwords do not match!');
+      Swal.fire({
+        icon: 'error',
+        title: 'Password Mismatch',
+        text: 'Passwords do not match!',
+      });
       return;
     }
     
     const { confirmPassword, ...registerData } = formData;
     const result = await dispatch(register(registerData));
     if (result.type === 'auth/register/fulfilled') {
-      navigate('/login');
+      Swal.fire({
+        icon: 'success',
+        title: 'Registration Successful',
+        text: 'Account created successfully! Please login.',
+        timer: 2000,
+        showConfirmButton: false
+      }).then(() => {
+        navigate('/login');
+      });
     }
   };
 
   return (
-    <div className="min-vh-100 d-flex">
+    <div className="min-vh-100">
       <Container fluid className="p-0">
         <Row className="min-vh-100 g-0">
-          {/* Left Side - Advertisement/Image */}
+          {/* Left Side - Advertisement/Image with Gemini Background */}
           <Col lg={6} className="d-none d-lg-flex position-relative">
             <div 
               className="w-100 d-flex align-items-center justify-content-center"
               style={{
-                background: 'linear-gradient(135deg, #764ba2 0%, #667eea 100%)',
+                backgroundImage: 'url(/Gemini_Generated_Image_l5djkal5djkal5dj.png)',
+                backgroundSize: 'cover',
+                backgroundPosition: 'center',
+                backgroundRepeat: 'no-repeat',
                 position: 'relative'
               }}
             >
-              {/* Overlay */}
+              {/* Overlay for better text readability */}
               <div 
                 className="position-absolute w-100 h-100"
                 style={{
-                  background: 'rgba(0,0,0,0.3)',
+                  background: 'rgba(0,0,0,0.4)',
                   zIndex: 1
                 }}
               ></div>
@@ -100,7 +118,6 @@ const RegisterPage = () => {
                         value={formData.username}
                         onChange={handleChange}
                         placeholder="Enter your username"
-                        required
                         className="py-2"
                       />
                     </Form.Group>
@@ -113,7 +130,6 @@ const RegisterPage = () => {
                         value={formData.email}
                         onChange={handleChange}
                         placeholder="Enter your email"
-                        required
                         className="py-2"
                       />
                     </Form.Group>
@@ -126,7 +142,6 @@ const RegisterPage = () => {
                         value={formData.password}
                         onChange={handleChange}
                         placeholder="Enter your password"
-                        required
                         className="py-2"
                       />
                     </Form.Group>
@@ -139,7 +154,6 @@ const RegisterPage = () => {
                         value={formData.confirmPassword}
                         onChange={handleChange}
                         placeholder="Confirm your password"
-                        required
                         className="py-2"
                       />
                     </Form.Group>
