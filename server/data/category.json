@@ -1,0 +1,10 @@
+[
+  { "id": 1, "name": "SUV" },
+  { "id": 2, "name": "MPV" },
+  { "id": 3, "name": "Hatchback" },
+  { "id": 4, "name": "Sedan" },
+  { "id": 5, "name": "City Car" },
+  { "id": 6, "name": "Double Cabin" },
+  { "id": 7, "name": "Coupe / Sports Car" },
+  { "id": 8, "name": "Convertible / Cabriolet" }
+]
