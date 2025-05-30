@@ -64,10 +64,10 @@ const Sidebar = () => {
     setIsLoadingAI(true);
     try {
       const response = await axios.post(
-        'http://localhost:3000/ai/recommend',
+        'https://gc1-phase2.diotaufiq.site/ai/recommend',
         {
           preferences: preferences,
-          budget: max === Infinity ? 1000000000 : max // Use a very high number if no max is set
+          budget: max === Infinity ? 1000000000 : max
         },
         {
           headers: {

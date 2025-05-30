@@ -1,7 +1,5 @@
 [
-  {
-    "id": 8,
-    "UserId": 1,
+  {    "UserId": 1,
     "brand": "Honda",
     "Type": "HR-V 1.5L SE CVT",
     "condition": "New",
@@ -14,9 +12,7 @@
     "createdAt": "2025-05-28T08:35:01.313Z",
     "updatedAt": "2025-05-28T08:35:01.313Z"
   },
-  {
-    "id": 9,
-    "UserId": 1,
+  {    "UserId": 1,
     "brand": "Honda",
     "Type": "BR-V Prestige CVT with Honda Sensing",
     "condition": "New",
@@ -30,7 +26,6 @@
     "updatedAt": "2025-05-28T08:35:01.313Z"
   },
   {
-    "id": 28,
     "UserId": 1,
     "brand": "Daihatsu",
     "Type": "Xenia 1.5 R CVT ASA",
@@ -45,7 +40,6 @@
     "updatedAt": "2025-05-28T08:35:01.313Z"
   },
   {
-    "id": 30,
     "UserId": 1,
     "brand": "Daihatsu",
     "Type": "Ayla 1.2 R CVT ADS",
@@ -60,7 +54,6 @@
     "updatedAt": "2025-05-28T08:35:01.313Z"
   },
   {
-    "id": 26,
     "UserId": 1,
     "brand": "Daihatsu",
     "Type": "Rocky 1.0 R TC CVT ASA",
@@ -75,7 +68,6 @@
     "updatedAt": "2025-05-28T21:24:53.958Z"
   },
   {
-    "id": 27,
     "UserId": 1,
     "brand": "Daihatsu",
     "Type": "Terios R AT Custom",
@@ -90,7 +82,6 @@
     "updatedAt": "2025-05-28T21:26:31.771Z"
   },
   {
-    "id": 11,
     "UserId": 1,
     "brand": "Honda",
     "Type": "Brio Satya E CVT",
@@ -105,7 +96,6 @@
     "updatedAt": "2025-05-28T21:28:20.270Z"
   },
   {
-    "id": 33,
     "UserId": 1,
     "brand": "Hyundai",
     "Type": "Palisade Signature AWD",
@@ -120,7 +110,6 @@
     "updatedAt": "2025-05-29T00:47:52.446Z"
   },
   {
-    "id": 31,
     "UserId": 1,
     "brand": "Hyundai",
     "Type": "Creta Prime IVT",
@@ -135,7 +124,6 @@
     "updatedAt": "2025-05-29T00:51:42.217Z"
   },
   {
-    "id": 12,
     "UserId": 1,
     "brand": "Honda",
     "Type": "City Hatchback RS CVT Honda Sensing",
@@ -150,7 +138,6 @@
     "updatedAt": "2025-05-29T00:55:32.682Z"
   },
   {
-    "id": 10,
     "UserId": 1,
     "brand": "Honda",
     "Type": "CR-V 1.5L Turbo Prestige Sensing",
@@ -164,9 +151,7 @@
     "createdAt": "2025-05-28T08:35:01.313Z",
     "updatedAt": "2025-05-29T00:56:20.245Z"
   },
-  {
-    "id": 2,
-    "UserId": 1,
+  {    "UserId": 1,
     "brand": "Toyota",
     "Type": "Veloz Q CVT TSS",
     "condition": "New",
@@ -180,7 +165,6 @@
     "updatedAt": "2025-05-29T09:39:28.161Z"
   },
   {
-    "id": 13,
     "UserId": 1,
     "brand": "Honda",
     "Type": "WR-V RS CVT with Honda Sensing",
@@ -195,7 +179,6 @@
     "updatedAt": "2025-05-29T12:14:50.810Z"
   },
   {
-    "id": 21,
     "UserId": 1,
     "brand": "Mitsubishi",
     "Type": "Xpander Ultimate CVT",
@@ -210,7 +193,6 @@
     "updatedAt": "2025-05-29T12:33:34.119Z"
   },
   {
-    "id": 32,
     "UserId": 1,
     "brand": "Hyundai",
     "Type": "Stargazer X Prime IVT",
@@ -225,7 +207,6 @@
     "updatedAt": "2025-05-29T14:18:02.068Z"
   },
   {
-    "id": 19,
     "UserId": 1,
     "brand": "Suzuki",
     "Type": "Ignis GX AGS",
@@ -240,7 +221,6 @@
     "updatedAt": "2025-05-29T14:15:06.898Z"
   },
   {
-    "id": 24,
     "UserId": 1,
     "brand": "Mitsubishi",
     "Type": "Xforce Ultimate CVT",
@@ -255,7 +235,6 @@
     "updatedAt": "2025-05-29T14:22:23.175Z"
   },
   {
-    "id": 35,
     "UserId": 1,
     "brand": "Hyundai",
     "Type": "Ioniq 5 Prime Standard Range",
@@ -270,7 +249,6 @@
     "updatedAt": "2025-05-29T14:29:09.953Z"
   },
   {
-    "id": 14,
     "UserId": 1,
     "brand": "Honda",
     "Type": "Civic RS AT",
@@ -285,7 +263,6 @@
     "updatedAt": "2025-05-29T14:30:11.101Z"
   },
   {
-    "id": 22,
     "UserId": 1,
     "brand": "Mitsubishi",
     "Type": "Xpander Cross Premium Package CVT",
@@ -299,9 +276,7 @@
     "createdAt": "2025-05-28T08:35:01.313Z",
     "updatedAt": "2025-05-29T14:34:06.040Z"
   },
-  {
-    "id": 1,
-    "UserId": 1,
+  {    "UserId": 1,
     "brand": "Toyota",
     "Type": "Avanza 1.5 G CVT TSS",
     "condition": "New",
@@ -314,9 +289,7 @@
     "createdAt": "2025-05-28T08:35:01.313Z",
     "updatedAt": "2025-05-29T14:35:42.474Z"
   },
-  {
-    "id": 4,
-    "UserId": 1,
+  {    "UserId": 1,
     "brand": "Toyota",
     "Type": "Kijang Innova Zenix G HV CVT",
     "condition": "New",
@@ -330,7 +303,6 @@
     "updatedAt": "2025-05-29T14:37:45.123Z"
   },
   {
-    "id": 16,
     "UserId": 1,
     "brand": "Suzuki",
     "Type": "XL7 Alpha AT",
@@ -344,9 +316,7 @@
     "createdAt": "2025-05-28T08:35:01.313Z",
     "updatedAt": "2025-05-29T14:39:33.972Z"
   },
-  {
-    "id": 6,
-    "UserId": 1,
+  {    "UserId": 1,
     "brand": "Toyota",
     "Type": "Yaris GR Sport CVT 3 Airbags",
     "condition": "New",
@@ -360,7 +330,6 @@
     "updatedAt": "2025-05-29T14:41:11.167Z"
   },
   {
-    "id": 48,
     "UserId": 1,
     "brand": "Nissan",
     "Type": "Kicks e-Power VL",
@@ -375,7 +344,6 @@
     "updatedAt": "2025-05-28T08:35:01.313Z"
   },
   {
-    "id": 57,
     "UserId": 1,
     "brand": "Mercedes-Benz",
     "Type": "GLS 450 4MATIC AMG Line",
@@ -390,7 +358,6 @@
     "updatedAt": "2025-05-29T00:50:31.592Z"
   },
   {
-    "id": 64,
     "UserId": 1,
     "brand": "BMW",
     "Type": "740Li Opulence (G12 LCI)",
@@ -405,7 +372,6 @@
     "updatedAt": "2025-05-29T09:28:52.767Z"
   },
   {
-    "id": 47,
     "UserId": 1,
     "brand": "Wuling",
     "Type": "Alvez EX",
@@ -420,7 +386,6 @@
     "updatedAt": "2025-05-29T10:05:17.176Z"
   },
   {
-    "id": 46,
     "UserId": 1,
     "brand": "Wuling",
     "Type": "Air EV Long Range",
@@ -435,7 +400,6 @@
     "updatedAt": "2025-05-29T10:06:31.672Z"
   },
   {
-    "id": 40,
     "UserId": 1,
     "brand": "Mazda",
     "Type": "CX-9 AWD",
@@ -450,7 +414,6 @@
     "updatedAt": "2025-05-29T12:13:38.714Z"
   },
   {
-    "id": 65,
     "UserId": 1,
     "brand": "BMW",
     "Type": "X7 xDrive40i Opulence",
@@ -465,7 +428,6 @@
     "updatedAt": "2025-05-29T14:15:37.330Z"
   },
   {
-    "id": 37,
     "UserId": 1,
     "brand": "Mazda",
     "Type": "CX-3 Sport 1.5L",
@@ -480,7 +442,6 @@
     "updatedAt": "2025-05-29T14:16:48.090Z"
   },
   {
-    "id": 55,
     "UserId": 1,
     "brand": "Lexus",
     "Type": "UX 250h F Sport",
@@ -495,7 +456,6 @@
     "updatedAt": "2025-05-29T14:26:06.240Z"
   },
   {
-    "id": 38,
     "UserId": 1,
     "brand": "Mazda",
     "Type": "Mazda2 GT",
@@ -510,7 +470,6 @@
     "updatedAt": "2025-05-29T14:27:32.332Z"
   },
   {
-    "id": 61,
     "UserId": 1,
     "brand": "Mercedes-Benz",
     "Type": "G 63 AMG",
@@ -525,7 +484,6 @@
     "updatedAt": "2025-05-29T14:30:46.170Z"
   },
   {
-    "id": 43,
     "UserId": 1,
     "brand": "Kia",
     "Type": "Carnival Premiere 7-Seater",
@@ -540,7 +498,6 @@
     "updatedAt": "2025-05-29T14:31:19.013Z"
   },
   {
-    "id": 45,
     "UserId": 1,
     "brand": "Wuling",
     "Type": "Almaz RS Pro",
@@ -555,7 +512,6 @@
     "updatedAt": "2025-05-29T14:33:20.272Z"
   },
   {
-    "id": 49,
     "UserId": 1,
     "brand": "Nissan",
     "Type": "Livina VL AT",
@@ -570,7 +526,6 @@
     "updatedAt": "2025-05-29T14:34:28.649Z"
   },
   {
-    "id": 58,
     "UserId": 1,
     "brand": "Mercedes-Benz",
     "Type": "C 300 AMG Line (W206)",
@@ -585,7 +540,6 @@
     "updatedAt": "2025-05-29T14:36:02.811Z"
   },
   {
-    "id": 53,
     "UserId": 1,
     "brand": "Lexus",
     "Type": "ES 300h Ultra Luxury",
@@ -600,7 +554,6 @@
     "updatedAt": "2025-05-29T14:37:23.875Z"
   },
   {
-    "id": 36,
     "UserId": 1,
     "brand": "Mazda",
     "Type": "CX-5 Elite",
@@ -615,7 +568,6 @@
     "updatedAt": "2025-05-29T14:38:14.152Z"
   },
   {
-    "id": 41,
     "UserId": 1,
     "brand": "Kia",
     "Type": "Seltos GT Line",
@@ -630,7 +582,6 @@
     "updatedAt": "2025-05-29T14:39:52.042Z"
   },
   {
-    "id": 59,
     "UserId": 1,
     "brand": "Mercedes-Benz",
     "Type": "GLE 450 4MATIC AMG Line Coupe",
@@ -645,7 +596,6 @@
     "updatedAt": "2025-05-29T14:42:21.319Z"
   },
   {
-    "id": 42,
     "UserId": 1,
     "brand": "Kia",
     "Type": "Sonet Premiere iVT",
@@ -660,7 +610,6 @@
     "updatedAt": "2025-05-29T14:43:10.270Z"
   },
   {
-    "id": 50,
     "UserId": 1,
     "brand": "MG",
     "Type": "ZS Magnify",
@@ -675,7 +624,6 @@
     "updatedAt": "2025-05-29T14:45:23.690Z"
   },
   {
-    "id": 62,
     "UserId": 1,
     "brand": "Mercedes-Benz",
     "Type": "AMG GT 63 S E PERFORMANCE 4-Door Coupe",
@@ -690,7 +638,6 @@
     "updatedAt": "2025-05-29T14:49:36.763Z"
   },
   {
-    "id": 93,
     "UserId": 1,
     "brand": "Mini",
     "Type": "Countryman John Cooper Works ALL4",
@@ -705,7 +652,6 @@
     "updatedAt": "2025-05-28T21:27:30.736Z"
   },
   {
-    "id": 71,
     "UserId": 1,
     "brand": "BMW",
     "Type": "XM",
@@ -720,7 +666,6 @@
     "updatedAt": "2025-05-29T09:38:18.000Z"
   },
   {
-    "id": 83,
     "UserId": 1,
     "brand": "Porsche",
     "Type": "911 Turbo S Coupe (992)",
@@ -735,7 +680,6 @@
     "updatedAt": "2025-05-29T10:10:00.044Z"
   },
   {
-    "id": 77,
     "UserId": 1,
     "brand": "Audi",
     "Type": "Q8 55 TFSI quattro S Line",
@@ -750,7 +694,6 @@
     "updatedAt": "2025-05-29T11:48:14.176Z"
   },
   {
-    "id": 73,
     "UserId": 1,
     "brand": "Jeep",
     "Type": "Grand Cherokee L Summit Reserve 4x4",
@@ -765,7 +708,6 @@
     "updatedAt": "2025-05-29T12:11:22.670Z"
   },
   {
-    "id": 91,
     "UserId": 1,
     "brand": "Land Rover",
     "Type": "Range Rover Velar P340 R-Dynamic SE",
@@ -780,7 +722,6 @@
     "updatedAt": "2025-05-29T12:32:58.512Z"
   },
   {
-    "id": 78,
     "UserId": 1,
     "brand": "Audi",
     "Type": "e-tron GT quattro",
@@ -795,7 +736,6 @@
     "updatedAt": "2025-05-29T14:18:49.137Z"
   },
   {
-    "id": 68,
     "UserId": 1,
     "brand": "BMW",
     "Type": "330i M Sport (G20)",
@@ -810,7 +750,6 @@
     "updatedAt": "2025-05-29T14:26:36.381Z"
   },
   {
-    "id": 87,
     "UserId": 1,
     "brand": "Porsche",
     "Type": "718 Cayman GT4 RS",
@@ -825,7 +764,6 @@
     "updatedAt": "2025-05-29T14:30:25.418Z"
   },
   {
-    "id": 75,
     "UserId": 1,
     "brand": "Audi",
     "Type": "RS 6 Avant Performance",
@@ -840,7 +778,6 @@
     "updatedAt": "2025-05-29T14:32:18.226Z"
   },
   {
-    "id": 70,
     "UserId": 1,
     "brand": "BMW",
     "Type": "Z4 M40i Roadster",
@@ -855,7 +792,6 @@
     "updatedAt": "2025-05-29T14:33:43.920Z"
   },
   {
-    "id": 86,
     "UserId": 1,
     "brand": "Porsche",
     "Type": "Macan GTS",
@@ -870,7 +806,6 @@
     "updatedAt": "2025-05-29T14:34:45.562Z"
   },
   {
-    "id": 74,
     "UserId": 1,
     "brand": "Jeep",
     "Type": "Gladiator Rubicon Pickup",
@@ -885,7 +820,6 @@
     "updatedAt": "2025-05-29T14:41:27.615Z"
   },
   {
-    "id": 84,
     "UserId": 1,
     "brand": "Porsche",
     "Type": "Cayenne Turbo E-Hybrid Coupe",
@@ -900,7 +834,6 @@
     "updatedAt": "2025-05-29T14:41:43.369Z"
   },
   {
-    "id": 79,
     "UserId": 1,
     "brand": "Audi",
     "Type": "R8 Coupe V10 performance quattro",
@@ -915,7 +848,6 @@
     "updatedAt": "2025-05-29T14:43:25.909Z"
   },
   {
-    "id": 81,
     "UserId": 1,
     "brand": "Volvo",
     "Type": "S90 Recharge T8 Ultimate Bright (Plug-in Hybrid)",
@@ -930,7 +862,6 @@
     "updatedAt": "2025-05-29T14:43:50.870Z"
   },
   {
-    "id": 69,
     "UserId": 1,
     "brand": "BMW",
     "Type": "X5 xDrive45e M Sport (Plug-in Hybrid)",
@@ -945,7 +876,6 @@
     "updatedAt": "2025-05-29T14:44:31.209Z"
   },
   {
-    "id": 76,
     "UserId": 1,
     "brand": "Audi",
     "Type": "A8 L 60 TFSI e quattro (Plug-in Hybrid)",
@@ -960,7 +890,6 @@
     "updatedAt": "2025-05-29T14:44:46.629Z"
   },
   {
-    "id": 94,
     "UserId": 1,
     "brand": "Mini",
     "Type": "Convertible Cooper S Seaside Edition",
@@ -975,7 +904,6 @@
     "updatedAt": "2025-05-29T14:50:35.892Z"
   },
   {
-    "id": 80,
     "UserId": 1,
     "brand": "Volvo",
     "Type": "XC90 Recharge T8 Ultimate Bright (Plug-in Hybrid)",
@@ -990,7 +918,6 @@
     "updatedAt": "2025-05-29T16:01:49.457Z"
   },
   {
-    "id": 118,
     "UserId": 1,
     "brand": "McLaren",
     "Type": "750S Spider",
@@ -1005,7 +932,6 @@
     "updatedAt": "2025-05-28T08:35:01.313Z"
   },
   {
-    "id": 119,
     "UserId": 1,
     "brand": "Tesla",
     "Type": "Model S Plaid",
@@ -1020,7 +946,6 @@
     "updatedAt": "2025-05-28T21:17:13.181Z"
   },
   {
-    "id": 109,
     "UserId": 1,
     "brand": "Bentley",
     "Type": "Continental GT Speed",
@@ -1035,7 +960,6 @@
     "updatedAt": "2025-05-29T00:49:40.416Z"
   },
   {
-    "id": 98,
     "UserId": 1,
     "brand": "Jaguar",
     "Type": "I-PACE HSE EV400",
@@ -1050,7 +974,6 @@
     "updatedAt": "2025-05-29T09:27:45.529Z"
   },
   {
-    "id": 104,
     "UserId": 1,
     "brand": "Ferrari",
     "Type": "Roma Spider",
@@ -1065,7 +988,6 @@
     "updatedAt": "2025-05-29T09:30:07.671Z"
   },
   {
-    "id": 123,
     "UserId": 1,
     "brand": "Lucid",
     "Type": "Air Grand Touring",
@@ -1080,7 +1002,6 @@
     "updatedAt": "2025-05-29T12:14:14.964Z"
   },
   {
-    "id": 112,
     "UserId": 1,
     "brand": "Rolls-Royce",
     "Type": "Phantom Series II Extended",
@@ -1095,7 +1016,6 @@
     "updatedAt": "2025-05-29T14:11:40.791Z"
   },
   {
-    "id": 107,
     "UserId": 1,
     "brand": "Lamborghini",
     "Type": "Urus Performante",
@@ -1110,7 +1030,6 @@
     "updatedAt": "2025-05-29T14:13:23.578Z"
   },
   {
-    "id": 108,
     "UserId": 1,
     "brand": "Lamborghini",
     "Type": "Revuelto (Opera Unica)",
@@ -1125,7 +1044,6 @@
     "updatedAt": "2025-05-29T14:13:57.582Z"
   },
   {
-    "id": 113,
     "UserId": 1,
     "brand": "Rolls-Royce",
     "Type": "Cullinan Black Badge",
@@ -1140,7 +1058,6 @@
     "updatedAt": "2025-05-29T14:20:46.300Z"
   },
   {
-    "id": 121,
     "UserId": 1,
     "brand": "Tesla",
     "Type": "Model 3 Performance",
@@ -1155,7 +1072,6 @@
     "updatedAt": "2025-05-29T14:29:26.062Z"
   },
   {
-    "id": 111,
     "UserId": 1,
     "brand": "Bentley",
     "Type": "Flying Spur Mulliner W12",
@@ -1170,7 +1086,6 @@
     "updatedAt": "2025-05-29T14:35:24.518Z"
   },
   {
-    "id": 115,
     "UserId": 1,
     "brand": "Aston Martin",
     "Type": "DB12 Coupe",
@@ -1185,7 +1100,6 @@
     "updatedAt": "2025-05-29T14:38:36.811Z"
   },
   {
-    "id": 103,
     "UserId": 1,
     "brand": "Ferrari",
     "Type": "296 GTB",
@@ -1200,7 +1114,6 @@
     "updatedAt": "2025-05-29T14:39:01.674Z"
   },
   {
-    "id": 116,
     "UserId": 1,
     "brand": "Aston Martin",
     "Type": "DBX707",
@@ -1215,7 +1128,6 @@
     "updatedAt": "2025-05-29T14:42:03.067Z"
   },
   {
-    "id": 97,
     "UserId": 1,
     "brand": "Jaguar",
     "Type": "F-PACE SVR P550",
@@ -1230,7 +1142,6 @@
     "updatedAt": "2025-05-29T14:48:32.609Z"
   },
   {
-    "id": 117,
     "UserId": 1,
     "brand": "McLaren",
     "Type": "Artura",
@@ -1245,7 +1156,6 @@
     "updatedAt": "2025-05-29T14:48:50.549Z"
   },
   {
-    "id": 95,
     "UserId": 1,
     "brand": "Volkswagen",
     "Type": "Golf GTI Mk8",
@@ -1260,7 +1170,6 @@
     "updatedAt": "2025-05-29T14:50:11.166Z"
   },
   {
-    "id": 99,
     "UserId": 1,
     "brand": "Jaguar",
     "Type": "F-Type R75 Coupe P575 AWD",
@@ -1275,7 +1184,6 @@
     "updatedAt": "2025-05-29T14:52:02.863Z"
   },
   {
-    "id": 110,
     "UserId": 1,
     "brand": "Bentley",
     "Type": "Bentayga EWB Azure",
@@ -1290,7 +1198,6 @@
     "updatedAt": "2025-05-29T16:02:15.841Z"
   },
   {
-    "id": 126,
     "UserId": 1,
     "brand": "Genesis",
     "Type": "G90 3.5T AWD Prestige",
@@ -1305,7 +1212,6 @@
     "updatedAt": "2025-05-28T08:35:01.313Z"
   },
   {
-    "id": 17,
     "UserId": 1,
     "brand": "Suzuki",
     "Type": "Grand Vitara GX AT",
@@ -1320,7 +1226,6 @@
     "updatedAt": "2025-05-29T00:45:25.723Z"
   },
   {
-    "id": 66,
     "UserId": 1,
     "brand": "BMW",
     "Type": "M4 Competition Coupe (G82)",
@@ -1335,7 +1240,6 @@
     "updatedAt": "2025-05-29T00:46:05.014Z"
   },
   {
-    "id": 82,
     "UserId": 1,
     "brand": "Volvo",
     "Type": "C40 Recharge Pure Electric Ultimate",
@@ -1350,7 +1254,6 @@
     "updatedAt": "2025-05-28T21:13:55.516Z"
   },
   {
-    "id": 106,
     "UserId": 1,
     "brand": "Lamborghini",
     "Type": "Huracán Tecnica",
@@ -1365,7 +1268,6 @@
     "updatedAt": "2025-05-28T21:15:22.427Z"
   },
   {
-    "id": 101,
     "UserId": 1,
     "brand": "Maserati",
     "Type": "Ghibli Trofeo",
@@ -1380,7 +1282,6 @@
     "updatedAt": "2025-05-28T21:19:36.340Z"
   },
   {
-    "id": 20,
     "UserId": 1,
     "brand": "Suzuki",
     "Type": "S-Presso AGS",
@@ -1395,7 +1296,6 @@
     "updatedAt": "2025-05-28T21:20:23.087Z"
   },
   {
-    "id": 25,
     "UserId": 1,
     "brand": "Mitsubishi",
     "Type": "Triton Ultimate AT Double Cab 4WD",
@@ -1410,7 +1310,6 @@
     "updatedAt": "2025-05-28T21:21:07.329Z"
   },
   {
-    "id": 39,
     "UserId": 1,
     "brand": "Mazda",
     "Type": "CX-30 GT",
@@ -1425,7 +1324,6 @@
     "updatedAt": "2025-05-28T21:29:49.748Z"
   },
   {
-    "id": 131,
     "UserId": 1,
     "brand": "Brabus",
     "Type": "Rocket 900 (Based on Mercedes-AMG GT 63 S)",
@@ -1440,7 +1338,6 @@
     "updatedAt": "2025-05-28T21:30:46.460Z"
   },
   {
-    "id": 135,
     "UserId": 1,
     "brand": "Toyota",
     "Type": "Raize 1.0 GR",
@@ -1455,7 +1352,6 @@
     "updatedAt": "2025-05-28T21:33:17.877Z"
   },
   {
-    "id": 89,
     "UserId": 1,
     "brand": "Land Rover",
     "Type": "Defender 110 P400 X-Dynamic HSE",
@@ -1470,7 +1366,6 @@
     "updatedAt": "2025-05-29T00:47:04.825Z"
   },
   {
-    "id": 34,
     "UserId": 1,
     "brand": "Hyundai",
     "Type": "Santa Fe Signature 2.2 Diesel AT",
@@ -1485,7 +1380,6 @@
     "updatedAt": "2025-05-29T00:53:59.945Z"
   },
   {
-    "id": 18,
     "UserId": 1,
     "brand": "Suzuki",
     "Type": "Baleno AT",
@@ -1500,7 +1394,6 @@
     "updatedAt": "2025-05-29T09:25:01.191Z"
   },
   {
-    "id": 102,
     "UserId": 1,
     "brand": "Maserati",
     "Type": "MC20 Cielo",
@@ -1515,7 +1408,6 @@
     "updatedAt": "2025-05-29T09:33:58.860Z"
   },
   {
-    "id": 128,
     "UserId": 1,
     "brand": "Alpina",
     "Type": "B8 Gran Coupe (Based on BMW 8 Series)",
@@ -1530,7 +1422,6 @@
     "updatedAt": "2025-05-29T14:27:09.876Z"
   },
   {
-    "id": 130,
     "UserId": 1,
     "brand": "Brabus",
     "Type": "800 (Based on Mercedes-AMG G 63)",
@@ -1545,7 +1436,6 @@
     "updatedAt": "2025-05-29T14:28:05.133Z"
   },
   {
-    "id": 134,
     "UserId": 1,
     "brand": "MG",
     "Type": "ZS Magnify",
@@ -1560,7 +1450,6 @@
     "updatedAt": "2025-05-29T14:42:39.847Z"
   },
   {
-    "id": 132,
     "UserId": 1,
     "brand": "Mercedes-Maybach",
     "Type": "S 680 4MATIC",
@@ -1575,7 +1464,6 @@
     "updatedAt": "2025-05-29T14:46:07.736Z"
   },
   {
-    "id": 127,
     "UserId": 1,
     "brand": "Genesis",
     "Type": "GV80 3.5T AWD Prestige",
@@ -1590,7 +1478,6 @@
     "updatedAt": "2025-05-29T14:49:20.655Z"
   },
   {
-    "id": 129,
     "UserId": 1,
     "brand": "Alpina",
     "Type": "XB7 (Based on BMW X7)",
@@ -1605,7 +1492,6 @@
     "updatedAt": "2025-05-29T16:01:14.859Z"
   },
   {
-    "id": 72,
     "UserId": 1,
     "brand": "Jeep",
     "Type": "Wrangler Rubicon Unlimited (4-Door)",
@@ -1620,7 +1506,6 @@
     "updatedAt": "2025-05-29T09:42:51.721Z"
   },
   {
-    "id": 15,
     "UserId": 1,
     "brand": "Suzuki",
     "Type": "Ertiga Hybrid GX AT",
@@ -1635,7 +1520,6 @@
     "updatedAt": "2025-05-29T10:13:39.694Z"
   },
   {
-    "id": 125,
     "UserId": 1,
     "brand": "Lincoln",
     "Type": "Navigator Black Label L",
@@ -1650,7 +1534,6 @@
     "updatedAt": "2025-05-29T11:42:26.702Z"
   },
   {
-    "id": 56,
     "UserId": 1,
     "brand": "Mercedes-Benz",
     "Type": "S 580 e L AMG Line (W223)",
@@ -1664,9 +1547,7 @@
     "createdAt": "2025-05-28T08:35:01.313Z",
     "updatedAt": "2025-05-29T12:12:42.554Z"
   },
-  {
-    "id": 5,
-    "UserId": 1,
+  {    "UserId": 1,
     "brand": "Toyota",
     "Type": "Fortuner 2.8 GR Sport 4x4 AT",
     "condition": "New",
@@ -1680,7 +1561,6 @@
     "updatedAt": "2025-05-29T14:11:00.218Z"
   },
   {
-    "id": 96,
     "UserId": 1,
     "brand": "Volkswagen",
     "Type": "Tiguan Allspace R-Line",
@@ -1695,7 +1575,6 @@
     "updatedAt": "2025-05-29T14:12:42.747Z"
   },
   {
-    "id": 52,
     "UserId": 1,
     "brand": "Lexus",
     "Type": "LM 350h Executive 4-Seater",
@@ -1710,7 +1589,6 @@
     "updatedAt": "2025-05-29T14:16:07.311Z"
   },
   {
-    "id": 85,
     "UserId": 1,
     "brand": "Porsche",
     "Type": "Taycan Turbo S Cross Turismo",
@@ -1725,7 +1603,6 @@
     "updatedAt": "2025-05-29T14:17:22.870Z"
   },
   {
-    "id": 133,
     "UserId": 1,
     "brand": "Mercedes-Maybach",
     "Type": "GLS 600 4MATIC",
@@ -1740,7 +1617,6 @@
     "updatedAt": "2025-05-29T14:19:32.203Z"
   },
   {
-    "id": 100,
     "UserId": 1,
     "brand": "Maserati",
     "Type": "Levante Modena S Q4",
@@ -1754,9 +1630,7 @@
     "createdAt": "2025-05-28T08:35:01.313Z",
     "updatedAt": "2025-05-29T14:20:08.420Z"
   },
-  {
-    "id": 7,
-    "UserId": 1,
+  {    "UserId": 1,
     "brand": "Toyota",
     "Type": "Agya 1.2 GR Sport CVT",
     "condition": "New",
@@ -1770,7 +1644,6 @@
     "updatedAt": "2025-05-29T14:27:51.841Z"
   },
   {
-    "id": 88,
     "UserId": 1,
     "brand": "Land Rover",
     "Type": "Range Rover P530 Autobiography LWB",
@@ -1785,7 +1658,6 @@
     "updatedAt": "2025-05-29T14:28:24.041Z"
   },
   {
-    "id": 63,
     "UserId": 1,
     "brand": "Mercedes-Benz",
     "Type": "A 200 Progressive Line Hatchback",
@@ -1799,9 +1671,7 @@
     "createdAt": "2025-05-28T08:35:01.313Z",
     "updatedAt": "2025-05-29T14:28:56.421Z"
   },
-  {
-    "id": 3,
-    "UserId": 1,
+  {    "UserId": 1,
     "brand": "Toyota",
     "Type": "Raize 1.0T GR Sport CVT TSS",
     "condition": "New",
@@ -1815,7 +1685,6 @@
     "updatedAt": "2025-05-29T14:31:03.364Z"
   },
   {
-    "id": 124,
     "UserId": 1,
     "brand": "Cadillac",
     "Type": "Escalade ESV Premium Luxury Platinum",
@@ -1830,7 +1699,6 @@
     "updatedAt": "2025-05-29T14:32:01.993Z"
   },
   {
-    "id": 105,
     "UserId": 1,
     "brand": "Ferrari",
     "Type": "Purosangue",
@@ -1845,7 +1713,6 @@
     "updatedAt": "2025-05-29T14:32:31.486Z"
   },
   {
-    "id": 60,
     "UserId": 1,
     "brand": "Mercedes-Benz",
     "Type": "EQS 450+ Electric Art Line",
@@ -1860,7 +1727,6 @@
     "updatedAt": "2025-05-29T14:32:54.229Z"
   },
   {
-    "id": 44,
     "UserId": 1,
     "brand": "Kia",
     "Type": "EV6 GT-Line",
@@ -1875,7 +1741,6 @@
     "updatedAt": "2025-05-29T14:36:31.050Z"
   },
   {
-    "id": 23,
     "UserId": 1,
     "brand": "Mitsubishi",
     "Type": "Pajero Sport Dakar Ultimate 4x4 AT",
@@ -1890,7 +1755,6 @@
     "updatedAt": "2025-05-29T14:36:52.643Z"
   },
   {
-    "id": 92,
     "UserId": 1,
     "brand": "Mini",
     "Type": "Cooper S 3-Door Resolute Edition",
@@ -1905,7 +1769,6 @@
     "updatedAt": "2025-05-29T14:37:10.223Z"
   },
   {
-    "id": 54,
     "UserId": 1,
     "brand": "Lexus",
     "Type": "LX 600 VIP",
@@ -1920,7 +1783,6 @@
     "updatedAt": "2025-05-29T14:39:17.152Z"
   },
   {
-    "id": 29,
     "UserId": 1,
     "brand": "Daihatsu",
     "Type": "Sigra 1.2 R AT DLX",
@@ -1935,7 +1797,6 @@
     "updatedAt": "2025-05-29T14:40:54.809Z"
   },
   {
-    "id": 90,
     "UserId": 1,
     "brand": "Land Rover",
     "Type": "Range Rover Sport P510e Autobiography (Plug-in Hybrid)",
@@ -1950,7 +1811,6 @@
     "updatedAt": "2025-05-29T14:42:54.237Z"
   },
   {
-    "id": 51,
     "UserId": 1,
     "brand": "Lexus",
     "Type": "RX 350h Luxury",
@@ -1965,7 +1825,6 @@
     "updatedAt": "2025-05-29T14:45:09.407Z"
   },
   {
-    "id": 67,
     "UserId": 1,
     "brand": "BMW",
     "Type": "iX xDrive50 Sport",
@@ -1980,7 +1839,6 @@
     "updatedAt": "2025-05-29T14:45:36.885Z"
   },
   {
-    "id": 114,
     "UserId": 1,
     "brand": "Rolls-Royce",
     "Type": "Spectre",
@@ -1995,7 +1853,6 @@
     "updatedAt": "2025-05-29T14:48:02.954Z"
   },
   {
-    "id": 122,
     "UserId": 1,
     "brand": "Rivian",
     "Type": "R1S Quad-Motor AWD Large Pack",
@@ -2010,7 +1867,6 @@
     "updatedAt": "2025-05-29T14:49:55.019Z"
   },
   {
-    "id": 120,
     "UserId": 1,
     "brand": "Tesla",
     "Type": "Model X Plaid",
@@ -2025,7 +1881,6 @@
     "updatedAt": "2025-05-29T16:35:09.053Z"
   },
   {
-    "id": 136,
     "UserId": 1,
     "brand": "Mercedes-Benz",
     "Type": "CLS-300",
