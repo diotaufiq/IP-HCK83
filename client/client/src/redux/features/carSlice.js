@@ -5,7 +5,7 @@ export const fetchCars = createAsyncThunk(
   'cars/fetchCars',
   async (_, { rejectWithValue }) => {
     try {
-      const response = await fetch('http://localhost:3000/cars');
+      const response = await fetch('https://gc1-phase2.diotaufiq.site/cars');
       const data = await response.json();
 
       if (!response.ok) {
@@ -30,7 +30,7 @@ export const createCar = createAsyncThunk(
   async (carData, { getState, rejectWithValue }) => {
     try {
       const { auth } = getState();
-      const response = await fetch('http://localhost:3000/cars', {
+      const response = await fetch('https://gc1-phase2.diotaufiq.site/cars', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
@@ -69,7 +69,7 @@ export const updateCar = createAsyncThunk(
   async ({ carId, carData }, { getState, rejectWithValue }) => {
     try {
       const { auth } = getState();
-      const response = await fetch(`http://localhost:3000/cars/${carId}`, {
+      const response = await fetch(`https://gc1-phase2.diotaufiq.site/cars/${carId}`, {
         method: 'PUT',
         headers: {
           'Content-Type': 'application/json',
@@ -107,7 +107,7 @@ export const fetchCategories = createAsyncThunk(
   'cars/fetchCategories',
   async (_, { rejectWithValue }) => {
     try {
-      const response = await fetch('http://localhost:3000/categories');
+      const response = await fetch('https://gc1-phase2.diotaufiq.site/categories');
       const data = await response.json();
 
       if (!response.ok) {

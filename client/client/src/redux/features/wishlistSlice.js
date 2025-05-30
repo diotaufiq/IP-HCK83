@@ -8,7 +8,7 @@ export const fetchWishlist = createAsyncThunk(
       const { auth } = getState();
       if (!auth.token) return [];
 
-      const response = await fetch('http://localhost:3000/wishlists', {
+      const response = await fetch('https://gc1-phase2.diotaufiq.site/wishlists', {
         headers: {
           Authorization: `Bearer ${auth.token}`,
         },
@@ -42,7 +42,7 @@ export const addToWishlist = createAsyncThunk(
         throw new Error('You must be logged in to add to wishlist');
       }
 
-      const response = await fetch(`http://localhost:3000/wishlists/${carId}`, {
+      const response = await fetch(`https://gc1-phase2.diotaufiq.site/wishlists/${carId}`, {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
@@ -88,7 +88,7 @@ export const removeFromWishlist = createAsyncThunk(
         throw new Error('You must be logged in to remove from wishlist');
       }
 
-      const response = await fetch(`http://localhost:3000/wishlists/${wishlistItemId}`, {
+      const response = await fetch(`https://gc1-phase2.diotaufiq.site/wishlists/${wishlistItemId}`, {
         method: 'DELETE',
         headers: {
           Authorization: `Bearer ${auth.token}`,

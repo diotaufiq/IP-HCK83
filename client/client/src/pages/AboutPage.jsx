@@ -1,6 +1,6 @@
 import React from 'react';
 import { Container, Row, Col, Card, Image } from 'react-bootstrap';
-import NavbarComponent from '../../../src/components/Navbar';
+import NavbarComponent from '../components/Navbar';
 
 const AboutPage = () => {
   return (

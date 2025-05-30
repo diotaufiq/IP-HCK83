@@ -2,8 +2,8 @@ import React, { useEffect, useState } from 'react';
 import { Container, Row, Col, Table, Button, Alert, Modal, Form } from 'react-bootstrap';
 import { useDispatch, useSelector } from 'react-redux';
 import { Link, useNavigate } from 'react-router-dom';
-import { fetchCars } from '../../../src/redux/features/carSlice';
-import NavbarComponent from '../../../src/components/Navbar';
+import { fetchCars } from '../redux/features/carSlice';
+import NavbarComponent from '../components/Navbar';
 import Swal from 'sweetalert2';
 
 const CarsManagePage = () => {
@@ -58,7 +58,7 @@ const CarsManagePage = () => {
         fileName: imageFile.name
       });
 
-      const response = await fetch(`http://localhost:3000/cars/${selectedCarId}`, {
+      const response = await fetch(`https://gc1-phase2.diotaufiq.site/cars/${selectedCarId}`, {
         method: 'PATCH',
         headers: {
           'Authorization': `Bearer ${token}`
@@ -114,7 +114,7 @@ const CarsManagePage = () => {
       setIsDeletingCar(carId);
       
       try {
-        const response = await fetch(`http://localhost:3000/cars/${carId}`, {
+        const response = await fetch(`https://gc1-phase2.diotaufiq.site/cars/${carId}`, {
           method: 'DELETE',
           headers: {
             'Authorization': `Bearer ${token}`

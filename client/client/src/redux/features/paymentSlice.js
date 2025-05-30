@@ -12,7 +12,7 @@ export const createCheckoutSession = createAsyncThunk(
       }
 
       console.log('Sending request with body:', { carId });
-      const response = await fetch('http://localhost:3000/payment/create-checkout-session', {
+      const response = await fetch('https://gc1-phase2.diotaufiq.site/payment/create-checkout-session', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',

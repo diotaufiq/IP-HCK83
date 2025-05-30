@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
 import { Container, Row, Col, Form, Button, Card, Alert, Spinner } from 'react-bootstrap';
 import { Link, useNavigate } from 'react-router-dom';
-import { login,googleLogin } from '../../../src/redux/features/authSlice';
+import { login, googleLogin } from '../redux/features/authSlice';
 import 'bootstrap-icons/font/bootstrap-icons.css';
 
 const LoginPage = () => {

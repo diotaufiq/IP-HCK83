@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { Form, Button, Row, Col, Card, Alert, Spinner } from 'react-bootstrap';
 import { useDispatch, useSelector } from 'react-redux';
-import { fetchCategories } from '../../../src/redux/features/carSlice';
+import { fetchCategories } from '../redux/features/carSlice';
 
 const CarForm = ({ initialData = null, onSubmit, isLoading = false }) => {
   const dispatch = useDispatch();

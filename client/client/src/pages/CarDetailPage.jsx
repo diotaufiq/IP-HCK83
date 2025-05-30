@@ -20,7 +20,7 @@ const CarDetailPage = () => {
   useEffect(() => {
     const fetchCarDetail = async () => {
       try {
-        const response = await fetch(`http://localhost:3000/cars/${carId}`);
+        const response = await fetch(`https://gc1-phase2.diotaufiq.site/cars/${carId}`);
         if (response.ok) {
           const carData = await response.json();
           setCar(carData);

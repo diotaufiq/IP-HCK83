@@ -1,9 +1,9 @@
 import React from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import { Provider } from 'react-redux';
-import { store } from '../../src/redux/store';
-import HomePage from '../../src/pages/HomePage';
-import CarDetailPage from '../../src/pages/CarDetailPage';
+import { store } from './redux/store';
+import HomePage from './pages/HomePage';
+import CarDetailPage from './pages/CarDetailPage';
 import LoginPage from './pages/LoginPage';
 import RegisterPage from './pages/RegisterPage';
 import CarFormPage from './pages/CarFormPage';
@@ -33,5 +33,4 @@ function App() {
     </Provider>
   );
 }
-
-export default App;
+export default App
