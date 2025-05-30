@@ -18,7 +18,7 @@ class WishlistController {
       });
 
       if (existingItem) {
-        throw { status: 400, message: 'Car already in wishlist' };
+      throw { status: 400, message: 'Car already in wishlist' };
       }
 
       // Create wishlist item

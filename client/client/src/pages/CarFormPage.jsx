@@ -2,9 +2,9 @@ import React, { useState, useEffect } from 'react';
 import { Container, Row, Col, Alert } from 'react-bootstrap';
 import { useDispatch, useSelector } from 'react-redux';
 import { useParams, useNavigate } from 'react-router-dom';
-import { createCar, updateCar, fetchCars } from '../../../src/redux/features/carSlice';
+import { createCar, updateCar, fetchCars } from '../redux/features/carSlice';
 import CarForm from '../components/CarForm';
-import NavbarComponent from '../../../src/components/Navbar';
+import NavbarComponent from '../components/Navbar';
 
 const CarFormPage = () => {
   const { carId } = useParams();

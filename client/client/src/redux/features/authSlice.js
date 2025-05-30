@@ -29,7 +29,7 @@ export const login = createAsyncThunk(
   'auth/login',
   async ({ email, password }, { rejectWithValue }) => {
     try {
-      const response = await fetch('http://localhost:3000/users/login', {
+      const response = await fetch('https://gc1-phase2.diotaufiq.site/users/login', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
@@ -67,7 +67,7 @@ export const googleLogin = createAsyncThunk(
   'auth/googleLogin',
   async (credential, { rejectWithValue }) => {
     try {
-      const response = await fetch('http://localhost:3000/users/google-login', {
+      const response = await fetch('https://gc1-phase2.diotaufiq.site/users/google-login', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
@@ -112,7 +112,7 @@ export const register = createAsyncThunk(
   'auth/register',
   async ({ username, email, password }, { rejectWithValue }) => {
     try {
-      const response = await fetch('http://localhost:3000/users/register', {
+      const response = await fetch('https://gc1-phase2.diotaufiq.site/users/register', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
