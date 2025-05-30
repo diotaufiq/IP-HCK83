@@ -58,7 +58,7 @@ const CarsManagePage = () => {
         fileName: imageFile.name
       });
 
-      const response = await fetch(`http://localhost:3000/cars/${selectedCarId}`, {
+      const response = await fetch(`https://gc1-phase2.diotaufiq.site/cars/${selectedCarId}`, {
         method: 'PATCH',
         headers: {
           'Authorization': `Bearer ${token}`
