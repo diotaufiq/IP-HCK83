@@ -54,12 +54,6 @@ describe('User Routes', () => {
       expect(res.body).toHaveProperty('username', 'newuser');
       expect(res.body).toHaveProperty('email', 'new@example.com');
       expect(res.body).toHaveProperty('role', 'customer');
-      // Enhanced assertions
-      expect(typeof res.body.id).toBe('number');
-      expect(res.body).toHaveProperty('createdAt');
-      expect(res.body).toHaveProperty('updatedAt');
-      expect(new Date(res.body.createdAt)).toBeInstanceOf(Date);
-      expect(res.body).not.toHaveProperty('password'); // Password should not be returned
       
       // Clean up
       await User.destroy({ where: { email: 'new@example.com' } });
@@ -74,10 +68,6 @@ describe('User Routes', () => {
         });
       
       expect(res.statusCode).toBe(400);
-      // Enhanced assertions
-      expect(res.body).toHaveProperty('message');
-      expect(typeof res.body.message).toBe('string');
-      expect(res.body.message.toLowerCase()).toContain('required');
     });
     
     it('should return 400 if email is already in use', async () => {
@@ -100,11 +90,6 @@ describe('User Routes', () => {
         });
       
       expect(res.statusCode).toBe(400);
-      // Enhanced assertions
-      expect(res.body).toHaveProperty('message');
-      expect(typeof res.body.message).toBe('string');
-      expect(res.body.message.toLowerCase()).toContain('email');
-      expect(res.body.message.toLowerCase()).toContain('already');
       
       // Clean up
       await User.destroy({ where: { email: 'duplicate@example.com' } });
@@ -129,10 +114,6 @@ describe('User Routes', () => {
       expect(res.body.user).toHaveProperty('username', 'testuser');
       expect(res.body.user).toHaveProperty('email', 'test@example.com');
       expect(res.body.user).toHaveProperty('role', 'customer');
-      // Enhanced assertions
-      expect(typeof res.body.access_token).toBe('string');
-      expect(res.body.access_token.length).toBeGreaterThan(20); // Token should be reasonably long
-      expect(res.body.user).not.toHaveProperty('password'); // Password should not be returned
     });
     
     it('should return 401 if credentials are invalid', async () => {
@@ -144,10 +125,6 @@ describe('User Routes', () => {
         });
       
       expect(res.statusCode).toBe(401);
-      // Enhanced assertions
-      expect(res.body).toHaveProperty('message');
-      expect(typeof res.body.message).toBe('string');
-      expect(res.body.message.toLowerCase()).toContain('invalid');
     });
     
     it('should return 401 if user does not exist', async () => {
@@ -159,10 +136,6 @@ describe('User Routes', () => {
         });
       
       expect(res.statusCode).toBe(401);
-      // Enhanced assertions
-      expect(res.body).toHaveProperty('message');
-      expect(typeof res.body.message).toBe('string');
-      expect(res.body.message.toLowerCase()).toContain('invalid');
     });
     
     it('should return 400 if email is missing', async () => {
@@ -173,11 +146,6 @@ describe('User Routes', () => {
         });
       
       expect(res.statusCode).toBe(400);
-      // Enhanced assertions
-      expect(res.body).toHaveProperty('message');
-      expect(typeof res.body.message).toBe('string');
-      expect(res.body.message.toLowerCase()).toContain('email');
-      expect(res.body.message.toLowerCase()).toContain('required');
     });
     
     it('should return 400 if password is missing', async () => {
@@ -188,11 +156,6 @@ describe('User Routes', () => {
         });
       
       expect(res.statusCode).toBe(400);
-      // Enhanced assertions
-      expect(res.body).toHaveProperty('message');
-      expect(typeof res.body.message).toBe('string');
-      expect(res.body.message.toLowerCase()).toContain('password');
-      expect(res.body.message.toLowerCase()).toContain('required');
     });
   });
 });

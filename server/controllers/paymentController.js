@@ -58,8 +58,8 @@ class PaymentController {
           },
         ],
         mode: 'payment',
-        success_url: `${process.env.CLIENT_URL || 'https://gc1-phase2.diotaufiq.site'}/payment/success?session_id={CHECKOUT_SESSION_ID}`,
-        cancel_url: `${process.env.CLIENT_URL || 'https://gc1-phase2.diotaufiq.site'}/?payment=cancelled`,
+        success_url: `${process.env.CLIENT_URL || 'http://localhost:5173'}/payment/success?session_id={CHECKOUT_SESSION_ID}`,
+        cancel_url: `${process.env.CLIENT_URL || 'http://localhost:5173'}/?payment=cancelled`,
         metadata: {
           carId: car.id,
           userId: userId
